@@ -1,4 +1,4 @@
-﻿可检测：34 个 tokenizer 家族（117 个模型共享，同族内部无法区分）
+可检测：34 个 tokenizer 家族（117 个模型共享，同族内部无法区分）
 
  1. [baichuan]  baichuan2-7b
  2. [llama]  codellama-7b
