@@ -1,0 +1,12427 @@
+{
+ "probes": [
+  "と呼ばれている",
+  "随着时间的推移",
+  "\"।",
+  "减少",
+  "<E",
+  "·",
+  "※",
+  "%。"
+ ],
+ "codes": {
+  "baichuan2-7b": [
+   7,
+   1,
+   2,
+   1,
+   2,
+   1,
+   1,
+   2
+  ],
+  "codellama-7b": [
+   10,
+   14,
+   2,
+   5,
+   1,
+   1,
+   4,
+   2
+  ],
+  "codestral-22b = mistral-7b-v0.1 = mixtral-8x22b = mixtral-8x7b = openchat-3.5 = zephyr-7b": [
+   8,
+   8,
+   2,
+   3,
+   2,
+   1,
+   2,
+   2
+  ],
+  "deepseek-coder-6.7b": [
+   13,
+   5,
+   3,
+   1,
+   2,
+   1,
+   2,
+   2
+  ],
+  "deepseek-coder-v2 = deepseek-v2-lite = deepseek-v2.5": [
+   9,
+   4,
+   3,
+   1,
+   2,
+   1,
+   2,
+   2
+  ],
+  "deepseek-r1 = deepseek-v3 = deepseek-v3.1 = deepseek-v4-flash = deepseek-v4-pro = deepseek-v4.1-flash = deepseek-vl2": [
+   3,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "ernie-4.5 = ernie-4.5-21b": [
+   5,
+   2,
+   2,
+   1,
+   2,
+   1,
+   1,
+   1
+  ],
+  "falcon-7b": [
+   9,
+   5,
+   3,
+   3,
+   2,
+   1,
+   2,
+   2
+  ],
+  "gemma-2-9b": [
+   2,
+   3,
+   1,
+   1,
+   2,
+   1,
+   1,
+   1
+  ],
+  "gemma-3-4b": [
+   2,
+   4,
+   1,
+   1,
+   2,
+   1,
+   1,
+   1
+  ],
+  "glm-4-32b-0414 = glm-4-9b-0414 = glm-4.1v-9b = glm-4.5 = glm-4.5-air = glm-4.5v = glm-4.6 = glm-z1-9b = glm-z1-rumination-32b": [
+   4,
+   2,
+   3,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "glm-5 = glm-5.1 = glm-5.2 = glm-5.3": [
+   4,
+   2,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "gpt2": [
+   9,
+   16,
+   3,
+   4,
+   2,
+   1,
+   2,
+   2
+  ],
+  "granite-3.1-8b": [
+   5,
+   6,
+   2,
+   2,
+   2,
+   1,
+   2,
+   2
+  ],
+  "hunyuan-7b = hunyuan-a13b": [
+   7,
+   3,
+   3,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "internlm2.5-7b": [
+   7,
+   2,
+   4,
+   1,
+   1,
+   1,
+   1,
+   2
+  ],
+  "internlm3-8b": [
+   11,
+   4,
+   4,
+   1,
+   2,
+   1,
+   1,
+   1
+  ],
+  "jamba-v0.1": [
+   7,
+   6,
+   2,
+   2,
+   2,
+   1,
+   1,
+   2
+  ],
+  "kimi-audio-7b": [
+   4,
+   4,
+   2,
+   1,
+   1,
+   1,
+   1,
+   2
+  ],
+  "kimi-dev-72b = qwen-vl = qwen1.5-7b = qwen2-7b = qwen2-vl-7b = qwen2.5-0.5b = qwen2.5-1.5b = qwen2.5-14b = qwen2.5-32b = qwen2.5-3b = qwen2.5-72b = qwen2.5-7b = qwen2.5-coder-32b = qwen2.5-coder-7b = qwen2.5-vl-72b = qwen3-0.6b = qwen3-1.7b = qwen3-14b = qwen3-235b-2507 = qwen3-235b-a22b = qwen3-30b-2507 = qwen3-30b-a3b = qwen3-32b = qwen3-4b = qwen3-8b = qwen3-coder-30b = qwen3-coder-480b = qwen3-next-80b = qwen3-vl-32b = qwen3-vl-8b": [
+   3,
+   4,
+   2,
+   1,
+   1,
+   1,
+   1,
+   2
+  ],
+  "kimi-k2 = kimi-k2-0905 = kimi-k2-base = kimi-k2-thinking = kimi-k2.5 = kimi-k2.6 = kimi-k2.7-code = kimi-linear-48b = kimi-vl = kimi-vl-2506 = kimi-vl-thinking = moonlight-16b": [
+   5,
+   1,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "llama-2-7b = phi-3-mini = phi-3.5-mini": [
+   10,
+   14,
+   2,
+   5,
+   2,
+   1,
+   4,
+   2
+  ],
+  "llama-3-8b = llama-3.1-8b = llama-3.2-3b = llama-3.3-70b = nemotron-70b": [
+   3,
+   6,
+   2,
+   2,
+   1,
+   1,
+   1,
+   2
+  ],
+  "minicpm4-8b": [
+   7,
+   5,
+   4,
+   2,
+   2,
+   1,
+   2,
+   2
+  ],
+  "minimax-m1 = minimax-m2": [
+   2,
+   2,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "ministral-8b = mistral-nemo = mistral-small-24b": [
+   1,
+   1,
+   2,
+   3,
+   1,
+   1,
+   1,
+   1
+  ],
+  "mistral-large-2411": [
+   7,
+   7,
+   2,
+   2,
+   2,
+   1,
+   1,
+   2
+  ],
+  "nemotron-mini": [
+   4,
+   5,
+   2,
+   2,
+   2,
+   1,
+   1,
+   2
+  ],
+  "olmo-2-7b = openai-cl100k = phi-4": [
+   8,
+   8,
+   3,
+   3,
+   1,
+   1,
+   1,
+   2
+  ],
+  "openai-o200k = phi-4-mini": [
+   5,
+   5,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "qwen3.5-27b = qwen3.5-9b = qwen3.6-27b": [
+   2,
+   1,
+   2,
+   1,
+   1,
+   1,
+   1,
+   2
+  ],
+  "starcoder2-3b = starcoder2-7b": [
+   5,
+   6,
+   2,
+   1,
+   2,
+   1,
+   2,
+   2
+  ],
+  "xverse-7b": [
+   6,
+   6,
+   2,
+   2,
+   2,
+   1,
+   1,
+   2
+  ],
+  "yi-1.5-9b = yi-34b = yi-coder-9b": [
+   9,
+   2,
+   4,
+   1,
+   2,
+   1,
+   3,
+   2
+  ]
+ },
+ "min_margin": 1,
+ "per_group": {
+  "baichuan2-7b": {
+   "probes": [
+    "一卫",
+    "一厨",
+    "一喷",
+    "一学",
+    "一岗",
+    "一建",
+    "一房",
+    "一捺"
+   ],
+   "codes": {
+    "baichuan2-7b": [
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1
+    ],
+    "codellama-7b": [
+     5,
+     5,
+     5,
+     3,
+     5,
+     3,
+     3,
+     5
+    ],
+    "codestral-22b = mistral-7b-v0.1 = mixtral-8x22b = mixtral-8x7b = openchat-3.5 = zephyr-7b": [
+     3,
+     5,
+     5,
+     3,
+     3,
+     3,
+     3,
+     5
+    ],
+    "deepseek-coder-6.7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     3
+    ],
+    "deepseek-coder-v2 = deepseek-v2-lite = deepseek-v2.5": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     3
+    ],
+    "deepseek-r1 = deepseek-v3 = deepseek-v3.1 = deepseek-v4-flash = deepseek-v4-pro = deepseek-v4.1-flash = deepseek-vl2": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "ernie-4.5 = ernie-4.5-21b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     4
+    ],
+    "falcon-7b": [
+     2,
+     3,
+     3,
+     2,
+     3,
+     2,
+     2,
+     3
+    ],
+    "gemma-2-9b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "gemma-3-4b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "glm-4-32b-0414 = glm-4-9b-0414 = glm-4.1v-9b = glm-4.5 = glm-4.5-air = glm-4.5v = glm-4.6 = glm-z1-9b = glm-z1-rumination-32b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     3
+    ],
+    "glm-5 = glm-5.1 = glm-5.2 = glm-5.3": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     3
+    ],
+    "gpt2": [
+     3,
+     3,
+     4,
+     3,
+     4,
+     4,
+     3,
+     4
+    ],
+    "granite-3.1-8b": [
+     3,
+     3,
+     3,
+     2,
+     3,
+     2,
+     2,
+     3
+    ],
+    "hunyuan-7b = hunyuan-a13b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "internlm2.5-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "internlm3-8b": [
+     2,
+     4,
+     2,
+     2,
+     2,
+     2,
+     2,
+     4
+    ],
+    "jamba-v0.1": [
+     2,
+     4,
+     4,
+     2,
+     4,
+     2,
+     2,
+     4
+    ],
+    "kimi-audio-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "kimi-dev-72b = qwen-vl = qwen1.5-7b = qwen2-7b = qwen2-vl-7b = qwen2.5-0.5b = qwen2.5-1.5b = qwen2.5-14b = qwen2.5-32b = qwen2.5-3b = qwen2.5-72b = qwen2.5-7b = qwen2.5-coder-32b = qwen2.5-coder-7b = qwen2.5-vl-72b = qwen3-0.6b = qwen3-1.7b = qwen3-14b = qwen3-235b-2507 = qwen3-235b-a22b = qwen3-30b-2507 = qwen3-30b-a3b = qwen3-32b = qwen3-4b = qwen3-8b = qwen3-coder-30b = qwen3-coder-480b = qwen3-next-80b = qwen3-vl-32b = qwen3-vl-8b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "kimi-k2 = kimi-k2-0905 = kimi-k2-base = kimi-k2-thinking = kimi-k2.5 = kimi-k2.6 = kimi-k2.7-code = kimi-linear-48b = kimi-vl = kimi-vl-2506 = kimi-vl-thinking = moonlight-16b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "llama-2-7b = phi-3-mini = phi-3.5-mini": [
+     5,
+     5,
+     5,
+     3,
+     5,
+     3,
+     3,
+     5
+    ],
+    "llama-3-8b = llama-3.1-8b = llama-3.2-3b = llama-3.3-70b = nemotron-70b": [
+     2,
+     3,
+     3,
+     2,
+     2,
+     2,
+     2,
+     3
+    ],
+    "minicpm4-8b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     4
+    ],
+    "minimax-m1 = minimax-m2": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "ministral-8b = mistral-nemo = mistral-small-24b": [
+     2,
+     3,
+     3,
+     2,
+     3,
+     2,
+     2,
+     3
+    ],
+    "mistral-large-2411": [
+     2,
+     4,
+     4,
+     2,
+     2,
+     2,
+     2,
+     4
+    ],
+    "nemotron-mini": [
+     2,
+     2,
+     4,
+     2,
+     2,
+     2,
+     2,
+     4
+    ],
+    "olmo-2-7b = openai-cl100k = phi-4": [
+     3,
+     3,
+     3,
+     2,
+     3,
+     2,
+     3,
+     3
+    ],
+    "openai-o200k = phi-4-mini": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     3
+    ],
+    "qwen3.5-27b = qwen3.5-9b = qwen3.6-27b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "starcoder2-3b = starcoder2-7b": [
+     3,
+     3,
+     3,
+     2,
+     3,
+     2,
+     2,
+     3
+    ],
+    "xverse-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "yi-1.5-9b = yi-34b = yi-coder-9b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     4
+    ]
+   },
+   "min_margin": 8
+  },
+  "codellama-7b": {
+   "probes": [
+    "※",
+    "<E",
+    "<M",
+    "·",
+    "%。",
+    "&s",
+    "'2",
+    "(*"
+   ],
+   "codes": {
+    "baichuan2-7b": [
+     1,
+     2,
+     2,
+     1,
+     2,
+     2,
+     2,
+     1
+    ],
+    "codellama-7b": [
+     4,
+     1,
+     1,
+     1,
+     2,
+     2,
+     2,
+     1
+    ],
+    "codestral-22b = mistral-7b-v0.1 = mixtral-8x22b = mixtral-8x7b = openchat-3.5 = zephyr-7b": [
+     2,
+     2,
+     2,
+     1,
+     2,
+     2,
+     2,
+     1
+    ],
+    "deepseek-coder-6.7b": [
+     2,
+     2,
+     2,
+     1,
+     2,
+     2,
+     2,
+     1
+    ],
+    "deepseek-coder-v2 = deepseek-v2-lite = deepseek-v2.5": [
+     2,
+     2,
+     2,
+     1,
+     2,
+     2,
+     2,
+     1
+    ],
+    "deepseek-r1 = deepseek-v3 = deepseek-v3.1 = deepseek-v4-flash = deepseek-v4-pro = deepseek-v4.1-flash = deepseek-vl2": [
+     1,
+     1,
+     2,
+     1,
+     1,
+     2,
+     2,
+     1
+    ],
+    "ernie-4.5 = ernie-4.5-21b": [
+     1,
+     2,
+     2,
+     1,
+     1,
+     2,
+     2,
+     1
+    ],
+    "falcon-7b": [
+     2,
+     2,
+     2,
+     1,
+     2,
+     2,
+     2,
+     1
+    ],
+    "gemma-2-9b": [
+     1,
+     2,
+     2,
+     1,
+     1,
+     2,
+     2,
+     1
+    ],
+    "gemma-3-4b": [
+     1,
+     2,
+     2,
+     1,
+     1,
+     2,
+     2,
+     1
+    ],
+    "glm-4-32b-0414 = glm-4-9b-0414 = glm-4.1v-9b = glm-4.5 = glm-4.5-air = glm-4.5v = glm-4.6 = glm-z1-9b = glm-z1-rumination-32b": [
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     2,
+     1
+    ],
+    "glm-5 = glm-5.1 = glm-5.2 = glm-5.3": [
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     2,
+     1
+    ],
+    "gpt2": [
+     2,
+     2,
+     2,
+     1,
+     2,
+     2,
+     2,
+     1
+    ],
+    "granite-3.1-8b": [
+     2,
+     2,
+     2,
+     1,
+     2,
+     2,
+     2,
+     1
+    ],
+    "hunyuan-7b = hunyuan-a13b": [
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     2,
+     1
+    ],
+    "internlm2.5-7b": [
+     1,
+     1,
+     1,
+     1,
+     2,
+     2,
+     2,
+     1
+    ],
+    "internlm3-8b": [
+     1,
+     2,
+     2,
+     1,
+     1,
+     2,
+     2,
+     1
+    ],
+    "jamba-v0.1": [
+     1,
+     2,
+     2,
+     1,
+     2,
+     2,
+     2,
+     1
+    ],
+    "kimi-audio-7b": [
+     1,
+     1,
+     1,
+     1,
+     2,
+     1,
+     2,
+     1
+    ],
+    "kimi-dev-72b = qwen-vl = qwen1.5-7b = qwen2-7b = qwen2-vl-7b = qwen2.5-0.5b = qwen2.5-1.5b = qwen2.5-14b = qwen2.5-32b = qwen2.5-3b = qwen2.5-72b = qwen2.5-7b = qwen2.5-coder-32b = qwen2.5-coder-7b = qwen2.5-vl-72b = qwen3-0.6b = qwen3-1.7b = qwen3-14b = qwen3-235b-2507 = qwen3-235b-a22b = qwen3-30b-2507 = qwen3-30b-a3b = qwen3-32b = qwen3-4b = qwen3-8b = qwen3-coder-30b = qwen3-coder-480b = qwen3-next-80b = qwen3-vl-32b = qwen3-vl-8b": [
+     1,
+     1,
+     1,
+     1,
+     2,
+     1,
+     2,
+     1
+    ],
+    "kimi-k2 = kimi-k2-0905 = kimi-k2-base = kimi-k2-thinking = kimi-k2.5 = kimi-k2.6 = kimi-k2.7-code = kimi-linear-48b = kimi-vl = kimi-vl-2506 = kimi-vl-thinking = moonlight-16b": [
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     2,
+     1
+    ],
+    "llama-2-7b = phi-3-mini = phi-3.5-mini": [
+     4,
+     2,
+     2,
+     1,
+     2,
+     2,
+     2,
+     1
+    ],
+    "llama-3-8b = llama-3.1-8b = llama-3.2-3b = llama-3.3-70b = nemotron-70b": [
+     1,
+     1,
+     1,
+     1,
+     2,
+     1,
+     2,
+     1
+    ],
+    "minicpm4-8b": [
+     2,
+     2,
+     2,
+     1,
+     2,
+     2,
+     2,
+     1
+    ],
+    "minimax-m1 = minimax-m2": [
+     1,
+     1,
+     1,
+     1,
+     1,
+     2,
+     2,
+     1
+    ],
+    "ministral-8b = mistral-nemo = mistral-small-24b": [
+     1,
+     1,
+     2,
+     1,
+     1,
+     2,
+     2,
+     1
+    ],
+    "mistral-large-2411": [
+     1,
+     2,
+     2,
+     1,
+     2,
+     2,
+     2,
+     1
+    ],
+    "nemotron-mini": [
+     1,
+     2,
+     2,
+     1,
+     2,
+     2,
+     2,
+     1
+    ],
+    "olmo-2-7b = openai-cl100k = phi-4": [
+     1,
+     1,
+     1,
+     1,
+     2,
+     1,
+     2,
+     1
+    ],
+    "openai-o200k = phi-4-mini": [
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     2,
+     1
+    ],
+    "qwen3.5-27b = qwen3.5-9b = qwen3.6-27b": [
+     1,
+     1,
+     1,
+     1,
+     2,
+     1,
+     2,
+     1
+    ],
+    "starcoder2-3b = starcoder2-7b": [
+     2,
+     2,
+     2,
+     1,
+     2,
+     2,
+     2,
+     1
+    ],
+    "xverse-7b": [
+     1,
+     2,
+     2,
+     1,
+     2,
+     2,
+     2,
+     2
+    ],
+    "yi-1.5-9b = yi-34b = yi-coder-9b": [
+     3,
+     2,
+     2,
+     1,
+     2,
+     2,
+     2,
+     1
+    ]
+   },
+   "min_margin": 2
+  },
+  "codestral-22b = mistral-7b-v0.1 = mixtral-8x22b = mixtral-8x7b = openchat-3.5 = zephyr-7b": {
+   "probes": [
+    "企业",
+    "ction",
+    "但嵌",
+    "一二",
+    "一组",
+    "丁戊",
+    "GROUP",
+    "信至"
+   ],
+   "codes": {
+    "baichuan2-7b": [
+     1,
+     1,
+     2,
+     1,
+     1,
+     2,
+     2,
+     2
+    ],
+    "codellama-7b": [
+     5,
+     2,
+     7,
+     3,
+     3,
+     5,
+     1,
+     5
+    ],
+    "codestral-22b = mistral-7b-v0.1 = mixtral-8x22b = mixtral-8x7b = openchat-3.5 = zephyr-7b": [
+     3,
+     3,
+     3,
+     3,
+     3,
+     5,
+     3,
+     3
+    ],
+    "deepseek-coder-6.7b": [
+     1,
+     1,
+     4,
+     2,
+     2,
+     3,
+     1,
+     2
+    ],
+    "deepseek-coder-v2 = deepseek-v2-lite = deepseek-v2.5": [
+     1,
+     1,
+     2,
+     1,
+     1,
+     2,
+     1,
+     2
+    ],
+    "deepseek-r1 = deepseek-v3 = deepseek-v3.1 = deepseek-v4-flash = deepseek-v4-pro = deepseek-v4.1-flash = deepseek-vl2": [
+     1,
+     1,
+     2,
+     1,
+     1,
+     2,
+     1,
+     2
+    ],
+    "ernie-4.5 = ernie-4.5-21b": [
+     1,
+     1,
+     2,
+     1,
+     1,
+     2,
+     1,
+     2
+    ],
+    "falcon-7b": [
+     4,
+     1,
+     6,
+     2,
+     2,
+     3,
+     1,
+     3
+    ],
+    "gemma-2-9b": [
+     1,
+     1,
+     2,
+     1,
+     2,
+     2,
+     1,
+     2
+    ],
+    "gemma-3-4b": [
+     1,
+     1,
+     2,
+     2,
+     1,
+     2,
+     1,
+     2
+    ],
+    "glm-4-32b-0414 = glm-4-9b-0414 = glm-4.1v-9b = glm-4.5 = glm-4.5-air = glm-4.5v = glm-4.6 = glm-z1-9b = glm-z1-rumination-32b": [
+     1,
+     1,
+     2,
+     1,
+     1,
+     2,
+     1,
+     2
+    ],
+    "glm-5 = glm-5.1 = glm-5.2 = glm-5.3": [
+     1,
+     1,
+     2,
+     1,
+     1,
+     2,
+     1,
+     2
+    ],
+    "gpt2": [
+     4,
+     1,
+     5,
+     3,
+     4,
+     4,
+     1,
+     5
+    ],
+    "granite-3.1-8b": [
+     1,
+     1,
+     3,
+     2,
+     2,
+     4,
+     1,
+     2
+    ],
+    "hunyuan-7b = hunyuan-a13b": [
+     1,
+     1,
+     2,
+     1,
+     1,
+     2,
+     1,
+     2
+    ],
+    "internlm2.5-7b": [
+     1,
+     1,
+     2,
+     1,
+     1,
+     2,
+     1,
+     2
+    ],
+    "internlm3-8b": [
+     1,
+     1,
+     2,
+     1,
+     2,
+     2,
+     3,
+     2
+    ],
+    "jamba-v0.1": [
+     2,
+     1,
+     4,
+     2,
+     2,
+     6,
+     1,
+     2
+    ],
+    "kimi-audio-7b": [
+     1,
+     1,
+     2,
+     1,
+     1,
+     2,
+     1,
+     2
+    ],
+    "kimi-dev-72b = qwen-vl = qwen1.5-7b = qwen2-7b = qwen2-vl-7b = qwen2.5-0.5b = qwen2.5-1.5b = qwen2.5-14b = qwen2.5-32b = qwen2.5-3b = qwen2.5-72b = qwen2.5-7b = qwen2.5-coder-32b = qwen2.5-coder-7b = qwen2.5-vl-72b = qwen3-0.6b = qwen3-1.7b = qwen3-14b = qwen3-235b-2507 = qwen3-235b-a22b = qwen3-30b-2507 = qwen3-30b-a3b = qwen3-32b = qwen3-4b = qwen3-8b = qwen3-coder-30b = qwen3-coder-480b = qwen3-next-80b = qwen3-vl-32b = qwen3-vl-8b": [
+     1,
+     1,
+     2,
+     1,
+     1,
+     2,
+     1,
+     2
+    ],
+    "kimi-k2 = kimi-k2-0905 = kimi-k2-base = kimi-k2-thinking = kimi-k2.5 = kimi-k2.6 = kimi-k2.7-code = kimi-linear-48b = kimi-vl = kimi-vl-2506 = kimi-vl-thinking = moonlight-16b": [
+     1,
+     1,
+     2,
+     1,
+     1,
+     2,
+     1,
+     2
+    ],
+    "llama-2-7b = phi-3-mini = phi-3.5-mini": [
+     5,
+     2,
+     7,
+     3,
+     3,
+     5,
+     1,
+     5
+    ],
+    "llama-3-8b = llama-3.1-8b = llama-3.2-3b = llama-3.3-70b = nemotron-70b": [
+     1,
+     1,
+     3,
+     2,
+     2,
+     3,
+     1,
+     2
+    ],
+    "minicpm4-8b": [
+     1,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     3
+    ],
+    "minimax-m1 = minimax-m2": [
+     1,
+     1,
+     2,
+     1,
+     1,
+     2,
+     1,
+     2
+    ],
+    "ministral-8b = mistral-nemo = mistral-small-24b": [
+     2,
+     1,
+     4,
+     2,
+     2,
+     3,
+     1,
+     2
+    ],
+    "mistral-large-2411": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     4,
+     1,
+     2
+    ],
+    "nemotron-mini": [
+     1,
+     2,
+     4,
+     2,
+     2,
+     4,
+     1,
+     2
+    ],
+    "olmo-2-7b = openai-cl100k = phi-4": [
+     2,
+     1,
+     4,
+     2,
+     2,
+     4,
+     1,
+     2
+    ],
+    "openai-o200k = phi-4-mini": [
+     1,
+     1,
+     4,
+     2,
+     2,
+     3,
+     1,
+     2
+    ],
+    "qwen3.5-27b = qwen3.5-9b = qwen3.6-27b": [
+     1,
+     1,
+     2,
+     1,
+     1,
+     2,
+     1,
+     2
+    ],
+    "starcoder2-3b = starcoder2-7b": [
+     1,
+     1,
+     3,
+     2,
+     2,
+     4,
+     1,
+     2
+    ],
+    "xverse-7b": [
+     1,
+     1,
+     2,
+     2,
+     2,
+     2,
+     4,
+     2
+    ],
+    "yi-1.5-9b = yi-34b = yi-coder-9b": [
+     1,
+     1,
+     2,
+     1,
+     1,
+     2,
+     2,
+     2
+    ]
+   },
+   "min_margin": 10
+  },
+  "deepseek-coder-6.7b": {
+   "probes": [
+    "丽莎",
+    "伊藤",
+    "“嗯",
+    "丽妮",
+    "伦敦",
+    "一種",
+    "下载",
+    "傳統"
+   ],
+   "codes": {
+    "baichuan2-7b": [
+     1,
+     1,
+     2,
+     2,
+     1,
+     2,
+     1,
+     2
+    ],
+    "codellama-7b": [
+     7,
+     3,
+     4,
+     7,
+     7,
+     5,
+     3,
+     7
+    ],
+    "codestral-22b = mistral-7b-v0.1 = mixtral-8x22b = mixtral-8x7b = openchat-3.5 = zephyr-7b": [
+     5,
+     3,
+     4,
+     5,
+     7,
+     3,
+     3,
+     3
+    ],
+    "deepseek-coder-6.7b": [
+     3,
+     3,
+     3,
+     3,
+     3,
+     3,
+     2,
+     5
+    ],
+    "deepseek-coder-v2 = deepseek-v2-lite = deepseek-v2.5": [
+     2,
+     2,
+     2,
+     2,
+     1,
+     3,
+     1,
+     4
+    ],
+    "deepseek-r1 = deepseek-v3 = deepseek-v3.1 = deepseek-v4-flash = deepseek-v4-pro = deepseek-v4.1-flash = deepseek-vl2": [
+     1,
+     2,
+     2,
+     2,
+     1,
+     1,
+     1,
+     1
+    ],
+    "ernie-4.5 = ernie-4.5-21b": [
+     1,
+     2,
+     2,
+     2,
+     1,
+     2,
+     1,
+     2
+    ],
+    "falcon-7b": [
+     4,
+     5,
+     3,
+     4,
+     5,
+     3,
+     3,
+     4
+    ],
+    "gemma-2-9b": [
+     2,
+     1,
+     2,
+     2,
+     1,
+     1,
+     1,
+     1
+    ],
+    "gemma-3-4b": [
+     2,
+     1,
+     2,
+     2,
+     1,
+     1,
+     1,
+     1
+    ],
+    "glm-4-32b-0414 = glm-4-9b-0414 = glm-4.1v-9b = glm-4.5 = glm-4.5-air = glm-4.5v = glm-4.6 = glm-z1-9b = glm-z1-rumination-32b": [
+     1,
+     1,
+     2,
+     2,
+     1,
+     2,
+     1,
+     2
+    ],
+    "glm-5 = glm-5.1 = glm-5.2 = glm-5.3": [
+     1,
+     1,
+     2,
+     2,
+     1,
+     2,
+     1,
+     2
+    ],
+    "gpt2": [
+     5,
+     5,
+     5,
+     4,
+     4,
+     4,
+     5,
+     5
+    ],
+    "granite-3.1-8b": [
+     4,
+     4,
+     4,
+     4,
+     4,
+     2,
+     1,
+     3
+    ],
+    "hunyuan-7b = hunyuan-a13b": [
+     1,
+     2,
+     2,
+     2,
+     1,
+     2,
+     1,
+     2
+    ],
+    "internlm2.5-7b": [
+     1,
+     2,
+     2,
+     2,
+     1,
+     1,
+     1,
+     1
+    ],
+    "internlm3-8b": [
+     2,
+     2,
+     2,
+     2,
+     4,
+     4,
+     1,
+     6
+    ],
+    "jamba-v0.1": [
+     6,
+     6,
+     4,
+     6,
+     6,
+     2,
+     2,
+     2
+    ],
+    "kimi-audio-7b": [
+     2,
+     2,
+     2,
+     2,
+     1,
+     1,
+     1,
+     1
+    ],
+    "kimi-dev-72b = qwen-vl = qwen1.5-7b = qwen2-7b = qwen2-vl-7b = qwen2.5-0.5b = qwen2.5-1.5b = qwen2.5-14b = qwen2.5-32b = qwen2.5-3b = qwen2.5-72b = qwen2.5-7b = qwen2.5-coder-32b = qwen2.5-coder-7b = qwen2.5-vl-72b = qwen3-0.6b = qwen3-1.7b = qwen3-14b = qwen3-235b-2507 = qwen3-235b-a22b = qwen3-30b-2507 = qwen3-30b-a3b = qwen3-32b = qwen3-4b = qwen3-8b = qwen3-coder-30b = qwen3-coder-480b = qwen3-next-80b = qwen3-vl-32b = qwen3-vl-8b": [
+     2,
+     2,
+     2,
+     2,
+     1,
+     1,
+     1,
+     1
+    ],
+    "kimi-k2 = kimi-k2-0905 = kimi-k2-base = kimi-k2-thinking = kimi-k2.5 = kimi-k2.6 = kimi-k2.7-code = kimi-linear-48b = kimi-vl = kimi-vl-2506 = kimi-vl-thinking = moonlight-16b": [
+     1,
+     1,
+     2,
+     1,
+     1,
+     2,
+     1,
+     3
+    ],
+    "llama-2-7b = phi-3-mini = phi-3.5-mini": [
+     7,
+     3,
+     4,
+     7,
+     7,
+     5,
+     3,
+     7
+    ],
+    "llama-3-8b = llama-3.1-8b = llama-3.2-3b = llama-3.3-70b = nemotron-70b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "minicpm4-8b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     1,
+     3
+    ],
+    "minimax-m1 = minimax-m2": [
+     1,
+     1,
+     1,
+     2,
+     1,
+     1,
+     1,
+     2
+    ],
+    "ministral-8b = mistral-nemo = mistral-small-24b": [
+     2,
+     2,
+     1,
+     3,
+     1,
+     2,
+     2,
+     3
+    ],
+    "mistral-large-2411": [
+     4,
+     2,
+     4,
+     4,
+     6,
+     2,
+     2,
+     2
+    ],
+    "nemotron-mini": [
+     4,
+     2,
+     4,
+     4,
+     2,
+     2,
+     1,
+     3
+    ],
+    "olmo-2-7b = openai-cl100k = phi-4": [
+     5,
+     5,
+     4,
+     5,
+     4,
+     3,
+     1,
+     5
+    ],
+    "openai-o200k = phi-4-mini": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "qwen3.5-27b = qwen3.5-9b = qwen3.6-27b": [
+     1,
+     2,
+     2,
+     2,
+     1,
+     1,
+     1,
+     1
+    ],
+    "starcoder2-3b = starcoder2-7b": [
+     4,
+     4,
+     4,
+     4,
+     4,
+     2,
+     1,
+     3
+    ],
+    "xverse-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "yi-1.5-9b = yi-34b = yi-coder-9b": [
+     2,
+     2,
+     2,
+     2,
+     1,
+     1,
+     1,
+     1
+    ]
+   },
+   "min_margin": 8
+  },
+  "deepseek-coder-v2 = deepseek-v2-lite = deepseek-v2.5": {
+   "probes": [
+    "助听",
+    "之間",
+    "称的",
+    "、開",
+    "华声",
+    "后赛",
+    "年間",
+    "一間"
+   ],
+   "codes": {
+    "baichuan2-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "codellama-7b": [
+     5,
+     3,
+     3,
+     3,
+     5,
+     5,
+     3,
+     3
+    ],
+    "codestral-22b = mistral-7b-v0.1 = mixtral-8x22b = mixtral-8x7b = openchat-3.5 = zephyr-7b": [
+     3,
+     3,
+     3,
+     3,
+     3,
+     3,
+     3,
+     3
+    ],
+    "deepseek-coder-6.7b": [
+     2,
+     4,
+     2,
+     4,
+     2,
+     2,
+     4,
+     4
+    ],
+    "deepseek-coder-v2 = deepseek-v2-lite = deepseek-v2.5": [
+     1,
+     3,
+     1,
+     3,
+     1,
+     1,
+     3,
+     3
+    ],
+    "deepseek-r1 = deepseek-v3 = deepseek-v3.1 = deepseek-v4-flash = deepseek-v4-pro = deepseek-v4.1-flash = deepseek-vl2": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "ernie-4.5 = ernie-4.5-21b": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "falcon-7b": [
+     2,
+     5,
+     2,
+     3,
+     2,
+     2,
+     5,
+     3
+    ],
+    "gemma-2-9b": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "gemma-3-4b": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "glm-4-32b-0414 = glm-4-9b-0414 = glm-4.1v-9b = glm-4.5 = glm-4.5-air = glm-4.5v = glm-4.6 = glm-z1-9b = glm-z1-rumination-32b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "glm-5 = glm-5.1 = glm-5.2 = glm-5.3": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "gpt2": [
+     4,
+     3,
+     4,
+     3,
+     4,
+     5,
+     4,
+     3
+    ],
+    "granite-3.1-8b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "hunyuan-7b = hunyuan-a13b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "internlm2.5-7b": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "internlm3-8b": [
+     2,
+     4,
+     2,
+     4,
+     2,
+     2,
+     4,
+     4
+    ],
+    "jamba-v0.1": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "kimi-audio-7b": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "kimi-dev-72b = qwen-vl = qwen1.5-7b = qwen2-7b = qwen2-vl-7b = qwen2.5-0.5b = qwen2.5-1.5b = qwen2.5-14b = qwen2.5-32b = qwen2.5-3b = qwen2.5-72b = qwen2.5-7b = qwen2.5-coder-32b = qwen2.5-coder-7b = qwen2.5-vl-72b = qwen3-0.6b = qwen3-1.7b = qwen3-14b = qwen3-235b-2507 = qwen3-235b-a22b = qwen3-30b-2507 = qwen3-30b-a3b = qwen3-32b = qwen3-4b = qwen3-8b = qwen3-coder-30b = qwen3-coder-480b = qwen3-next-80b = qwen3-vl-32b = qwen3-vl-8b": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "kimi-k2 = kimi-k2-0905 = kimi-k2-base = kimi-k2-thinking = kimi-k2.5 = kimi-k2.6 = kimi-k2.7-code = kimi-linear-48b = kimi-vl = kimi-vl-2506 = kimi-vl-thinking = moonlight-16b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "llama-2-7b = phi-3-mini = phi-3.5-mini": [
+     5,
+     3,
+     3,
+     3,
+     5,
+     5,
+     3,
+     3
+    ],
+    "llama-3-8b = llama-3.1-8b = llama-3.2-3b = llama-3.3-70b = nemotron-70b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "minicpm4-8b": [
+     3,
+     3,
+     3,
+     3,
+     2,
+     2,
+     2,
+     2
+    ],
+    "minimax-m1 = minimax-m2": [
+     2,
+     1,
+     1,
+     1,
+     2,
+     2,
+     1,
+     2
+    ],
+    "ministral-8b = mistral-nemo = mistral-small-24b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "mistral-large-2411": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "nemotron-mini": [
+     3,
+     3,
+     3,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "olmo-2-7b = openai-cl100k = phi-4": [
+     3,
+     2,
+     2,
+     2,
+     2,
+     3,
+     2,
+     2
+    ],
+    "openai-o200k = phi-4-mini": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "qwen3.5-27b = qwen3.5-9b = qwen3.6-27b": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     2,
+     1,
+     1
+    ],
+    "starcoder2-3b = starcoder2-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "xverse-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "yi-1.5-9b = yi-34b = yi-coder-9b": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ]
+   },
+   "min_margin": 8
+  },
+  "deepseek-r1 = deepseek-v3 = deepseek-v3.1 = deepseek-v4-flash = deepseek-v4-pro = deepseek-v4.1-flash = deepseek-vl2": {
+   "probes": [
+    "分词",
+    "一怔",
+    "一掌",
+    "印书馆",
+    "一絲",
+    "房中",
+    "一蹴",
+    "仁义"
+   ],
+   "codes": {
+    "baichuan2-7b": [
+     2,
+     2,
+     2,
+     3,
+     2,
+     2,
+     1,
+     1
+    ],
+    "codellama-7b": [
+     5,
+     5,
+     5,
+     8,
+     5,
+     3,
+     5,
+     3
+    ],
+    "codestral-22b = mistral-7b-v0.1 = mixtral-8x22b = mixtral-8x7b = openchat-3.5 = zephyr-7b": [
+     3,
+     5,
+     5,
+     4,
+     5,
+     3,
+     5,
+     3
+    ],
+    "deepseek-coder-6.7b": [
+     2,
+     3,
+     2,
+     3,
+     4,
+     2,
+     3,
+     2
+    ],
+    "deepseek-coder-v2 = deepseek-v2-lite = deepseek-v2.5": [
+     2,
+     3,
+     2,
+     3,
+     3,
+     2,
+     3,
+     2
+    ],
+    "deepseek-r1 = deepseek-v3 = deepseek-v3.1 = deepseek-v4-flash = deepseek-v4-pro = deepseek-v4.1-flash = deepseek-vl2": [
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     3,
+     1
+    ],
+    "ernie-4.5 = ernie-4.5-21b": [
+     2,
+     2,
+     2,
+     3,
+     4,
+     2,
+     4,
+     2
+    ],
+    "falcon-7b": [
+     2,
+     3,
+     2,
+     5,
+     3,
+     2,
+     3,
+     4
+    ],
+    "gemma-2-9b": [
+     2,
+     2,
+     2,
+     3,
+     2,
+     2,
+     2,
+     2
+    ],
+    "gemma-3-4b": [
+     2,
+     2,
+     2,
+     3,
+     2,
+     2,
+     2,
+     2
+    ],
+    "glm-4-32b-0414 = glm-4-9b-0414 = glm-4.1v-9b = glm-4.5 = glm-4.5-air = glm-4.5v = glm-4.6 = glm-z1-9b = glm-z1-rumination-32b": [
+     2,
+     2,
+     2,
+     3,
+     3,
+     2,
+     3,
+     2
+    ],
+    "glm-5 = glm-5.1 = glm-5.2 = glm-5.3": [
+     2,
+     2,
+     2,
+     3,
+     3,
+     2,
+     3,
+     2
+    ],
+    "gpt2": [
+     4,
+     3,
+     4,
+     7,
+     4,
+     3,
+     4,
+     4
+    ],
+    "granite-3.1-8b": [
+     2,
+     3,
+     3,
+     4,
+     3,
+     2,
+     4,
+     3
+    ],
+    "hunyuan-7b = hunyuan-a13b": [
+     2,
+     2,
+     2,
+     3,
+     2,
+     2,
+     2,
+     2
+    ],
+    "internlm2.5-7b": [
+     2,
+     2,
+     2,
+     3,
+     2,
+     2,
+     2,
+     2
+    ],
+    "internlm3-8b": [
+     2,
+     2,
+     2,
+     3,
+     4,
+     2,
+     4,
+     2
+    ],
+    "jamba-v0.1": [
+     2,
+     4,
+     4,
+     3,
+     4,
+     2,
+     4,
+     4
+    ],
+    "kimi-audio-7b": [
+     2,
+     2,
+     2,
+     3,
+     2,
+     2,
+     2,
+     2
+    ],
+    "kimi-dev-72b = qwen-vl = qwen1.5-7b = qwen2-7b = qwen2-vl-7b = qwen2.5-0.5b = qwen2.5-1.5b = qwen2.5-14b = qwen2.5-32b = qwen2.5-3b = qwen2.5-72b = qwen2.5-7b = qwen2.5-coder-32b = qwen2.5-coder-7b = qwen2.5-vl-72b = qwen3-0.6b = qwen3-1.7b = qwen3-14b = qwen3-235b-2507 = qwen3-235b-a22b = qwen3-30b-2507 = qwen3-30b-a3b = qwen3-32b = qwen3-4b = qwen3-8b = qwen3-coder-30b = qwen3-coder-480b = qwen3-next-80b = qwen3-vl-32b = qwen3-vl-8b": [
+     2,
+     2,
+     2,
+     3,
+     2,
+     2,
+     2,
+     2
+    ],
+    "kimi-k2 = kimi-k2-0905 = kimi-k2-base = kimi-k2-thinking = kimi-k2.5 = kimi-k2.6 = kimi-k2.7-code = kimi-linear-48b = kimi-vl = kimi-vl-2506 = kimi-vl-thinking = moonlight-16b": [
+     2,
+     2,
+     2,
+     3,
+     3,
+     1,
+     1,
+     1
+    ],
+    "llama-2-7b = phi-3-mini = phi-3.5-mini": [
+     5,
+     5,
+     5,
+     8,
+     5,
+     3,
+     5,
+     3
+    ],
+    "llama-3-8b = llama-3.1-8b = llama-3.2-3b = llama-3.3-70b = nemotron-70b": [
+     2,
+     3,
+     2,
+     3,
+     3,
+     2,
+     3,
+     2
+    ],
+    "minicpm4-8b": [
+     2,
+     4,
+     2,
+     4,
+     2,
+     3,
+     2,
+     3
+    ],
+    "minimax-m1 = minimax-m2": [
+     2,
+     2,
+     2,
+     3,
+     3,
+     2,
+     2,
+     2
+    ],
+    "ministral-8b = mistral-nemo = mistral-small-24b": [
+     2,
+     3,
+     3,
+     1,
+     3,
+     2,
+     4,
+     2
+    ],
+    "mistral-large-2411": [
+     2,
+     4,
+     4,
+     3,
+     4,
+     2,
+     4,
+     2
+    ],
+    "nemotron-mini": [
+     2,
+     4,
+     2,
+     3,
+     4,
+     2,
+     4,
+     2
+    ],
+    "olmo-2-7b = openai-cl100k = phi-4": [
+     3,
+     3,
+     3,
+     5,
+     3,
+     3,
+     4,
+     3
+    ],
+    "openai-o200k = phi-4-mini": [
+     2,
+     3,
+     2,
+     3,
+     2,
+     2,
+     3,
+     2
+    ],
+    "qwen3.5-27b = qwen3.5-9b = qwen3.6-27b": [
+     2,
+     2,
+     2,
+     3,
+     2,
+     2,
+     2,
+     2
+    ],
+    "starcoder2-3b = starcoder2-7b": [
+     2,
+     3,
+     3,
+     4,
+     3,
+     2,
+     4,
+     3
+    ],
+    "xverse-7b": [
+     2,
+     2,
+     2,
+     3,
+     2,
+     2,
+     2,
+     2
+    ],
+    "yi-1.5-9b = yi-34b = yi-coder-9b": [
+     2,
+     4,
+     2,
+     3,
+     2,
+     2,
+     4,
+     2
+    ]
+   },
+   "min_margin": 9
+  },
+  "ernie-4.5 = ernie-4.5-21b": {
+   "probes": [
+    "!@",
+    "#~",
+    "\\~",
+    "^&",
+    "^>",
+    "`>",
+    "gV",
+    "jL"
+   ],
+   "codes": {
+    "baichuan2-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "codellama-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "codestral-22b = mistral-7b-v0.1 = mixtral-8x22b = mixtral-8x7b = openchat-3.5 = zephyr-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "deepseek-coder-6.7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "deepseek-coder-v2 = deepseek-v2-lite = deepseek-v2.5": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "deepseek-r1 = deepseek-v3 = deepseek-v3.1 = deepseek-v4-flash = deepseek-v4-pro = deepseek-v4.1-flash = deepseek-vl2": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "ernie-4.5 = ernie-4.5-21b": [
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1
+    ],
+    "falcon-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "gemma-2-9b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "gemma-3-4b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "glm-4-32b-0414 = glm-4-9b-0414 = glm-4.1v-9b = glm-4.5 = glm-4.5-air = glm-4.5v = glm-4.6 = glm-z1-9b = glm-z1-rumination-32b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "glm-5 = glm-5.1 = glm-5.2 = glm-5.3": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "gpt2": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "granite-3.1-8b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "hunyuan-7b = hunyuan-a13b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "internlm2.5-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "internlm3-8b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "jamba-v0.1": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "kimi-audio-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "kimi-dev-72b = qwen-vl = qwen1.5-7b = qwen2-7b = qwen2-vl-7b = qwen2.5-0.5b = qwen2.5-1.5b = qwen2.5-14b = qwen2.5-32b = qwen2.5-3b = qwen2.5-72b = qwen2.5-7b = qwen2.5-coder-32b = qwen2.5-coder-7b = qwen2.5-vl-72b = qwen3-0.6b = qwen3-1.7b = qwen3-14b = qwen3-235b-2507 = qwen3-235b-a22b = qwen3-30b-2507 = qwen3-30b-a3b = qwen3-32b = qwen3-4b = qwen3-8b = qwen3-coder-30b = qwen3-coder-480b = qwen3-next-80b = qwen3-vl-32b = qwen3-vl-8b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "kimi-k2 = kimi-k2-0905 = kimi-k2-base = kimi-k2-thinking = kimi-k2.5 = kimi-k2.6 = kimi-k2.7-code = kimi-linear-48b = kimi-vl = kimi-vl-2506 = kimi-vl-thinking = moonlight-16b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "llama-2-7b = phi-3-mini = phi-3.5-mini": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "llama-3-8b = llama-3.1-8b = llama-3.2-3b = llama-3.3-70b = nemotron-70b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "minicpm4-8b": [
+     3,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "minimax-m1 = minimax-m2": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "ministral-8b = mistral-nemo = mistral-small-24b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "mistral-large-2411": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "nemotron-mini": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "olmo-2-7b = openai-cl100k = phi-4": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "openai-o200k = phi-4-mini": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "qwen3.5-27b = qwen3.5-9b = qwen3.6-27b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "starcoder2-3b = starcoder2-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "xverse-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "yi-1.5-9b = yi-34b = yi-coder-9b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ]
+   },
+   "min_margin": 8
+  },
+  "falcon-7b": {
+   "probes": [
+    "6年",
+    "久之",
+    "之法",
+    "九龍",
+    "作法",
+    "探针，覆",
+    "题在于，你",
+    "俱卢"
+   ],
+   "codes": {
+    "baichuan2-7b": [
+     2,
+     1,
+     1,
+     2,
+     2,
+     4,
+     4,
+     2
+    ],
+    "codellama-7b": [
+     3,
+     3,
+     3,
+     3,
+     3,
+     11,
+     6,
+     7
+    ],
+    "codestral-22b = mistral-7b-v0.1 = mixtral-8x22b = mixtral-8x7b = openchat-3.5 = zephyr-7b": [
+     3,
+     3,
+     3,
+     3,
+     3,
+     5,
+     6,
+     7
+    ],
+    "deepseek-coder-6.7b": [
+     2,
+     2,
+     2,
+     3,
+     2,
+     4,
+     4,
+     3
+    ],
+    "deepseek-coder-v2 = deepseek-v2-lite = deepseek-v2.5": [
+     2,
+     1,
+     2,
+     3,
+     2,
+     4,
+     4,
+     2
+    ],
+    "deepseek-r1 = deepseek-v3 = deepseek-v3.1 = deepseek-v4-flash = deepseek-v4-pro = deepseek-v4.1-flash = deepseek-vl2": [
+     2,
+     1,
+     1,
+     2,
+     1,
+     4,
+     4,
+     2
+    ],
+    "ernie-4.5 = ernie-4.5-21b": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     4,
+     4,
+     2
+    ],
+    "falcon-7b": [
+     4,
+     6,
+     6,
+     6,
+     6,
+     8,
+     9,
+     1
+    ],
+    "gemma-2-9b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     4,
+     4,
+     2
+    ],
+    "gemma-3-4b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     4,
+     4,
+     2
+    ],
+    "glm-4-32b-0414 = glm-4-9b-0414 = glm-4.1v-9b = glm-4.5 = glm-4.5-air = glm-4.5v = glm-4.6 = glm-z1-9b = glm-z1-rumination-32b": [
+     2,
+     1,
+     1,
+     3,
+     2,
+     4,
+     4,
+     2
+    ],
+    "glm-5 = glm-5.1 = glm-5.2 = glm-5.3": [
+     2,
+     1,
+     1,
+     3,
+     2,
+     4,
+     4,
+     2
+    ],
+    "gpt2": [
+     3,
+     3,
+     3,
+     3,
+     3,
+     11,
+     12,
+     4
+    ],
+    "granite-3.1-8b": [
+     2,
+     2,
+     2,
+     3,
+     2,
+     4,
+     5,
+     4
+    ],
+    "hunyuan-7b = hunyuan-a13b": [
+     2,
+     1,
+     1,
+     2,
+     2,
+     4,
+     4,
+     2
+    ],
+    "internlm2.5-7b": [
+     2,
+     1,
+     2,
+     1,
+     1,
+     4,
+     4,
+     2
+    ],
+    "internlm3-8b": [
+     2,
+     2,
+     2,
+     4,
+     2,
+     4,
+     4,
+     2
+    ],
+    "jamba-v0.1": [
+     2,
+     2,
+     2,
+     6,
+     2,
+     4,
+     5,
+     6
+    ],
+    "kimi-audio-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     4,
+     4,
+     2
+    ],
+    "kimi-dev-72b = qwen-vl = qwen1.5-7b = qwen2-7b = qwen2-vl-7b = qwen2.5-0.5b = qwen2.5-1.5b = qwen2.5-14b = qwen2.5-32b = qwen2.5-3b = qwen2.5-72b = qwen2.5-7b = qwen2.5-coder-32b = qwen2.5-coder-7b = qwen2.5-vl-72b = qwen3-0.6b = qwen3-1.7b = qwen3-14b = qwen3-235b-2507 = qwen3-235b-a22b = qwen3-30b-2507 = qwen3-30b-a3b = qwen3-32b = qwen3-4b = qwen3-8b = qwen3-coder-30b = qwen3-coder-480b = qwen3-next-80b = qwen3-vl-32b = qwen3-vl-8b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     4,
+     4,
+     2
+    ],
+    "kimi-k2 = kimi-k2-0905 = kimi-k2-base = kimi-k2-thinking = kimi-k2.5 = kimi-k2.6 = kimi-k2.7-code = kimi-linear-48b = kimi-vl = kimi-vl-2506 = kimi-vl-thinking = moonlight-16b": [
+     2,
+     1,
+     1,
+     3,
+     1,
+     4,
+     4,
+     2
+    ],
+    "llama-2-7b = phi-3-mini = phi-3.5-mini": [
+     3,
+     3,
+     3,
+     3,
+     3,
+     11,
+     6,
+     7
+    ],
+    "llama-3-8b = llama-3.1-8b = llama-3.2-3b = llama-3.3-70b = nemotron-70b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     4,
+     4,
+     3
+    ],
+    "minicpm4-8b": [
+     3,
+     3,
+     3,
+     3,
+     3,
+     5,
+     5,
+     3
+    ],
+    "minimax-m1 = minimax-m2": [
+     2,
+     1,
+     1,
+     2,
+     1,
+     4,
+     3,
+     2
+    ],
+    "ministral-8b = mistral-nemo = mistral-small-24b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     6,
+     4,
+     3
+    ],
+    "mistral-large-2411": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     4,
+     5,
+     6
+    ],
+    "nemotron-mini": [
+     3,
+     2,
+     3,
+     2,
+     3,
+     5,
+     5,
+     5
+    ],
+    "olmo-2-7b = openai-cl100k = phi-4": [
+     2,
+     3,
+     2,
+     4,
+     2,
+     7,
+     5,
+     4
+    ],
+    "openai-o200k = phi-4-mini": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     4,
+     4,
+     2
+    ],
+    "qwen3.5-27b = qwen3.5-9b = qwen3.6-27b": [
+     2,
+     1,
+     1,
+     2,
+     1,
+     3,
+     4,
+     2
+    ],
+    "starcoder2-3b = starcoder2-7b": [
+     2,
+     2,
+     2,
+     3,
+     2,
+     4,
+     5,
+     4
+    ],
+    "xverse-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     6,
+     7,
+     2
+    ],
+    "yi-1.5-9b = yi-34b = yi-coder-9b": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     4,
+     4,
+     2
+    ]
+   },
+   "min_margin": 22
+  },
+  "gemma-2-9b": {
+   "probes": [
+    "動戦士",
+    "主键",
+    "一応",
+    "叶修",
+    "合衆国",
+    "始化",
+    "志愿者",
+    "日上午"
+   ],
+   "codes": {
+    "baichuan2-7b": [
+     3,
+     2,
+     2,
+     2,
+     3,
+     2,
+     1,
+     1
+    ],
+    "codellama-7b": [
+     4,
+     5,
+     5,
+     5,
+     6,
+     3,
+     6,
+     6
+    ],
+    "codestral-22b = mistral-7b-v0.1 = mixtral-8x22b = mixtral-8x7b = openchat-3.5 = zephyr-7b": [
+     4,
+     3,
+     3,
+     3,
+     6,
+     3,
+     6,
+     4
+    ],
+    "deepseek-coder-6.7b": [
+     5,
+     2,
+     3,
+     2,
+     4,
+     2,
+     1,
+     2
+    ],
+    "deepseek-coder-v2 = deepseek-v2-lite = deepseek-v2.5": [
+     5,
+     2,
+     3,
+     2,
+     4,
+     2,
+     1,
+     1
+    ],
+    "deepseek-r1 = deepseek-v3 = deepseek-v3.1 = deepseek-v4-flash = deepseek-v4-pro = deepseek-v4.1-flash = deepseek-vl2": [
+     3,
+     2,
+     2,
+     2,
+     3,
+     2,
+     1,
+     1
+    ],
+    "ernie-4.5 = ernie-4.5-21b": [
+     3,
+     2,
+     4,
+     2,
+     5,
+     2,
+     1,
+     1
+    ],
+    "falcon-7b": [
+     5,
+     3,
+     3,
+     2,
+     5,
+     2,
+     3,
+     3
+    ],
+    "gemma-2-9b": [
+     2,
+     1,
+     1,
+     1,
+     2,
+     1,
+     2,
+     2
+    ],
+    "gemma-3-4b": [
+     3,
+     2,
+     2,
+     2,
+     3,
+     2,
+     1,
+     1
+    ],
+    "glm-4-32b-0414 = glm-4-9b-0414 = glm-4.1v-9b = glm-4.5 = glm-4.5-air = glm-4.5v = glm-4.6 = glm-z1-9b = glm-z1-rumination-32b": [
+     3,
+     2,
+     2,
+     2,
+     4,
+     2,
+     1,
+     1
+    ],
+    "glm-5 = glm-5.1 = glm-5.2 = glm-5.3": [
+     3,
+     2,
+     2,
+     2,
+     4,
+     2,
+     1,
+     1
+    ],
+    "gpt2": [
+     4,
+     5,
+     3,
+     4,
+     6,
+     4,
+     5,
+     5
+    ],
+    "granite-3.1-8b": [
+     4,
+     1,
+     2,
+     3,
+     4,
+     2,
+     4,
+     3
+    ],
+    "hunyuan-7b = hunyuan-a13b": [
+     3,
+     2,
+     3,
+     2,
+     4,
+     2,
+     1,
+     1
+    ],
+    "internlm2.5-7b": [
+     3,
+     2,
+     4,
+     2,
+     3,
+     2,
+     1,
+     1
+    ],
+    "internlm3-8b": [
+     7,
+     2,
+     4,
+     2,
+     5,
+     2,
+     3,
+     2
+    ],
+    "jamba-v0.1": [
+     5,
+     2,
+     2,
+     4,
+     5,
+     2,
+     5,
+     3
+    ],
+    "kimi-audio-7b": [
+     4,
+     2,
+     3,
+     1,
+     4,
+     2,
+     1,
+     1
+    ],
+    "kimi-dev-72b = qwen-vl = qwen1.5-7b = qwen2-7b = qwen2-vl-7b = qwen2.5-0.5b = qwen2.5-1.5b = qwen2.5-14b = qwen2.5-32b = qwen2.5-3b = qwen2.5-72b = qwen2.5-7b = qwen2.5-coder-32b = qwen2.5-coder-7b = qwen2.5-vl-72b = qwen3-0.6b = qwen3-1.7b = qwen3-14b = qwen3-235b-2507 = qwen3-235b-a22b = qwen3-30b-2507 = qwen3-30b-a3b = qwen3-32b = qwen3-4b = qwen3-8b = qwen3-coder-30b = qwen3-coder-480b = qwen3-next-80b = qwen3-vl-32b = qwen3-vl-8b": [
+     4,
+     2,
+     3,
+     1,
+     4,
+     2,
+     1,
+     1
+    ],
+    "kimi-k2 = kimi-k2-0905 = kimi-k2-base = kimi-k2-thinking = kimi-k2.5 = kimi-k2.6 = kimi-k2.7-code = kimi-linear-48b = kimi-vl = kimi-vl-2506 = kimi-vl-thinking = moonlight-16b": [
+     3,
+     2,
+     2,
+     2,
+     3,
+     2,
+     1,
+     1
+    ],
+    "llama-2-7b = phi-3-mini = phi-3.5-mini": [
+     4,
+     5,
+     5,
+     5,
+     6,
+     3,
+     6,
+     6
+    ],
+    "llama-3-8b = llama-3.1-8b = llama-3.2-3b = llama-3.3-70b = nemotron-70b": [
+     3,
+     2,
+     2,
+     2,
+     3,
+     2,
+     3,
+     3
+    ],
+    "minicpm4-8b": [
+     6,
+     2,
+     4,
+     2,
+     4,
+     3,
+     2,
+     2
+    ],
+    "minimax-m1 = minimax-m2": [
+     3,
+     2,
+     2,
+     2,
+     3,
+     2,
+     1,
+     1
+    ],
+    "ministral-8b = mistral-nemo = mistral-small-24b": [
+     1,
+     3,
+     1,
+     2,
+     1,
+     2,
+     3,
+     1
+    ],
+    "mistral-large-2411": [
+     3,
+     2,
+     2,
+     2,
+     5,
+     2,
+     5,
+     3
+    ],
+    "nemotron-mini": [
+     4,
+     2,
+     2,
+     2,
+     5,
+     3,
+     2,
+     2
+    ],
+    "olmo-2-7b = openai-cl100k = phi-4": [
+     5,
+     2,
+     3,
+     3,
+     4,
+     2,
+     4,
+     3
+    ],
+    "openai-o200k = phi-4-mini": [
+     3,
+     2,
+     2,
+     2,
+     4,
+     1,
+     3,
+     1
+    ],
+    "qwen3.5-27b = qwen3.5-9b = qwen3.6-27b": [
+     3,
+     2,
+     2,
+     2,
+     3,
+     2,
+     1,
+     1
+    ],
+    "starcoder2-3b = starcoder2-7b": [
+     4,
+     1,
+     2,
+     3,
+     4,
+     2,
+     4,
+     3
+    ],
+    "xverse-7b": [
+     3,
+     2,
+     2,
+     2,
+     3,
+     2,
+     3,
+     3
+    ],
+    "yi-1.5-9b = yi-34b = yi-coder-9b": [
+     5,
+     2,
+     4,
+     2,
+     5,
+     2,
+     1,
+     1
+    ]
+   },
+   "min_margin": 8
+  },
+  "gemma-3-4b": {
+   "probes": [
+    "的模型",
+    "月中旬",
+    "eniz",
+    "同的模型",
+    "乖乖",
+    "代引",
+    "一堆",
+    "的模型使"
+   ],
+   "codes": {
+    "baichuan2-7b": [
+     2,
+     1,
+     2,
+     3,
+     1,
+     2,
+     1,
+     3
+    ],
+    "codellama-7b": [
+     4,
+     6,
+     2,
+     5,
+     7,
+     3,
+     5,
+     5
+    ],
+    "codestral-22b = mistral-7b-v0.1 = mixtral-8x22b = mixtral-8x7b = openchat-3.5 = zephyr-7b": [
+     4,
+     6,
+     2,
+     5,
+     7,
+     3,
+     3,
+     5
+    ],
+    "deepseek-coder-6.7b": [
+     3,
+     4,
+     2,
+     4,
+     4,
+     2,
+     2,
+     4
+    ],
+    "deepseek-coder-v2 = deepseek-v2-lite = deepseek-v2.5": [
+     2,
+     1,
+     2,
+     3,
+     1,
+     2,
+     1,
+     3
+    ],
+    "deepseek-r1 = deepseek-v3 = deepseek-v3.1 = deepseek-v4-flash = deepseek-v4-pro = deepseek-v4.1-flash = deepseek-vl2": [
+     2,
+     1,
+     2,
+     3,
+     1,
+     2,
+     1,
+     3
+    ],
+    "ernie-4.5 = ernie-4.5-21b": [
+     2,
+     1,
+     2,
+     3,
+     1,
+     2,
+     1,
+     3
+    ],
+    "falcon-7b": [
+     3,
+     4,
+     2,
+     4,
+     6,
+     4,
+     2,
+     6
+    ],
+    "gemma-2-9b": [
+     2,
+     1,
+     2,
+     3,
+     1,
+     2,
+     1,
+     3
+    ],
+    "gemma-3-4b": [
+     1,
+     2,
+     1,
+     2,
+     2,
+     1,
+     2,
+     2
+    ],
+    "glm-4-32b-0414 = glm-4-9b-0414 = glm-4.1v-9b = glm-4.5 = glm-4.5-air = glm-4.5v = glm-4.6 = glm-z1-9b = glm-z1-rumination-32b": [
+     2,
+     1,
+     2,
+     3,
+     1,
+     2,
+     1,
+     3
+    ],
+    "glm-5 = glm-5.1 = glm-5.2 = glm-5.3": [
+     2,
+     1,
+     2,
+     3,
+     1,
+     2,
+     1,
+     3
+    ],
+    "gpt2": [
+     7,
+     5,
+     2,
+     9,
+     4,
+     3,
+     4,
+     8
+    ],
+    "granite-3.1-8b": [
+     2,
+     4,
+     2,
+     3,
+     4,
+     2,
+     2,
+     3
+    ],
+    "hunyuan-7b = hunyuan-a13b": [
+     2,
+     1,
+     2,
+     3,
+     1,
+     2,
+     1,
+     3
+    ],
+    "internlm2.5-7b": [
+     2,
+     1,
+     2,
+     3,
+     1,
+     2,
+     1,
+     3
+    ],
+    "internlm3-8b": [
+     2,
+     5,
+     2,
+     3,
+     6,
+     2,
+     2,
+     3
+    ],
+    "jamba-v0.1": [
+     3,
+     5,
+     2,
+     4,
+     6,
+     2,
+     2,
+     4
+    ],
+    "kimi-audio-7b": [
+     2,
+     1,
+     2,
+     3,
+     1,
+     2,
+     1,
+     3
+    ],
+    "kimi-dev-72b = qwen-vl = qwen1.5-7b = qwen2-7b = qwen2-vl-7b = qwen2.5-0.5b = qwen2.5-1.5b = qwen2.5-14b = qwen2.5-32b = qwen2.5-3b = qwen2.5-72b = qwen2.5-7b = qwen2.5-coder-32b = qwen2.5-coder-7b = qwen2.5-vl-72b = qwen3-0.6b = qwen3-1.7b = qwen3-14b = qwen3-235b-2507 = qwen3-235b-a22b = qwen3-30b-2507 = qwen3-30b-a3b = qwen3-32b = qwen3-4b = qwen3-8b = qwen3-coder-30b = qwen3-coder-480b = qwen3-next-80b = qwen3-vl-32b = qwen3-vl-8b": [
+     2,
+     1,
+     2,
+     3,
+     1,
+     2,
+     1,
+     3
+    ],
+    "kimi-k2 = kimi-k2-0905 = kimi-k2-base = kimi-k2-thinking = kimi-k2.5 = kimi-k2.6 = kimi-k2.7-code = kimi-linear-48b = kimi-vl = kimi-vl-2506 = kimi-vl-thinking = moonlight-16b": [
+     2,
+     1,
+     2,
+     3,
+     1,
+     2,
+     1,
+     3
+    ],
+    "llama-2-7b = phi-3-mini = phi-3.5-mini": [
+     4,
+     6,
+     2,
+     5,
+     7,
+     3,
+     5,
+     5
+    ],
+    "llama-3-8b = llama-3.1-8b = llama-3.2-3b = llama-3.3-70b = nemotron-70b": [
+     2,
+     4,
+     1,
+     3,
+     4,
+     2,
+     2,
+     3
+    ],
+    "minicpm4-8b": [
+     2,
+     3,
+     2,
+     4,
+     2,
+     3,
+     2,
+     3
+    ],
+    "minimax-m1 = minimax-m2": [
+     2,
+     1,
+     2,
+     3,
+     1,
+     2,
+     1,
+     3
+    ],
+    "ministral-8b = mistral-nemo = mistral-small-24b": [
+     3,
+     1,
+     2,
+     4,
+     4,
+     2,
+     3,
+     4
+    ],
+    "mistral-large-2411": [
+     3,
+     5,
+     2,
+     4,
+     6,
+     2,
+     2,
+     4
+    ],
+    "nemotron-mini": [
+     2,
+     5,
+     2,
+     3,
+     7,
+     2,
+     4,
+     3
+    ],
+    "olmo-2-7b = openai-cl100k = phi-4": [
+     3,
+     4,
+     2,
+     4,
+     4,
+     2,
+     3,
+     4
+    ],
+    "openai-o200k = phi-4-mini": [
+     2,
+     3,
+     2,
+     3,
+     4,
+     1,
+     3,
+     3
+    ],
+    "qwen3.5-27b = qwen3.5-9b = qwen3.6-27b": [
+     2,
+     1,
+     2,
+     3,
+     1,
+     2,
+     1,
+     3
+    ],
+    "starcoder2-3b = starcoder2-7b": [
+     2,
+     4,
+     2,
+     3,
+     4,
+     2,
+     2,
+     3
+    ],
+    "xverse-7b": [
+     3,
+     3,
+     2,
+     4,
+     2,
+     2,
+     2,
+     4
+    ],
+    "yi-1.5-9b = yi-34b = yi-coder-9b": [
+     2,
+     1,
+     2,
+     3,
+     1,
+     2,
+     1,
+     3
+    ]
+   },
+   "min_margin": 8
+  },
+  "glm-4-32b-0414 = glm-4-9b-0414 = glm-4.1v-9b = glm-4.5 = glm-4.5-air = glm-4.5v = glm-4.6 = glm-z1-9b = glm-z1-rumination-32b": {
+   "probes": [
+    "C罗",
+    "\"।",
+    "་བ",
+    "字形",
+    "·",
+    "※",
+    "%。",
+    ",🌍"
+   ],
+   "codes": {
+    "baichuan2-7b": [
+     2,
+     2,
+     1,
+     1,
+     1,
+     1,
+     2,
+     2
+    ],
+    "codellama-7b": [
+     4,
+     2,
+     3,
+     3,
+     1,
+     4,
+     2,
+     2
+    ],
+    "codestral-22b = mistral-7b-v0.1 = mixtral-8x22b = mixtral-8x7b = openchat-3.5 = zephyr-7b": [
+     2,
+     2,
+     3,
+     3,
+     1,
+     2,
+     2,
+     2
+    ],
+    "deepseek-coder-6.7b": [
+     2,
+     3,
+     6,
+     2,
+     1,
+     2,
+     2,
+     4
+    ],
+    "deepseek-coder-v2 = deepseek-v2-lite = deepseek-v2.5": [
+     2,
+     3,
+     5,
+     2,
+     1,
+     2,
+     2,
+     4
+    ],
+    "deepseek-r1 = deepseek-v3 = deepseek-v3.1 = deepseek-v4-flash = deepseek-v4-pro = deepseek-v4.1-flash = deepseek-vl2": [
+     2,
+     1,
+     2,
+     1,
+     1,
+     1,
+     1,
+     3
+    ],
+    "ernie-4.5 = ernie-4.5-21b": [
+     2,
+     2,
+     1,
+     1,
+     1,
+     1,
+     1,
+     5
+    ],
+    "falcon-7b": [
+     4,
+     3,
+     6,
+     4,
+     1,
+     2,
+     2,
+     3
+    ],
+    "gemma-2-9b": [
+     2,
+     1,
+     1,
+     2,
+     1,
+     1,
+     1,
+     2
+    ],
+    "gemma-3-4b": [
+     2,
+     1,
+     2,
+     2,
+     1,
+     1,
+     1,
+     2
+    ],
+    "glm-4-32b-0414 = glm-4-9b-0414 = glm-4.1v-9b = glm-4.5 = glm-4.5-air = glm-4.5v = glm-4.6 = glm-z1-9b = glm-z1-rumination-32b": [
+     1,
+     3,
+     4,
+     1,
+     1,
+     1,
+     1,
+     4
+    ],
+    "glm-5 = glm-5.1 = glm-5.2 = glm-5.3": [
+     1,
+     2,
+     2,
+     1,
+     1,
+     1,
+     1,
+     2
+    ],
+    "gpt2": [
+     4,
+     3,
+     5,
+     4,
+     1,
+     2,
+     2,
+     4
+    ],
+    "granite-3.1-8b": [
+     2,
+     2,
+     6,
+     2,
+     1,
+     2,
+     2,
+     3
+    ],
+    "hunyuan-7b = hunyuan-a13b": [
+     2,
+     3,
+     2,
+     1,
+     1,
+     1,
+     1,
+     3
+    ],
+    "internlm2.5-7b": [
+     2,
+     4,
+     2,
+     1,
+     1,
+     1,
+     2,
+     5
+    ],
+    "internlm3-8b": [
+     2,
+     4,
+     4,
+     2,
+     1,
+     1,
+     1,
+     5
+    ],
+    "jamba-v0.1": [
+     2,
+     2,
+     6,
+     2,
+     1,
+     1,
+     2,
+     5
+    ],
+    "kimi-audio-7b": [
+     2,
+     2,
+     2,
+     2,
+     1,
+     1,
+     2,
+     2
+    ],
+    "kimi-dev-72b = qwen-vl = qwen1.5-7b = qwen2-7b = qwen2-vl-7b = qwen2.5-0.5b = qwen2.5-1.5b = qwen2.5-14b = qwen2.5-32b = qwen2.5-3b = qwen2.5-72b = qwen2.5-7b = qwen2.5-coder-32b = qwen2.5-coder-7b = qwen2.5-vl-72b = qwen3-0.6b = qwen3-1.7b = qwen3-14b = qwen3-235b-2507 = qwen3-235b-a22b = qwen3-30b-2507 = qwen3-30b-a3b = qwen3-32b = qwen3-4b = qwen3-8b = qwen3-coder-30b = qwen3-coder-480b = qwen3-next-80b = qwen3-vl-32b = qwen3-vl-8b": [
+     2,
+     2,
+     2,
+     2,
+     1,
+     1,
+     2,
+     2
+    ],
+    "kimi-k2 = kimi-k2-0905 = kimi-k2-base = kimi-k2-thinking = kimi-k2.5 = kimi-k2.6 = kimi-k2.7-code = kimi-linear-48b = kimi-vl = kimi-vl-2506 = kimi-vl-thinking = moonlight-16b": [
+     2,
+     2,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1
+    ],
+    "llama-2-7b = phi-3-mini = phi-3.5-mini": [
+     4,
+     2,
+     3,
+     3,
+     1,
+     4,
+     2,
+     2
+    ],
+    "llama-3-8b = llama-3.1-8b = llama-3.2-3b = llama-3.3-70b = nemotron-70b": [
+     2,
+     2,
+     4,
+     2,
+     1,
+     1,
+     2,
+     4
+    ],
+    "minicpm4-8b": [
+     2,
+     4,
+     7,
+     3,
+     1,
+     2,
+     2,
+     2
+    ],
+    "minimax-m1 = minimax-m2": [
+     2,
+     2,
+     4,
+     2,
+     1,
+     1,
+     1,
+     3
+    ],
+    "ministral-8b = mistral-nemo = mistral-small-24b": [
+     2,
+     2,
+     5,
+     2,
+     1,
+     1,
+     1,
+     5
+    ],
+    "mistral-large-2411": [
+     2,
+     2,
+     2,
+     2,
+     1,
+     1,
+     2,
+     2
+    ],
+    "nemotron-mini": [
+     2,
+     2,
+     7,
+     3,
+     1,
+     1,
+     2,
+     5
+    ],
+    "olmo-2-7b = openai-cl100k = phi-4": [
+     3,
+     3,
+     4,
+     2,
+     1,
+     1,
+     2,
+     4
+    ],
+    "openai-o200k = phi-4-mini": [
+     2,
+     2,
+     2,
+     2,
+     1,
+     1,
+     1,
+     3
+    ],
+    "qwen3.5-27b = qwen3.5-9b = qwen3.6-27b": [
+     2,
+     2,
+     2,
+     1,
+     1,
+     1,
+     2,
+     4
+    ],
+    "starcoder2-3b = starcoder2-7b": [
+     2,
+     2,
+     6,
+     2,
+     1,
+     2,
+     2,
+     3
+    ],
+    "xverse-7b": [
+     2,
+     2,
+     2,
+     2,
+     1,
+     1,
+     2,
+     2
+    ],
+    "yi-1.5-9b = yi-34b = yi-coder-9b": [
+     2,
+     4,
+     6,
+     2,
+     1,
+     3,
+     2,
+     5
+    ]
+   },
+   "min_margin": 4
+  },
+  "glm-5 = glm-5.1 = glm-5.2 = glm-5.3": {
+   "probes": [
+    "C罗",
+    "\"।",
+    "·",
+    "※",
+    "%。",
+    ",🌍",
+    "詞表",
+    "&s"
+   ],
+   "codes": {
+    "baichuan2-7b": [
+     2,
+     2,
+     1,
+     1,
+     2,
+     2,
+     2,
+     2
+    ],
+    "codellama-7b": [
+     4,
+     2,
+     1,
+     4,
+     2,
+     2,
+     5,
+     2
+    ],
+    "codestral-22b = mistral-7b-v0.1 = mixtral-8x22b = mixtral-8x7b = openchat-3.5 = zephyr-7b": [
+     2,
+     2,
+     1,
+     2,
+     2,
+     2,
+     5,
+     2
+    ],
+    "deepseek-coder-6.7b": [
+     2,
+     3,
+     1,
+     2,
+     2,
+     4,
+     3,
+     2
+    ],
+    "deepseek-coder-v2 = deepseek-v2-lite = deepseek-v2.5": [
+     2,
+     3,
+     1,
+     2,
+     2,
+     4,
+     3,
+     2
+    ],
+    "deepseek-r1 = deepseek-v3 = deepseek-v3.1 = deepseek-v4-flash = deepseek-v4-pro = deepseek-v4.1-flash = deepseek-vl2": [
+     2,
+     1,
+     1,
+     1,
+     1,
+     3,
+     2,
+     2
+    ],
+    "ernie-4.5 = ernie-4.5-21b": [
+     2,
+     2,
+     1,
+     1,
+     1,
+     5,
+     2,
+     2
+    ],
+    "falcon-7b": [
+     4,
+     3,
+     1,
+     2,
+     2,
+     3,
+     4,
+     2
+    ],
+    "gemma-2-9b": [
+     2,
+     1,
+     1,
+     1,
+     1,
+     2,
+     2,
+     2
+    ],
+    "gemma-3-4b": [
+     2,
+     1,
+     1,
+     1,
+     1,
+     2,
+     2,
+     2
+    ],
+    "glm-4-32b-0414 = glm-4-9b-0414 = glm-4.1v-9b = glm-4.5 = glm-4.5-air = glm-4.5v = glm-4.6 = glm-z1-9b = glm-z1-rumination-32b": [
+     1,
+     3,
+     1,
+     1,
+     1,
+     4,
+     3,
+     1
+    ],
+    "glm-5 = glm-5.1 = glm-5.2 = glm-5.3": [
+     1,
+     2,
+     1,
+     1,
+     1,
+     2,
+     3,
+     1
+    ],
+    "gpt2": [
+     4,
+     3,
+     1,
+     2,
+     2,
+     4,
+     5,
+     2
+    ],
+    "granite-3.1-8b": [
+     2,
+     2,
+     1,
+     2,
+     2,
+     3,
+     3,
+     2
+    ],
+    "hunyuan-7b = hunyuan-a13b": [
+     2,
+     3,
+     1,
+     1,
+     1,
+     3,
+     2,
+     1
+    ],
+    "internlm2.5-7b": [
+     2,
+     4,
+     1,
+     1,
+     2,
+     5,
+     2,
+     2
+    ],
+    "internlm3-8b": [
+     2,
+     4,
+     1,
+     1,
+     1,
+     5,
+     2,
+     2
+    ],
+    "jamba-v0.1": [
+     2,
+     2,
+     1,
+     1,
+     2,
+     5,
+     2,
+     2
+    ],
+    "kimi-audio-7b": [
+     2,
+     2,
+     1,
+     1,
+     2,
+     2,
+     2,
+     1
+    ],
+    "kimi-dev-72b = qwen-vl = qwen1.5-7b = qwen2-7b = qwen2-vl-7b = qwen2.5-0.5b = qwen2.5-1.5b = qwen2.5-14b = qwen2.5-32b = qwen2.5-3b = qwen2.5-72b = qwen2.5-7b = qwen2.5-coder-32b = qwen2.5-coder-7b = qwen2.5-vl-72b = qwen3-0.6b = qwen3-1.7b = qwen3-14b = qwen3-235b-2507 = qwen3-235b-a22b = qwen3-30b-2507 = qwen3-30b-a3b = qwen3-32b = qwen3-4b = qwen3-8b = qwen3-coder-30b = qwen3-coder-480b = qwen3-next-80b = qwen3-vl-32b = qwen3-vl-8b": [
+     2,
+     2,
+     1,
+     1,
+     2,
+     2,
+     2,
+     1
+    ],
+    "kimi-k2 = kimi-k2-0905 = kimi-k2-base = kimi-k2-thinking = kimi-k2.5 = kimi-k2.6 = kimi-k2.7-code = kimi-linear-48b = kimi-vl = kimi-vl-2506 = kimi-vl-thinking = moonlight-16b": [
+     2,
+     2,
+     1,
+     1,
+     1,
+     1,
+     2,
+     1
+    ],
+    "llama-2-7b = phi-3-mini = phi-3.5-mini": [
+     4,
+     2,
+     1,
+     4,
+     2,
+     2,
+     5,
+     2
+    ],
+    "llama-3-8b = llama-3.1-8b = llama-3.2-3b = llama-3.3-70b = nemotron-70b": [
+     2,
+     2,
+     1,
+     1,
+     2,
+     4,
+     2,
+     1
+    ],
+    "minicpm4-8b": [
+     2,
+     4,
+     1,
+     2,
+     2,
+     2,
+     3,
+     2
+    ],
+    "minimax-m1 = minimax-m2": [
+     2,
+     2,
+     1,
+     1,
+     1,
+     3,
+     2,
+     2
+    ],
+    "ministral-8b = mistral-nemo = mistral-small-24b": [
+     2,
+     2,
+     1,
+     1,
+     1,
+     5,
+     2,
+     2
+    ],
+    "mistral-large-2411": [
+     2,
+     2,
+     1,
+     1,
+     2,
+     2,
+     4,
+     2
+    ],
+    "nemotron-mini": [
+     2,
+     2,
+     1,
+     1,
+     2,
+     5,
+     5,
+     2
+    ],
+    "olmo-2-7b = openai-cl100k = phi-4": [
+     3,
+     3,
+     1,
+     1,
+     2,
+     4,
+     3,
+     1
+    ],
+    "openai-o200k = phi-4-mini": [
+     2,
+     2,
+     1,
+     1,
+     1,
+     3,
+     2,
+     1
+    ],
+    "qwen3.5-27b = qwen3.5-9b = qwen3.6-27b": [
+     2,
+     2,
+     1,
+     1,
+     2,
+     4,
+     2,
+     1
+    ],
+    "starcoder2-3b = starcoder2-7b": [
+     2,
+     2,
+     1,
+     2,
+     2,
+     3,
+     3,
+     2
+    ],
+    "xverse-7b": [
+     2,
+     2,
+     1,
+     1,
+     2,
+     2,
+     2,
+     2
+    ],
+    "yi-1.5-9b = yi-34b = yi-coder-9b": [
+     2,
+     4,
+     1,
+     3,
+     2,
+     5,
+     2,
+     2
+    ]
+   },
+   "min_margin": 3
+  },
+  "gpt2": {
+   "probes": [
+    "、居",
+    "模型接口，",
+    "科技有限公司",
+    "个节点，再",
+    "信息越多，",
+    "模型接口",
+    "型接口，然",
+    "确认对面"
+   ],
+   "codes": {
+    "baichuan2-7b": [
+     2,
+     3,
+     1,
+     4,
+     3,
+     2,
+     4,
+     2
+    ],
+    "codellama-7b": [
+     3,
+     6,
+     7,
+     6,
+     6,
+     5,
+     6,
+     5
+    ],
+    "codestral-22b = mistral-7b-v0.1 = mixtral-8x22b = mixtral-8x7b = openchat-3.5 = zephyr-7b": [
+     3,
+     6,
+     7,
+     6,
+     6,
+     5,
+     6,
+     5
+    ],
+    "deepseek-coder-6.7b": [
+     2,
+     5,
+     2,
+     5,
+     4,
+     4,
+     5,
+     3
+    ],
+    "deepseek-coder-v2 = deepseek-v2-lite = deepseek-v2.5": [
+     2,
+     3,
+     1,
+     4,
+     3,
+     2,
+     4,
+     2
+    ],
+    "deepseek-r1 = deepseek-v3 = deepseek-v3.1 = deepseek-v4-flash = deepseek-v4-pro = deepseek-v4.1-flash = deepseek-vl2": [
+     2,
+     3,
+     1,
+     4,
+     3,
+     2,
+     4,
+     2
+    ],
+    "ernie-4.5 = ernie-4.5-21b": [
+     2,
+     3,
+     1,
+     4,
+     3,
+     2,
+     4,
+     2
+    ],
+    "falcon-7b": [
+     2,
+     7,
+     5,
+     8,
+     6,
+     4,
+     7,
+     5
+    ],
+    "gemma-2-9b": [
+     2,
+     3,
+     2,
+     4,
+     3,
+     2,
+     4,
+     2
+    ],
+    "gemma-3-4b": [
+     2,
+     3,
+     1,
+     4,
+     3,
+     2,
+     4,
+     2
+    ],
+    "glm-4-32b-0414 = glm-4-9b-0414 = glm-4.1v-9b = glm-4.5 = glm-4.5-air = glm-4.5v = glm-4.6 = glm-z1-9b = glm-z1-rumination-32b": [
+     2,
+     3,
+     1,
+     4,
+     3,
+     2,
+     4,
+     2
+    ],
+    "glm-5 = glm-5.1 = glm-5.2 = glm-5.3": [
+     2,
+     3,
+     1,
+     4,
+     3,
+     2,
+     4,
+     2
+    ],
+    "gpt2": [
+     4,
+     14,
+     15,
+     13,
+     13,
+     11,
+     13,
+     11
+    ],
+    "granite-3.1-8b": [
+     2,
+     3,
+     5,
+     4,
+     4,
+     2,
+     4,
+     3
+    ],
+    "hunyuan-7b = hunyuan-a13b": [
+     2,
+     3,
+     1,
+     4,
+     3,
+     2,
+     4,
+     2
+    ],
+    "internlm2.5-7b": [
+     2,
+     3,
+     1,
+     4,
+     3,
+     2,
+     4,
+     2
+    ],
+    "internlm3-8b": [
+     2,
+     3,
+     1,
+     4,
+     4,
+     2,
+     4,
+     3
+    ],
+    "jamba-v0.1": [
+     2,
+     5,
+     6,
+     5,
+     4,
+     4,
+     5,
+     4
+    ],
+    "kimi-audio-7b": [
+     2,
+     3,
+     2,
+     4,
+     3,
+     2,
+     4,
+     2
+    ],
+    "kimi-dev-72b = qwen-vl = qwen1.5-7b = qwen2-7b = qwen2-vl-7b = qwen2.5-0.5b = qwen2.5-1.5b = qwen2.5-14b = qwen2.5-32b = qwen2.5-3b = qwen2.5-72b = qwen2.5-7b = qwen2.5-coder-32b = qwen2.5-coder-7b = qwen2.5-vl-72b = qwen3-0.6b = qwen3-1.7b = qwen3-14b = qwen3-235b-2507 = qwen3-235b-a22b = qwen3-30b-2507 = qwen3-30b-a3b = qwen3-32b = qwen3-4b = qwen3-8b = qwen3-coder-30b = qwen3-coder-480b = qwen3-next-80b = qwen3-vl-32b = qwen3-vl-8b": [
+     2,
+     3,
+     2,
+     4,
+     3,
+     2,
+     4,
+     2
+    ],
+    "kimi-k2 = kimi-k2-0905 = kimi-k2-base = kimi-k2-thinking = kimi-k2.5 = kimi-k2.6 = kimi-k2.7-code = kimi-linear-48b = kimi-vl = kimi-vl-2506 = kimi-vl-thinking = moonlight-16b": [
+     2,
+     3,
+     1,
+     4,
+     3,
+     2,
+     4,
+     2
+    ],
+    "llama-2-7b = phi-3-mini = phi-3.5-mini": [
+     3,
+     6,
+     7,
+     6,
+     6,
+     5,
+     6,
+     5
+    ],
+    "llama-3-8b = llama-3.1-8b = llama-3.2-3b = llama-3.3-70b = nemotron-70b": [
+     2,
+     4,
+     1,
+     3,
+     4,
+     3,
+     5,
+     3
+    ],
+    "minicpm4-8b": [
+     3,
+     4,
+     2,
+     4,
+     4,
+     3,
+     5,
+     3
+    ],
+    "minimax-m1 = minimax-m2": [
+     2,
+     3,
+     1,
+     3,
+     3,
+     2,
+     3,
+     2
+    ],
+    "ministral-8b = mistral-nemo = mistral-small-24b": [
+     2,
+     5,
+     5,
+     5,
+     5,
+     4,
+     5,
+     4
+    ],
+    "mistral-large-2411": [
+     2,
+     5,
+     6,
+     5,
+     5,
+     4,
+     5,
+     4
+    ],
+    "nemotron-mini": [
+     2,
+     4,
+     2,
+     4,
+     4,
+     3,
+     4,
+     4
+    ],
+    "olmo-2-7b = openai-cl100k = phi-4": [
+     3,
+     5,
+     5,
+     4,
+     5,
+     4,
+     5,
+     3
+    ],
+    "openai-o200k = phi-4-mini": [
+     2,
+     3,
+     2,
+     3,
+     4,
+     2,
+     4,
+     3
+    ],
+    "qwen3.5-27b = qwen3.5-9b = qwen3.6-27b": [
+     2,
+     3,
+     1,
+     4,
+     3,
+     2,
+     4,
+     2
+    ],
+    "starcoder2-3b = starcoder2-7b": [
+     2,
+     3,
+     5,
+     4,
+     4,
+     2,
+     4,
+     3
+    ],
+    "xverse-7b": [
+     2,
+     7,
+     2,
+     7,
+     6,
+     4,
+     7,
+     4
+    ],
+    "yi-1.5-9b = yi-34b = yi-coder-9b": [
+     2,
+     3,
+     1,
+     4,
+     3,
+     2,
+     4,
+     2
+    ]
+   },
+   "min_margin": 50
+  },
+  "granite-3.1-8b": {
+   "probes": [
+    "(税",
+    "减少",
+    "东湖",
+    "1月",
+    "缓存减少",
+    "五湖",
+    "湖北",
+    "用缓存减少"
+   ],
+   "codes": {
+    "baichuan2-7b": [
+     2,
+     1,
+     1,
+     2,
+     2,
+     1,
+     1,
+     3
+    ],
+    "codellama-7b": [
+     4,
+     5,
+     3,
+     3,
+     9,
+     3,
+     3,
+     10
+    ],
+    "codestral-22b = mistral-7b-v0.1 = mixtral-8x22b = mixtral-8x7b = openchat-3.5 = zephyr-7b": [
+     4,
+     3,
+     3,
+     3,
+     5,
+     3,
+     3,
+     6
+    ],
+    "deepseek-coder-6.7b": [
+     2,
+     1,
+     2,
+     2,
+     3,
+     2,
+     1,
+     4
+    ],
+    "deepseek-coder-v2 = deepseek-v2-lite = deepseek-v2.5": [
+     2,
+     1,
+     2,
+     2,
+     3,
+     2,
+     1,
+     4
+    ],
+    "deepseek-r1 = deepseek-v3 = deepseek-v3.1 = deepseek-v4-flash = deepseek-v4-pro = deepseek-v4.1-flash = deepseek-vl2": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     2,
+     1,
+     3
+    ],
+    "ernie-4.5 = ernie-4.5-21b": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     2,
+     1,
+     3
+    ],
+    "falcon-7b": [
+     2,
+     3,
+     4,
+     2,
+     7,
+     4,
+     4,
+     8
+    ],
+    "gemma-2-9b": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     2,
+     1,
+     3
+    ],
+    "gemma-3-4b": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     2,
+     1,
+     3
+    ],
+    "glm-4-32b-0414 = glm-4-9b-0414 = glm-4.1v-9b = glm-4.5 = glm-4.5-air = glm-4.5v = glm-4.6 = glm-z1-9b = glm-z1-rumination-32b": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     2,
+     1,
+     3
+    ],
+    "glm-5 = glm-5.1 = glm-5.2 = glm-5.3": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     2,
+     1,
+     3
+    ],
+    "gpt2": [
+     4,
+     4,
+     5,
+     3,
+     9,
+     4,
+     5,
+     11
+    ],
+    "granite-3.1-8b": [
+     3,
+     2,
+     3,
+     2,
+     3,
+     3,
+     3,
+     4
+    ],
+    "hunyuan-7b = hunyuan-a13b": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     2,
+     1,
+     3
+    ],
+    "internlm2.5-7b": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     2,
+     1,
+     3
+    ],
+    "internlm3-8b": [
+     2,
+     1,
+     2,
+     2,
+     3,
+     2,
+     1,
+     4
+    ],
+    "jamba-v0.1": [
+     4,
+     2,
+     4,
+     2,
+     4,
+     4,
+     4,
+     5
+    ],
+    "kimi-audio-7b": [
+     2,
+     1,
+     2,
+     2,
+     3,
+     2,
+     1,
+     4
+    ],
+    "kimi-dev-72b = qwen-vl = qwen1.5-7b = qwen2-7b = qwen2-vl-7b = qwen2.5-0.5b = qwen2.5-1.5b = qwen2.5-14b = qwen2.5-32b = qwen2.5-3b = qwen2.5-72b = qwen2.5-7b = qwen2.5-coder-32b = qwen2.5-coder-7b = qwen2.5-vl-72b = qwen3-0.6b = qwen3-1.7b = qwen3-14b = qwen3-235b-2507 = qwen3-235b-a22b = qwen3-30b-2507 = qwen3-30b-a3b = qwen3-32b = qwen3-4b = qwen3-8b = qwen3-coder-30b = qwen3-coder-480b = qwen3-next-80b = qwen3-vl-32b = qwen3-vl-8b": [
+     2,
+     1,
+     2,
+     2,
+     3,
+     2,
+     1,
+     4
+    ],
+    "kimi-k2 = kimi-k2-0905 = kimi-k2-base = kimi-k2-thinking = kimi-k2.5 = kimi-k2.6 = kimi-k2.7-code = kimi-linear-48b = kimi-vl = kimi-vl-2506 = kimi-vl-thinking = moonlight-16b": [
+     2,
+     1,
+     1,
+     2,
+     2,
+     1,
+     1,
+     3
+    ],
+    "llama-2-7b = phi-3-mini = phi-3.5-mini": [
+     4,
+     5,
+     3,
+     3,
+     9,
+     3,
+     3,
+     10
+    ],
+    "llama-3-8b = llama-3.1-8b = llama-3.2-3b = llama-3.3-70b = nemotron-70b": [
+     2,
+     2,
+     2,
+     2,
+     4,
+     2,
+     2,
+     5
+    ],
+    "minicpm4-8b": [
+     2,
+     2,
+     2,
+     3,
+     3,
+     2,
+     2,
+     3
+    ],
+    "minimax-m1 = minimax-m2": [
+     1,
+     1,
+     2,
+     2,
+     2,
+     2,
+     1,
+     3
+    ],
+    "ministral-8b = mistral-nemo = mistral-small-24b": [
+     2,
+     3,
+     2,
+     2,
+     6,
+     2,
+     2,
+     7
+    ],
+    "mistral-large-2411": [
+     4,
+     2,
+     2,
+     2,
+     4,
+     2,
+     2,
+     5
+    ],
+    "nemotron-mini": [
+     2,
+     2,
+     2,
+     3,
+     4,
+     2,
+     1,
+     4
+    ],
+    "olmo-2-7b = openai-cl100k = phi-4": [
+     2,
+     3,
+     3,
+     2,
+     6,
+     3,
+     3,
+     7
+    ],
+    "openai-o200k = phi-4-mini": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     2,
+     1,
+     3
+    ],
+    "qwen3.5-27b = qwen3.5-9b = qwen3.6-27b": [
+     2,
+     1,
+     1,
+     2,
+     2,
+     2,
+     1,
+     3
+    ],
+    "starcoder2-3b = starcoder2-7b": [
+     3,
+     1,
+     2,
+     2,
+     2,
+     2,
+     2,
+     3
+    ],
+    "xverse-7b": [
+     2,
+     2,
+     2,
+     2,
+     4,
+     2,
+     2,
+     5
+    ],
+    "yi-1.5-9b = yi-34b = yi-coder-9b": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     2,
+     1,
+     3
+    ]
+   },
+   "min_margin": 6
+  },
+  "hunyuan-7b = hunyuan-a13b": {
+   "probes": [
+    "享了",
+    "元及",
+    "克强",
+    "対応",
+    "七条",
+    "云港",
+    "亚博",
+    "传票"
+   ],
+   "codes": {
+    "baichuan2-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "codellama-7b": [
+     5,
+     3,
+     5,
+     7,
+     3,
+     3,
+     5,
+     5
+    ],
+    "codestral-22b = mistral-7b-v0.1 = mixtral-8x22b = mixtral-8x7b = openchat-3.5 = zephyr-7b": [
+     3,
+     3,
+     3,
+     3,
+     3,
+     3,
+     3,
+     3
+    ],
+    "deepseek-coder-6.7b": [
+     2,
+     2,
+     2,
+     4,
+     2,
+     2,
+     2,
+     2
+    ],
+    "deepseek-coder-v2 = deepseek-v2-lite = deepseek-v2.5": [
+     2,
+     2,
+     2,
+     4,
+     2,
+     2,
+     2,
+     2
+    ],
+    "deepseek-r1 = deepseek-v3 = deepseek-v3.1 = deepseek-v4-flash = deepseek-v4-pro = deepseek-v4.1-flash = deepseek-vl2": [
+     2,
+     2,
+     2,
+     1,
+     2,
+     2,
+     2,
+     2
+    ],
+    "ernie-4.5 = ernie-4.5-21b": [
+     2,
+     2,
+     2,
+     4,
+     2,
+     2,
+     2,
+     2
+    ],
+    "falcon-7b": [
+     2,
+     2,
+     4,
+     4,
+     2,
+     2,
+     2,
+     5
+    ],
+    "gemma-2-9b": [
+     2,
+     2,
+     2,
+     1,
+     2,
+     2,
+     2,
+     2
+    ],
+    "gemma-3-4b": [
+     2,
+     2,
+     2,
+     1,
+     2,
+     2,
+     1,
+     2
+    ],
+    "glm-4-32b-0414 = glm-4-9b-0414 = glm-4.1v-9b = glm-4.5 = glm-4.5-air = glm-4.5v = glm-4.6 = glm-z1-9b = glm-z1-rumination-32b": [
+     2,
+     2,
+     2,
+     1,
+     2,
+     1,
+     2,
+     2
+    ],
+    "glm-5 = glm-5.1 = glm-5.2 = glm-5.3": [
+     2,
+     2,
+     2,
+     1,
+     2,
+     1,
+     2,
+     2
+    ],
+    "gpt2": [
+     4,
+     4,
+     4,
+     4,
+     4,
+     5,
+     4,
+     5
+    ],
+    "granite-3.1-8b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "hunyuan-7b = hunyuan-a13b": [
+     1,
+     1,
+     1,
+     3,
+     1,
+     1,
+     1,
+     1
+    ],
+    "internlm2.5-7b": [
+     2,
+     2,
+     2,
+     4,
+     2,
+     2,
+     2,
+     2
+    ],
+    "internlm3-8b": [
+     2,
+     2,
+     2,
+     6,
+     2,
+     2,
+     2,
+     2
+    ],
+    "jamba-v0.1": [
+     2,
+     2,
+     2,
+     2,
+     4,
+     4,
+     2,
+     2
+    ],
+    "kimi-audio-7b": [
+     2,
+     2,
+     2,
+     4,
+     2,
+     2,
+     2,
+     2
+    ],
+    "kimi-dev-72b = qwen-vl = qwen1.5-7b = qwen2-7b = qwen2-vl-7b = qwen2.5-0.5b = qwen2.5-1.5b = qwen2.5-14b = qwen2.5-32b = qwen2.5-3b = qwen2.5-72b = qwen2.5-7b = qwen2.5-coder-32b = qwen2.5-coder-7b = qwen2.5-vl-72b = qwen3-0.6b = qwen3-1.7b = qwen3-14b = qwen3-235b-2507 = qwen3-235b-a22b = qwen3-30b-2507 = qwen3-30b-a3b = qwen3-32b = qwen3-4b = qwen3-8b = qwen3-coder-30b = qwen3-coder-480b = qwen3-next-80b = qwen3-vl-32b = qwen3-vl-8b": [
+     2,
+     2,
+     2,
+     4,
+     2,
+     2,
+     2,
+     2
+    ],
+    "kimi-k2 = kimi-k2-0905 = kimi-k2-base = kimi-k2-thinking = kimi-k2.5 = kimi-k2.6 = kimi-k2.7-code = kimi-linear-48b = kimi-vl = kimi-vl-2506 = kimi-vl-thinking = moonlight-16b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "llama-2-7b = phi-3-mini = phi-3.5-mini": [
+     5,
+     3,
+     5,
+     7,
+     3,
+     3,
+     5,
+     5
+    ],
+    "llama-3-8b = llama-3.1-8b = llama-3.2-3b = llama-3.3-70b = nemotron-70b": [
+     2,
+     2,
+     2,
+     1,
+     2,
+     2,
+     2,
+     2
+    ],
+    "minicpm4-8b": [
+     3,
+     2,
+     2,
+     7,
+     2,
+     2,
+     2,
+     2
+    ],
+    "minimax-m1 = minimax-m2": [
+     2,
+     2,
+     2,
+     1,
+     2,
+     1,
+     2,
+     2
+    ],
+    "ministral-8b = mistral-nemo = mistral-small-24b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "mistral-large-2411": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "nemotron-mini": [
+     3,
+     2,
+     2,
+     2,
+     2,
+     2,
+     1,
+     3
+    ],
+    "olmo-2-7b = openai-cl100k = phi-4": [
+     2,
+     2,
+     4,
+     4,
+     3,
+     4,
+     4,
+     2
+    ],
+    "openai-o200k = phi-4-mini": [
+     2,
+     2,
+     2,
+     1,
+     2,
+     2,
+     2,
+     2
+    ],
+    "qwen3.5-27b = qwen3.5-9b = qwen3.6-27b": [
+     2,
+     2,
+     2,
+     1,
+     2,
+     2,
+     2,
+     1
+    ],
+    "starcoder2-3b = starcoder2-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "xverse-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "yi-1.5-9b = yi-34b = yi-coder-9b": [
+     2,
+     2,
+     2,
+     6,
+     1,
+     2,
+     2,
+     2
+    ]
+   },
+   "min_margin": 8
+  },
+  "internlm2.5-7b": {
+   "probes": [
+    "一列",
+    "一议",
+    "上锅",
+    "上陣",
+    "一栏",
+    "下吧",
+    "不请",
+    "世宗"
+   ],
+   "codes": {
+    "baichuan2-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "codellama-7b": [
+     3,
+     5,
+     5,
+     5,
+     5,
+     5,
+     3,
+     3
+    ],
+    "codestral-22b = mistral-7b-v0.1 = mixtral-8x22b = mixtral-8x7b = openchat-3.5 = zephyr-7b": [
+     3,
+     3,
+     5,
+     5,
+     3,
+     3,
+     3,
+     3
+    ],
+    "deepseek-coder-6.7b": [
+     2,
+     2,
+     2,
+     3,
+     2,
+     2,
+     2,
+     2
+    ],
+    "deepseek-coder-v2 = deepseek-v2-lite = deepseek-v2.5": [
+     2,
+     2,
+     2,
+     3,
+     2,
+     2,
+     2,
+     2
+    ],
+    "deepseek-r1 = deepseek-v3 = deepseek-v3.1 = deepseek-v4-flash = deepseek-v4-pro = deepseek-v4.1-flash = deepseek-vl2": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "ernie-4.5 = ernie-4.5-21b": [
+     2,
+     2,
+     2,
+     4,
+     2,
+     2,
+     2,
+     2
+    ],
+    "falcon-7b": [
+     2,
+     2,
+     3,
+     3,
+     3,
+     2,
+     2,
+     2
+    ],
+    "gemma-2-9b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "gemma-3-4b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "glm-4-32b-0414 = glm-4-9b-0414 = glm-4.1v-9b = glm-4.5 = glm-4.5-air = glm-4.5v = glm-4.6 = glm-z1-9b = glm-z1-rumination-32b": [
+     2,
+     2,
+     2,
+     3,
+     2,
+     2,
+     2,
+     2
+    ],
+    "glm-5 = glm-5.1 = glm-5.2 = glm-5.3": [
+     2,
+     2,
+     2,
+     3,
+     2,
+     2,
+     2,
+     2
+    ],
+    "gpt2": [
+     3,
+     4,
+     4,
+     4,
+     3,
+     4,
+     3,
+     4
+    ],
+    "granite-3.1-8b": [
+     2,
+     2,
+     3,
+     3,
+     2,
+     2,
+     2,
+     3
+    ],
+    "hunyuan-7b = hunyuan-a13b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "internlm2.5-7b": [
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1
+    ],
+    "internlm3-8b": [
+     2,
+     2,
+     2,
+     4,
+     2,
+     2,
+     2,
+     2
+    ],
+    "jamba-v0.1": [
+     2,
+     2,
+     4,
+     4,
+     2,
+     2,
+     2,
+     4
+    ],
+    "kimi-audio-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "kimi-dev-72b = qwen-vl = qwen1.5-7b = qwen2-7b = qwen2-vl-7b = qwen2.5-0.5b = qwen2.5-1.5b = qwen2.5-14b = qwen2.5-32b = qwen2.5-3b = qwen2.5-72b = qwen2.5-7b = qwen2.5-coder-32b = qwen2.5-coder-7b = qwen2.5-vl-72b = qwen3-0.6b = qwen3-1.7b = qwen3-14b = qwen3-235b-2507 = qwen3-235b-a22b = qwen3-30b-2507 = qwen3-30b-a3b = qwen3-32b = qwen3-4b = qwen3-8b = qwen3-coder-30b = qwen3-coder-480b = qwen3-next-80b = qwen3-vl-32b = qwen3-vl-8b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "kimi-k2 = kimi-k2-0905 = kimi-k2-base = kimi-k2-thinking = kimi-k2.5 = kimi-k2.6 = kimi-k2.7-code = kimi-linear-48b = kimi-vl = kimi-vl-2506 = kimi-vl-thinking = moonlight-16b": [
+     2,
+     2,
+     2,
+     3,
+     1,
+     2,
+     2,
+     2
+    ],
+    "llama-2-7b = phi-3-mini = phi-3.5-mini": [
+     3,
+     5,
+     5,
+     5,
+     5,
+     5,
+     3,
+     3
+    ],
+    "llama-3-8b = llama-3.1-8b = llama-3.2-3b = llama-3.3-70b = nemotron-70b": [
+     2,
+     2,
+     3,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "minicpm4-8b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     3
+    ],
+    "minimax-m1 = minimax-m2": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "ministral-8b = mistral-nemo = mistral-small-24b": [
+     2,
+     2,
+     3,
+     3,
+     3,
+     2,
+     2,
+     2
+    ],
+    "mistral-large-2411": [
+     2,
+     2,
+     4,
+     4,
+     2,
+     2,
+     2,
+     2
+    ],
+    "nemotron-mini": [
+     2,
+     2,
+     4,
+     4,
+     2,
+     2,
+     2,
+     2
+    ],
+    "olmo-2-7b = openai-cl100k = phi-4": [
+     2,
+     2,
+     3,
+     3,
+     3,
+     3,
+     2,
+     4
+    ],
+    "openai-o200k = phi-4-mini": [
+     2,
+     2,
+     2,
+     3,
+     2,
+     2,
+     2,
+     2
+    ],
+    "qwen3.5-27b = qwen3.5-9b = qwen3.6-27b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "starcoder2-3b = starcoder2-7b": [
+     2,
+     2,
+     3,
+     3,
+     2,
+     2,
+     2,
+     3
+    ],
+    "xverse-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "yi-1.5-9b = yi-34b = yi-coder-9b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ]
+   },
+   "min_margin": 8
+  },
+  "internlm3-8b": {
+   "probes": [
+    "個字",
+    "連勝",
+    "並將",
+    "啪啪",
+    "壬癸",
+    "丞丞",
+    "一棵",
+    "並於"
+   ],
+   "codes": {
+    "baichuan2-7b": [
+     2,
+     2,
+     2,
+     1,
+     2,
+     2,
+     1,
+     2
+    ],
+    "codellama-7b": [
+     5,
+     3,
+     7,
+     7,
+     7,
+     7,
+     5,
+     7
+    ],
+    "codestral-22b = mistral-7b-v0.1 = mixtral-8x22b = mixtral-8x7b = openchat-3.5 = zephyr-7b": [
+     3,
+     3,
+     3,
+     7,
+     7,
+     7,
+     5,
+     3
+    ],
+    "deepseek-coder-6.7b": [
+     3,
+     4,
+     4,
+     4,
+     4,
+     4,
+     3,
+     4
+    ],
+    "deepseek-coder-v2 = deepseek-v2-lite = deepseek-v2.5": [
+     3,
+     4,
+     4,
+     4,
+     2,
+     2,
+     1,
+     4
+    ],
+    "deepseek-r1 = deepseek-v3 = deepseek-v3.1 = deepseek-v4-flash = deepseek-v4-pro = deepseek-v4.1-flash = deepseek-vl2": [
+     2,
+     2,
+     2,
+     1,
+     2,
+     2,
+     1,
+     2
+    ],
+    "ernie-4.5 = ernie-4.5-21b": [
+     2,
+     2,
+     2,
+     1,
+     2,
+     2,
+     1,
+     2
+    ],
+    "falcon-7b": [
+     3,
+     4,
+     4,
+     4,
+     4,
+     4,
+     3,
+     4
+    ],
+    "gemma-2-9b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "gemma-3-4b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "glm-4-32b-0414 = glm-4-9b-0414 = glm-4.1v-9b = glm-4.5 = glm-4.5-air = glm-4.5v = glm-4.6 = glm-z1-9b = glm-z1-rumination-32b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "glm-5 = glm-5.1 = glm-5.2 = glm-5.3": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "gpt2": [
+     5,
+     4,
+     4,
+     6,
+     5,
+     4,
+     4,
+     4
+    ],
+    "granite-3.1-8b": [
+     2,
+     3,
+     2,
+     4,
+     4,
+     4,
+     3,
+     2
+    ],
+    "hunyuan-7b = hunyuan-a13b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "internlm2.5-7b": [
+     2,
+     2,
+     2,
+     1,
+     2,
+     2,
+     1,
+     1
+    ],
+    "internlm3-8b": [
+     4,
+     6,
+     6,
+     2,
+     6,
+     6,
+     1,
+     6
+    ],
+    "jamba-v0.1": [
+     2,
+     4,
+     2,
+     6,
+     6,
+     6,
+     4,
+     2
+    ],
+    "kimi-audio-7b": [
+     2,
+     2,
+     1,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "kimi-dev-72b = qwen-vl = qwen1.5-7b = qwen2-7b = qwen2-vl-7b = qwen2.5-0.5b = qwen2.5-1.5b = qwen2.5-14b = qwen2.5-32b = qwen2.5-3b = qwen2.5-72b = qwen2.5-7b = qwen2.5-coder-32b = qwen2.5-coder-7b = qwen2.5-vl-72b = qwen3-0.6b = qwen3-1.7b = qwen3-14b = qwen3-235b-2507 = qwen3-235b-a22b = qwen3-30b-2507 = qwen3-30b-a3b = qwen3-32b = qwen3-4b = qwen3-8b = qwen3-coder-30b = qwen3-coder-480b = qwen3-next-80b = qwen3-vl-32b = qwen3-vl-8b": [
+     2,
+     2,
+     1,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "kimi-k2 = kimi-k2-0905 = kimi-k2-base = kimi-k2-thinking = kimi-k2.5 = kimi-k2.6 = kimi-k2.7-code = kimi-linear-48b = kimi-vl = kimi-vl-2506 = kimi-vl-thinking = moonlight-16b": [
+     2,
+     2,
+     2,
+     1,
+     2,
+     1,
+     1,
+     2
+    ],
+    "llama-2-7b = phi-3-mini = phi-3.5-mini": [
+     5,
+     3,
+     7,
+     7,
+     7,
+     7,
+     5,
+     7
+    ],
+    "llama-3-8b = llama-3.1-8b = llama-3.2-3b = llama-3.3-70b = nemotron-70b": [
+     2,
+     2,
+     2,
+     2,
+     4,
+     4,
+     3,
+     2
+    ],
+    "minicpm4-8b": [
+     3,
+     3,
+     3,
+     3,
+     5,
+     3,
+     2,
+     3
+    ],
+    "minimax-m1 = minimax-m2": [
+     2,
+     2,
+     2,
+     1,
+     2,
+     2,
+     1,
+     2
+    ],
+    "ministral-8b = mistral-nemo = mistral-small-24b": [
+     2,
+     1,
+     2,
+     4,
+     4,
+     4,
+     3,
+     1
+    ],
+    "mistral-large-2411": [
+     2,
+     2,
+     2,
+     6,
+     6,
+     6,
+     4,
+     2
+    ],
+    "nemotron-mini": [
+     2,
+     3,
+     3,
+     7,
+     7,
+     7,
+     4,
+     3
+    ],
+    "olmo-2-7b = openai-cl100k = phi-4": [
+     3,
+     3,
+     4,
+     4,
+     4,
+     4,
+     3,
+     4
+    ],
+    "openai-o200k = phi-4-mini": [
+     2,
+     2,
+     2,
+     1,
+     4,
+     4,
+     3,
+     2
+    ],
+    "qwen3.5-27b = qwen3.5-9b = qwen3.6-27b": [
+     2,
+     2,
+     1,
+     2,
+     3,
+     2,
+     1,
+     1
+    ],
+    "starcoder2-3b = starcoder2-7b": [
+     2,
+     3,
+     2,
+     4,
+     4,
+     4,
+     3,
+     2
+    ],
+    "xverse-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "yi-1.5-9b = yi-34b = yi-coder-9b": [
+     2,
+     2,
+     2,
+     2,
+     6,
+     2,
+     2,
+     2
+    ]
+   },
+   "min_margin": 15
+  },
+  "jamba-v0.1": {
+   "probes": [
+    "丁戊",
+    "丁丁",
+    "甲乙丙丁",
+    "七七",
+    "免疫",
+    "甲乙丙丁戊",
+    "夏秋",
+    "九龍"
+   ],
+   "codes": {
+    "baichuan2-7b": [
+     2,
+     1,
+     3,
+     1,
+     1,
+     4,
+     2,
+     2
+    ],
+    "codellama-7b": [
+     5,
+     3,
+     9,
+     3,
+     7,
+     12,
+     3,
+     3
+    ],
+    "codestral-22b = mistral-7b-v0.1 = mixtral-8x22b = mixtral-8x7b = openchat-3.5 = zephyr-7b": [
+     5,
+     3,
+     9,
+     3,
+     5,
+     12,
+     3,
+     3
+    ],
+    "deepseek-coder-6.7b": [
+     3,
+     2,
+     5,
+     2,
+     1,
+     7,
+     2,
+     3
+    ],
+    "deepseek-coder-v2 = deepseek-v2-lite = deepseek-v2.5": [
+     2,
+     2,
+     4,
+     2,
+     1,
+     5,
+     2,
+     3
+    ],
+    "deepseek-r1 = deepseek-v3 = deepseek-v3.1 = deepseek-v4-flash = deepseek-v4-pro = deepseek-v4.1-flash = deepseek-vl2": [
+     2,
+     2,
+     3,
+     1,
+     1,
+     4,
+     2,
+     2
+    ],
+    "ernie-4.5 = ernie-4.5-21b": [
+     2,
+     2,
+     3,
+     2,
+     1,
+     4,
+     2,
+     2
+    ],
+    "falcon-7b": [
+     3,
+     2,
+     8,
+     2,
+     3,
+     10,
+     2,
+     6
+    ],
+    "gemma-2-9b": [
+     2,
+     2,
+     4,
+     2,
+     1,
+     5,
+     2,
+     2
+    ],
+    "gemma-3-4b": [
+     2,
+     2,
+     4,
+     2,
+     1,
+     5,
+     2,
+     2
+    ],
+    "glm-4-32b-0414 = glm-4-9b-0414 = glm-4.1v-9b = glm-4.5 = glm-4.5-air = glm-4.5v = glm-4.6 = glm-z1-9b = glm-z1-rumination-32b": [
+     2,
+     2,
+     4,
+     2,
+     1,
+     5,
+     2,
+     3
+    ],
+    "glm-5 = glm-5.1 = glm-5.2 = glm-5.3": [
+     2,
+     2,
+     4,
+     2,
+     1,
+     5,
+     2,
+     3
+    ],
+    "gpt2": [
+     4,
+     4,
+     8,
+     4,
+     5,
+     10,
+     5,
+     3
+    ],
+    "granite-3.1-8b": [
+     4,
+     4,
+     8,
+     2,
+     3,
+     10,
+     4,
+     3
+    ],
+    "hunyuan-7b = hunyuan-a13b": [
+     2,
+     2,
+     4,
+     2,
+     1,
+     5,
+     2,
+     2
+    ],
+    "internlm2.5-7b": [
+     2,
+     2,
+     4,
+     2,
+     1,
+     5,
+     2,
+     1
+    ],
+    "internlm3-8b": [
+     2,
+     2,
+     4,
+     2,
+     1,
+     5,
+     2,
+     4
+    ],
+    "jamba-v0.1": [
+     6,
+     6,
+     12,
+     6,
+     2,
+     15,
+     6,
+     6
+    ],
+    "kimi-audio-7b": [
+     2,
+     2,
+     4,
+     2,
+     1,
+     5,
+     2,
+     2
+    ],
+    "kimi-dev-72b = qwen-vl = qwen1.5-7b = qwen2-7b = qwen2-vl-7b = qwen2.5-0.5b = qwen2.5-1.5b = qwen2.5-14b = qwen2.5-32b = qwen2.5-3b = qwen2.5-72b = qwen2.5-7b = qwen2.5-coder-32b = qwen2.5-coder-7b = qwen2.5-vl-72b = qwen3-0.6b = qwen3-1.7b = qwen3-14b = qwen3-235b-2507 = qwen3-235b-a22b = qwen3-30b-2507 = qwen3-30b-a3b = qwen3-32b = qwen3-4b = qwen3-8b = qwen3-coder-30b = qwen3-coder-480b = qwen3-next-80b = qwen3-vl-32b = qwen3-vl-8b": [
+     2,
+     2,
+     4,
+     2,
+     1,
+     5,
+     2,
+     2
+    ],
+    "kimi-k2 = kimi-k2-0905 = kimi-k2-base = kimi-k2-thinking = kimi-k2.5 = kimi-k2.6 = kimi-k2.7-code = kimi-linear-48b = kimi-vl = kimi-vl-2506 = kimi-vl-thinking = moonlight-16b": [
+     2,
+     1,
+     3,
+     1,
+     1,
+     4,
+     1,
+     3
+    ],
+    "llama-2-7b = phi-3-mini = phi-3.5-mini": [
+     5,
+     3,
+     9,
+     3,
+     7,
+     12,
+     3,
+     3
+    ],
+    "llama-3-8b = llama-3.1-8b = llama-3.2-3b = llama-3.3-70b = nemotron-70b": [
+     3,
+     2,
+     5,
+     2,
+     2,
+     7,
+     2,
+     2
+    ],
+    "minicpm4-8b": [
+     2,
+     2,
+     4,
+     2,
+     2,
+     5,
+     2,
+     3
+    ],
+    "minimax-m1 = minimax-m2": [
+     2,
+     2,
+     4,
+     2,
+     1,
+     5,
+     2,
+     2
+    ],
+    "ministral-8b = mistral-nemo = mistral-small-24b": [
+     3,
+     2,
+     6,
+     2,
+     3,
+     8,
+     2,
+     2
+    ],
+    "mistral-large-2411": [
+     4,
+     2,
+     8,
+     2,
+     4,
+     11,
+     2,
+     2
+    ],
+    "nemotron-mini": [
+     4,
+     2,
+     9,
+     2,
+     2,
+     12,
+     2,
+     2
+    ],
+    "olmo-2-7b = openai-cl100k = phi-4": [
+     4,
+     4,
+     8,
+     4,
+     5,
+     10,
+     4,
+     4
+    ],
+    "openai-o200k = phi-4-mini": [
+     3,
+     2,
+     5,
+     2,
+     2,
+     7,
+     2,
+     2
+    ],
+    "qwen3.5-27b = qwen3.5-9b = qwen3.6-27b": [
+     2,
+     2,
+     4,
+     1,
+     1,
+     5,
+     2,
+     2
+    ],
+    "starcoder2-3b = starcoder2-7b": [
+     4,
+     4,
+     8,
+     2,
+     3,
+     10,
+     4,
+     3
+    ],
+    "xverse-7b": [
+     2,
+     2,
+     4,
+     2,
+     2,
+     5,
+     2,
+     2
+    ],
+    "yi-1.5-9b = yi-34b = yi-coder-9b": [
+     2,
+     2,
+     4,
+     2,
+     1,
+     5,
+     2,
+     2
+    ]
+   },
+   "min_margin": 22
+  },
+  "kimi-audio-7b": {
+   "probes": [
+    "時点で",
+    "·",
+    "※",
+    "%。",
+    "本当に",
+    "申し訳",
+    "&s",
+    "ヶ月"
+   ],
+   "codes": {
+    "baichuan2-7b": [
+     3,
+     1,
+     1,
+     2,
+     3,
+     3,
+     2,
+     2
+    ],
+    "codellama-7b": [
+     4,
+     1,
+     4,
+     2,
+     4,
+     8,
+     2,
+     5
+    ],
+    "codestral-22b = mistral-7b-v0.1 = mixtral-8x22b = mixtral-8x7b = openchat-3.5 = zephyr-7b": [
+     4,
+     1,
+     2,
+     2,
+     4,
+     6,
+     2,
+     5
+    ],
+    "deepseek-coder-6.7b": [
+     5,
+     1,
+     2,
+     2,
+     4,
+     5,
+     2,
+     3
+    ],
+    "deepseek-coder-v2 = deepseek-v2-lite = deepseek-v2.5": [
+     4,
+     1,
+     2,
+     2,
+     3,
+     4,
+     2,
+     3
+    ],
+    "deepseek-r1 = deepseek-v3 = deepseek-v3.1 = deepseek-v4-flash = deepseek-v4-pro = deepseek-v4.1-flash = deepseek-vl2": [
+     3,
+     1,
+     1,
+     1,
+     2,
+     3,
+     2,
+     2
+    ],
+    "ernie-4.5 = ernie-4.5-21b": [
+     3,
+     1,
+     1,
+     1,
+     3,
+     5,
+     2,
+     4
+    ],
+    "falcon-7b": [
+     5,
+     1,
+     2,
+     2,
+     5,
+     5,
+     2,
+     3
+    ],
+    "gemma-2-9b": [
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     2,
+     1
+    ],
+    "gemma-3-4b": [
+     1,
+     1,
+     1,
+     1,
+     1,
+     2,
+     2,
+     1
+    ],
+    "glm-4-32b-0414 = glm-4-9b-0414 = glm-4.1v-9b = glm-4.5 = glm-4.5-air = glm-4.5v = glm-4.6 = glm-z1-9b = glm-z1-rumination-32b": [
+     3,
+     1,
+     1,
+     1,
+     1,
+     2,
+     1,
+     2
+    ],
+    "glm-5 = glm-5.1 = glm-5.2 = glm-5.3": [
+     3,
+     1,
+     1,
+     1,
+     1,
+     2,
+     1,
+     2
+    ],
+    "gpt2": [
+     6,
+     1,
+     2,
+     2,
+     5,
+     6,
+     2,
+     4
+    ],
+    "granite-3.1-8b": [
+     3,
+     1,
+     2,
+     2,
+     3,
+     4,
+     2,
+     3
+    ],
+    "hunyuan-7b = hunyuan-a13b": [
+     3,
+     1,
+     1,
+     1,
+     3,
+     4,
+     1,
+     3
+    ],
+    "internlm2.5-7b": [
+     3,
+     1,
+     1,
+     2,
+     3,
+     5,
+     2,
+     4
+    ],
+    "internlm3-8b": [
+     5,
+     1,
+     1,
+     1,
+     3,
+     5,
+     2,
+     4
+    ],
+    "jamba-v0.1": [
+     3,
+     1,
+     1,
+     2,
+     3,
+     5,
+     2,
+     4
+    ],
+    "kimi-audio-7b": [
+     2,
+     1,
+     1,
+     2,
+     2,
+     4,
+     1,
+     2
+    ],
+    "kimi-dev-72b = qwen-vl = qwen1.5-7b = qwen2-7b = qwen2-vl-7b = qwen2.5-0.5b = qwen2.5-1.5b = qwen2.5-14b = qwen2.5-32b = qwen2.5-3b = qwen2.5-72b = qwen2.5-7b = qwen2.5-coder-32b = qwen2.5-coder-7b = qwen2.5-vl-72b = qwen3-0.6b = qwen3-1.7b = qwen3-14b = qwen3-235b-2507 = qwen3-235b-a22b = qwen3-30b-2507 = qwen3-30b-a3b = qwen3-32b = qwen3-4b = qwen3-8b = qwen3-coder-30b = qwen3-coder-480b = qwen3-next-80b = qwen3-vl-32b = qwen3-vl-8b": [
+     1,
+     1,
+     1,
+     2,
+     1,
+     3,
+     1,
+     1
+    ],
+    "kimi-k2 = kimi-k2-0905 = kimi-k2-base = kimi-k2-thinking = kimi-k2.5 = kimi-k2.6 = kimi-k2.7-code = kimi-linear-48b = kimi-vl = kimi-vl-2506 = kimi-vl-thinking = moonlight-16b": [
+     3,
+     1,
+     1,
+     1,
+     3,
+     4,
+     1,
+     3
+    ],
+    "llama-2-7b = phi-3-mini = phi-3.5-mini": [
+     4,
+     1,
+     4,
+     2,
+     4,
+     8,
+     2,
+     5
+    ],
+    "llama-3-8b = llama-3.1-8b = llama-3.2-3b = llama-3.3-70b = nemotron-70b": [
+     3,
+     1,
+     1,
+     2,
+     1,
+     3,
+     1,
+     1
+    ],
+    "minicpm4-8b": [
+     4,
+     1,
+     2,
+     2,
+     3,
+     6,
+     2,
+     5
+    ],
+    "minimax-m1 = minimax-m2": [
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     2,
+     1
+    ],
+    "ministral-8b = mistral-nemo = mistral-small-24b": [
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     2,
+     2
+    ],
+    "mistral-large-2411": [
+     3,
+     1,
+     1,
+     2,
+     3,
+     5,
+     2,
+     4
+    ],
+    "nemotron-mini": [
+     3,
+     1,
+     1,
+     2,
+     3,
+     3,
+     2,
+     2
+    ],
+    "olmo-2-7b = openai-cl100k = phi-4": [
+     3,
+     1,
+     1,
+     2,
+     3,
+     5,
+     1,
+     3
+    ],
+    "openai-o200k = phi-4-mini": [
+     3,
+     1,
+     1,
+     1,
+     2,
+     2,
+     1,
+     1
+    ],
+    "qwen3.5-27b = qwen3.5-9b = qwen3.6-27b": [
+     1,
+     1,
+     1,
+     2,
+     1,
+     1,
+     1,
+     1
+    ],
+    "starcoder2-3b = starcoder2-7b": [
+     3,
+     1,
+     2,
+     2,
+     3,
+     4,
+     2,
+     3
+    ],
+    "xverse-7b": [
+     3,
+     1,
+     1,
+     2,
+     3,
+     3,
+     2,
+     2
+    ],
+    "yi-1.5-9b = yi-34b = yi-coder-9b": [
+     3,
+     1,
+     3,
+     2,
+     3,
+     5,
+     2,
+     4
+    ]
+   },
+   "min_margin": 4
+  },
+  "kimi-dev-72b = qwen-vl = qwen1.5-7b = qwen2-7b = qwen2-vl-7b = qwen2.5-0.5b = qwen2.5-1.5b = qwen2.5-14b = qwen2.5-32b = qwen2.5-3b = qwen2.5-72b = qwen2.5-7b = qwen2.5-coder-32b = qwen2.5-coder-7b = qwen2.5-vl-72b = qwen3-0.6b = qwen3-1.7b = qwen3-14b = qwen3-235b-2507 = qwen3-235b-a22b = qwen3-30b-2507 = qwen3-30b-a3b = qwen3-32b = qwen3-4b = qwen3-8b = qwen3-coder-30b = qwen3-coder-480b = qwen3-next-80b = qwen3-vl-32b = qwen3-vl-8b": {
+   "probes": [
+    "お勧",
+    "的日",
+    "お願",
+    "ご紹",
+    "AĞ",
+    "と共",
+    "使え",
+    "n 携"
+   ],
+   "codes": {
+    "baichuan2-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     3
+    ],
+    "codellama-7b": [
+     5,
+     3,
+     5,
+     5,
+     3,
+     3,
+     3,
+     5
+    ],
+    "codestral-22b = mistral-7b-v0.1 = mixtral-8x22b = mixtral-8x7b = openchat-3.5 = zephyr-7b": [
+     5,
+     3,
+     5,
+     5,
+     3,
+     3,
+     3,
+     5
+    ],
+    "deepseek-coder-6.7b": [
+     4,
+     2,
+     4,
+     4,
+     3,
+     3,
+     3,
+     3
+    ],
+    "deepseek-coder-v2 = deepseek-v2-lite = deepseek-v2.5": [
+     4,
+     2,
+     4,
+     4,
+     3,
+     2,
+     3,
+     3
+    ],
+    "deepseek-r1 = deepseek-v3 = deepseek-v3.1 = deepseek-v4-flash = deepseek-v4-pro = deepseek-v4.1-flash = deepseek-vl2": [
+     3,
+     2,
+     2,
+     2,
+     3,
+     2,
+     2,
+     3
+    ],
+    "ernie-4.5 = ernie-4.5-21b": [
+     4,
+     2,
+     4,
+     4,
+     2,
+     2,
+     2,
+     3
+    ],
+    "falcon-7b": [
+     4,
+     2,
+     4,
+     4,
+     3,
+     2,
+     5,
+     4
+    ],
+    "gemma-2-9b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     3
+    ],
+    "gemma-3-4b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     3
+    ],
+    "glm-4-32b-0414 = glm-4-9b-0414 = glm-4.1v-9b = glm-4.5 = glm-4.5-air = glm-4.5v = glm-4.6 = glm-z1-9b = glm-z1-rumination-32b": [
+     3,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     4
+    ],
+    "glm-5 = glm-5.1 = glm-5.2 = glm-5.3": [
+     3,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     4
+    ],
+    "gpt2": [
+     4,
+     3,
+     5,
+     5,
+     3,
+     3,
+     3,
+     4
+    ],
+    "granite-3.1-8b": [
+     3,
+     2,
+     3,
+     3,
+     3,
+     2,
+     2,
+     4
+    ],
+    "hunyuan-7b = hunyuan-a13b": [
+     3,
+     2,
+     2,
+     2,
+     3,
+     2,
+     2,
+     4
+    ],
+    "internlm2.5-7b": [
+     4,
+     2,
+     2,
+     2,
+     3,
+     2,
+     2,
+     3
+    ],
+    "internlm3-8b": [
+     6,
+     2,
+     6,
+     6,
+     3,
+     2,
+     4,
+     5
+    ],
+    "jamba-v0.1": [
+     4,
+     2,
+     4,
+     4,
+     3,
+     2,
+     2,
+     5
+    ],
+    "kimi-audio-7b": [
+     3,
+     1,
+     2,
+     3,
+     1,
+     2,
+     2,
+     3
+    ],
+    "kimi-dev-72b = qwen-vl = qwen1.5-7b = qwen2-7b = qwen2-vl-7b = qwen2.5-0.5b = qwen2.5-1.5b = qwen2.5-14b = qwen2.5-32b = qwen2.5-3b = qwen2.5-72b = qwen2.5-7b = qwen2.5-coder-32b = qwen2.5-coder-7b = qwen2.5-vl-72b = qwen3-0.6b = qwen3-1.7b = qwen3-14b = qwen3-235b-2507 = qwen3-235b-a22b = qwen3-30b-2507 = qwen3-30b-a3b = qwen3-32b = qwen3-4b = qwen3-8b = qwen3-coder-30b = qwen3-coder-480b = qwen3-next-80b = qwen3-vl-32b = qwen3-vl-8b": [
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     4
+    ],
+    "kimi-k2 = kimi-k2-0905 = kimi-k2-base = kimi-k2-thinking = kimi-k2.5 = kimi-k2.6 = kimi-k2.7-code = kimi-linear-48b = kimi-vl = kimi-vl-2506 = kimi-vl-thinking = moonlight-16b": [
+     3,
+     2,
+     3,
+     3,
+     3,
+     2,
+     2,
+     3
+    ],
+    "llama-2-7b = phi-3-mini = phi-3.5-mini": [
+     5,
+     3,
+     5,
+     5,
+     3,
+     3,
+     3,
+     5
+    ],
+    "llama-3-8b = llama-3.1-8b = llama-3.2-3b = llama-3.3-70b = nemotron-70b": [
+     3,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     3
+    ],
+    "minicpm4-8b": [
+     5,
+     2,
+     3,
+     3,
+     2,
+     3,
+     3,
+     3
+    ],
+    "minimax-m1 = minimax-m2": [
+     2,
+     2,
+     2,
+     2,
+     3,
+     2,
+     1,
+     3
+    ],
+    "ministral-8b = mistral-nemo = mistral-small-24b": [
+     3,
+     2,
+     1,
+     2,
+     3,
+     2,
+     2,
+     4
+    ],
+    "mistral-large-2411": [
+     4,
+     2,
+     4,
+     4,
+     3,
+     2,
+     2,
+     5
+    ],
+    "nemotron-mini": [
+     4,
+     2,
+     2,
+     2,
+     2,
+     2,
+     3,
+     3
+    ],
+    "olmo-2-7b = openai-cl100k = phi-4": [
+     3,
+     2,
+     3,
+     3,
+     3,
+     2,
+     2,
+     4
+    ],
+    "openai-o200k = phi-4-mini": [
+     3,
+     2,
+     1,
+     2,
+     2,
+     2,
+     2,
+     3
+    ],
+    "qwen3.5-27b = qwen3.5-9b = qwen3.6-27b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     3
+    ],
+    "starcoder2-3b = starcoder2-7b": [
+     3,
+     2,
+     3,
+     3,
+     3,
+     2,
+     2,
+     4
+    ],
+    "xverse-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     3
+    ],
+    "yi-1.5-9b = yi-34b = yi-coder-9b": [
+     6,
+     2,
+     4,
+     4,
+     3,
+     2,
+     4,
+     3
+    ]
+   },
+   "min_margin": 8
+  },
+  "kimi-k2 = kimi-k2-0905 = kimi-k2-base = kimi-k2-thinking = kimi-k2.5 = kimi-k2.6 = kimi-k2.7-code = kimi-linear-48b = kimi-vl = kimi-vl-2506 = kimi-vl-thinking = moonlight-16b": {
+   "probes": [
+    "也越",
+    "夏秋",
+    "是它",
+    "用词",
+    "百千",
+    "一丁",
+    "一为",
+    "一亿"
+   ],
+   "codes": {
+    "baichuan2-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "codellama-7b": [
+     3,
+     3,
+     5,
+     5,
+     3,
+     3,
+     3,
+     5
+    ],
+    "codestral-22b = mistral-7b-v0.1 = mixtral-8x22b = mixtral-8x7b = openchat-3.5 = zephyr-7b": [
+     3,
+     3,
+     3,
+     3,
+     3,
+     3,
+     3,
+     5
+    ],
+    "deepseek-coder-6.7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "deepseek-coder-v2 = deepseek-v2-lite = deepseek-v2.5": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "deepseek-r1 = deepseek-v3 = deepseek-v3.1 = deepseek-v4-flash = deepseek-v4-pro = deepseek-v4.1-flash = deepseek-vl2": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "ernie-4.5 = ernie-4.5-21b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "falcon-7b": [
+     4,
+     2,
+     2,
+     2,
+     3,
+     2,
+     2,
+     3
+    ],
+    "gemma-2-9b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "gemma-3-4b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "glm-4-32b-0414 = glm-4-9b-0414 = glm-4.1v-9b = glm-4.5 = glm-4.5-air = glm-4.5v = glm-4.6 = glm-z1-9b = glm-z1-rumination-32b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "glm-5 = glm-5.1 = glm-5.2 = glm-5.3": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "gpt2": [
+     5,
+     5,
+     3,
+     4,
+     5,
+     3,
+     3,
+     3
+    ],
+    "granite-3.1-8b": [
+     2,
+     4,
+     2,
+     2,
+     2,
+     3,
+     2,
+     3
+    ],
+    "hunyuan-7b = hunyuan-a13b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "internlm2.5-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "internlm3-8b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "jamba-v0.1": [
+     2,
+     6,
+     2,
+     2,
+     2,
+     4,
+     2,
+     2
+    ],
+    "kimi-audio-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "kimi-dev-72b = qwen-vl = qwen1.5-7b = qwen2-7b = qwen2-vl-7b = qwen2.5-0.5b = qwen2.5-1.5b = qwen2.5-14b = qwen2.5-32b = qwen2.5-3b = qwen2.5-72b = qwen2.5-7b = qwen2.5-coder-32b = qwen2.5-coder-7b = qwen2.5-vl-72b = qwen3-0.6b = qwen3-1.7b = qwen3-14b = qwen3-235b-2507 = qwen3-235b-a22b = qwen3-30b-2507 = qwen3-30b-a3b = qwen3-32b = qwen3-4b = qwen3-8b = qwen3-coder-30b = qwen3-coder-480b = qwen3-next-80b = qwen3-vl-32b = qwen3-vl-8b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "kimi-k2 = kimi-k2-0905 = kimi-k2-base = kimi-k2-thinking = kimi-k2.5 = kimi-k2.6 = kimi-k2.7-code = kimi-linear-48b = kimi-vl = kimi-vl-2506 = kimi-vl-thinking = moonlight-16b": [
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1
+    ],
+    "llama-2-7b = phi-3-mini = phi-3.5-mini": [
+     3,
+     3,
+     5,
+     5,
+     3,
+     3,
+     3,
+     5
+    ],
+    "llama-3-8b = llama-3.1-8b = llama-3.2-3b = llama-3.3-70b = nemotron-70b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "minicpm4-8b": [
+     3,
+     2,
+     2,
+     2,
+     3,
+     2,
+     2,
+     2
+    ],
+    "minimax-m1 = minimax-m2": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "ministral-8b = mistral-nemo = mistral-small-24b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "mistral-large-2411": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     4
+    ],
+    "nemotron-mini": [
+     3,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "olmo-2-7b = openai-cl100k = phi-4": [
+     3,
+     4,
+     3,
+     3,
+     4,
+     3,
+     2,
+     2
+    ],
+    "openai-o200k = phi-4-mini": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "qwen3.5-27b = qwen3.5-9b = qwen3.6-27b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "starcoder2-3b = starcoder2-7b": [
+     2,
+     4,
+     2,
+     2,
+     2,
+     3,
+     2,
+     3
+    ],
+    "xverse-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "yi-1.5-9b = yi-34b = yi-coder-9b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ]
+   },
+   "min_margin": 8
+  },
+  "llama-2-7b = phi-3-mini = phi-3.5-mini": {
+   "probes": [
+    "※",
+    "<E",
+    "·",
+    "%。",
+    "&s",
+    "'2",
+    "(*",
+    "(d"
+   ],
+   "codes": {
+    "baichuan2-7b": [
+     1,
+     2,
+     1,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "codellama-7b": [
+     4,
+     1,
+     1,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "codestral-22b = mistral-7b-v0.1 = mixtral-8x22b = mixtral-8x7b = openchat-3.5 = zephyr-7b": [
+     2,
+     2,
+     1,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "deepseek-coder-6.7b": [
+     2,
+     2,
+     1,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "deepseek-coder-v2 = deepseek-v2-lite = deepseek-v2.5": [
+     2,
+     2,
+     1,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "deepseek-r1 = deepseek-v3 = deepseek-v3.1 = deepseek-v4-flash = deepseek-v4-pro = deepseek-v4.1-flash = deepseek-vl2": [
+     1,
+     1,
+     1,
+     1,
+     2,
+     2,
+     1,
+     1
+    ],
+    "ernie-4.5 = ernie-4.5-21b": [
+     1,
+     2,
+     1,
+     1,
+     2,
+     2,
+     1,
+     2
+    ],
+    "falcon-7b": [
+     2,
+     2,
+     1,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "gemma-2-9b": [
+     1,
+     2,
+     1,
+     1,
+     2,
+     2,
+     1,
+     2
+    ],
+    "gemma-3-4b": [
+     1,
+     2,
+     1,
+     1,
+     2,
+     2,
+     1,
+     2
+    ],
+    "glm-4-32b-0414 = glm-4-9b-0414 = glm-4.1v-9b = glm-4.5 = glm-4.5-air = glm-4.5v = glm-4.6 = glm-z1-9b = glm-z1-rumination-32b": [
+     1,
+     1,
+     1,
+     1,
+     1,
+     2,
+     1,
+     1
+    ],
+    "glm-5 = glm-5.1 = glm-5.2 = glm-5.3": [
+     1,
+     1,
+     1,
+     1,
+     1,
+     2,
+     1,
+     1
+    ],
+    "gpt2": [
+     2,
+     2,
+     1,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "granite-3.1-8b": [
+     2,
+     2,
+     1,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "hunyuan-7b = hunyuan-a13b": [
+     1,
+     1,
+     1,
+     1,
+     1,
+     2,
+     1,
+     1
+    ],
+    "internlm2.5-7b": [
+     1,
+     1,
+     1,
+     2,
+     2,
+     2,
+     1,
+     1
+    ],
+    "internlm3-8b": [
+     1,
+     2,
+     1,
+     1,
+     2,
+     2,
+     1,
+     2
+    ],
+    "jamba-v0.1": [
+     1,
+     2,
+     1,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "kimi-audio-7b": [
+     1,
+     1,
+     1,
+     2,
+     1,
+     2,
+     1,
+     1
+    ],
+    "kimi-dev-72b = qwen-vl = qwen1.5-7b = qwen2-7b = qwen2-vl-7b = qwen2.5-0.5b = qwen2.5-1.5b = qwen2.5-14b = qwen2.5-32b = qwen2.5-3b = qwen2.5-72b = qwen2.5-7b = qwen2.5-coder-32b = qwen2.5-coder-7b = qwen2.5-vl-72b = qwen3-0.6b = qwen3-1.7b = qwen3-14b = qwen3-235b-2507 = qwen3-235b-a22b = qwen3-30b-2507 = qwen3-30b-a3b = qwen3-32b = qwen3-4b = qwen3-8b = qwen3-coder-30b = qwen3-coder-480b = qwen3-next-80b = qwen3-vl-32b = qwen3-vl-8b": [
+     1,
+     1,
+     1,
+     2,
+     1,
+     2,
+     1,
+     1
+    ],
+    "kimi-k2 = kimi-k2-0905 = kimi-k2-base = kimi-k2-thinking = kimi-k2.5 = kimi-k2.6 = kimi-k2.7-code = kimi-linear-48b = kimi-vl = kimi-vl-2506 = kimi-vl-thinking = moonlight-16b": [
+     1,
+     1,
+     1,
+     1,
+     1,
+     2,
+     1,
+     1
+    ],
+    "llama-2-7b = phi-3-mini = phi-3.5-mini": [
+     4,
+     2,
+     1,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "llama-3-8b = llama-3.1-8b = llama-3.2-3b = llama-3.3-70b = nemotron-70b": [
+     1,
+     1,
+     1,
+     2,
+     1,
+     2,
+     1,
+     1
+    ],
+    "minicpm4-8b": [
+     2,
+     2,
+     1,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "minimax-m1 = minimax-m2": [
+     1,
+     1,
+     1,
+     1,
+     2,
+     2,
+     1,
+     1
+    ],
+    "ministral-8b = mistral-nemo = mistral-small-24b": [
+     1,
+     1,
+     1,
+     1,
+     2,
+     2,
+     1,
+     1
+    ],
+    "mistral-large-2411": [
+     1,
+     2,
+     1,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "nemotron-mini": [
+     1,
+     2,
+     1,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "olmo-2-7b = openai-cl100k = phi-4": [
+     1,
+     1,
+     1,
+     2,
+     1,
+     2,
+     1,
+     1
+    ],
+    "openai-o200k = phi-4-mini": [
+     1,
+     1,
+     1,
+     1,
+     1,
+     2,
+     1,
+     1
+    ],
+    "qwen3.5-27b = qwen3.5-9b = qwen3.6-27b": [
+     1,
+     1,
+     1,
+     2,
+     1,
+     2,
+     1,
+     1
+    ],
+    "starcoder2-3b = starcoder2-7b": [
+     2,
+     2,
+     1,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "xverse-7b": [
+     1,
+     2,
+     1,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "yi-1.5-9b = yi-34b = yi-coder-9b": [
+     3,
+     2,
+     1,
+     2,
+     2,
+     2,
+     1,
+     2
+    ]
+   },
+   "min_margin": 1
+  },
+  "llama-3-8b = llama-3.1-8b = llama-3.2-3b = llama-3.3-70b = nemotron-70b": {
+   "probes": [
+    "三三",
+    "三三三三",
+    "二二二二",
+    "网刊下载次数",
+    "浏览器",
+    "，存于",
+    "但嵌",
+    "嵌入"
+   ],
+   "codes": {
+    "baichuan2-7b": [
+     2,
+     4,
+     4,
+     4,
+     1,
+     3,
+     2,
+     1
+    ],
+    "codellama-7b": [
+     3,
+     5,
+     5,
+     9,
+     8,
+     4,
+     7,
+     5
+    ],
+    "codestral-22b = mistral-7b-v0.1 = mixtral-8x22b = mixtral-8x7b = openchat-3.5 = zephyr-7b": [
+     3,
+     5,
+     5,
+     9,
+     4,
+     4,
+     3,
+     3
+    ],
+    "deepseek-coder-6.7b": [
+     2,
+     4,
+     4,
+     6,
+     4,
+     3,
+     4,
+     4
+    ],
+    "deepseek-coder-v2 = deepseek-v2-lite = deepseek-v2.5": [
+     2,
+     4,
+     4,
+     4,
+     1,
+     3,
+     2,
+     2
+    ],
+    "deepseek-r1 = deepseek-v3 = deepseek-v3.1 = deepseek-v4-flash = deepseek-v4-pro = deepseek-v4.1-flash = deepseek-vl2": [
+     2,
+     4,
+     4,
+     4,
+     1,
+     3,
+     2,
+     1
+    ],
+    "ernie-4.5 = ernie-4.5-21b": [
+     2,
+     4,
+     4,
+     4,
+     1,
+     3,
+     2,
+     1
+    ],
+    "falcon-7b": [
+     2,
+     4,
+     4,
+     10,
+     5,
+     5,
+     6,
+     4
+    ],
+    "gemma-2-9b": [
+     2,
+     4,
+     4,
+     4,
+     1,
+     2,
+     2,
+     1
+    ],
+    "gemma-3-4b": [
+     2,
+     4,
+     4,
+     4,
+     1,
+     2,
+     2,
+     1
+    ],
+    "glm-4-32b-0414 = glm-4-9b-0414 = glm-4.1v-9b = glm-4.5 = glm-4.5-air = glm-4.5v = glm-4.6 = glm-z1-9b = glm-z1-rumination-32b": [
+     2,
+     4,
+     4,
+     4,
+     1,
+     3,
+     2,
+     1
+    ],
+    "glm-5 = glm-5.1 = glm-5.2 = glm-5.3": [
+     2,
+     4,
+     4,
+     4,
+     1,
+     3,
+     2,
+     1
+    ],
+    "gpt2": [
+     2,
+     4,
+     8,
+     15,
+     8,
+     7,
+     5,
+     5
+    ],
+    "granite-3.1-8b": [
+     2,
+     4,
+     4,
+     5,
+     1,
+     3,
+     3,
+     3
+    ],
+    "hunyuan-7b = hunyuan-a13b": [
+     2,
+     4,
+     4,
+     4,
+     1,
+     3,
+     2,
+     1
+    ],
+    "internlm2.5-7b": [
+     2,
+     4,
+     4,
+     4,
+     1,
+     3,
+     2,
+     1
+    ],
+    "internlm3-8b": [
+     2,
+     4,
+     4,
+     4,
+     7,
+     3,
+     2,
+     2
+    ],
+    "jamba-v0.1": [
+     2,
+     4,
+     4,
+     8,
+     3,
+     3,
+     4,
+     4
+    ],
+    "kimi-audio-7b": [
+     2,
+     4,
+     4,
+     4,
+     1,
+     3,
+     2,
+     2
+    ],
+    "kimi-dev-72b = qwen-vl = qwen1.5-7b = qwen2-7b = qwen2-vl-7b = qwen2.5-0.5b = qwen2.5-1.5b = qwen2.5-14b = qwen2.5-32b = qwen2.5-3b = qwen2.5-72b = qwen2.5-7b = qwen2.5-coder-32b = qwen2.5-coder-7b = qwen2.5-vl-72b = qwen3-0.6b = qwen3-1.7b = qwen3-14b = qwen3-235b-2507 = qwen3-235b-a22b = qwen3-30b-2507 = qwen3-30b-a3b = qwen3-32b = qwen3-4b = qwen3-8b = qwen3-coder-30b = qwen3-coder-480b = qwen3-next-80b = qwen3-vl-32b = qwen3-vl-8b": [
+     2,
+     4,
+     4,
+     4,
+     1,
+     3,
+     2,
+     2
+    ],
+    "kimi-k2 = kimi-k2-0905 = kimi-k2-base = kimi-k2-thinking = kimi-k2.5 = kimi-k2.6 = kimi-k2.7-code = kimi-linear-48b = kimi-vl = kimi-vl-2506 = kimi-vl-thinking = moonlight-16b": [
+     2,
+     4,
+     4,
+     4,
+     1,
+     3,
+     2,
+     1
+    ],
+    "llama-2-7b = phi-3-mini = phi-3.5-mini": [
+     3,
+     5,
+     5,
+     9,
+     8,
+     4,
+     7,
+     5
+    ],
+    "llama-3-8b = llama-3.1-8b = llama-3.2-3b = llama-3.3-70b = nemotron-70b": [
+     1,
+     1,
+     1,
+     1,
+     4,
+     1,
+     3,
+     3
+    ],
+    "minicpm4-8b": [
+     2,
+     4,
+     4,
+     5,
+     2,
+     4,
+     2,
+     2
+    ],
+    "minimax-m1 = minimax-m2": [
+     2,
+     4,
+     4,
+     4,
+     1,
+     3,
+     2,
+     1
+    ],
+    "ministral-8b = mistral-nemo = mistral-small-24b": [
+     2,
+     4,
+     4,
+     6,
+     5,
+     2,
+     4,
+     4
+    ],
+    "mistral-large-2411": [
+     2,
+     4,
+     4,
+     8,
+     3,
+     3,
+     2,
+     2
+    ],
+    "nemotron-mini": [
+     2,
+     4,
+     4,
+     4,
+     2,
+     3,
+     4,
+     5
+    ],
+    "olmo-2-7b = openai-cl100k = phi-4": [
+     2,
+     4,
+     4,
+     6,
+     5,
+     3,
+     4,
+     4
+    ],
+    "openai-o200k = phi-4-mini": [
+     2,
+     4,
+     4,
+     4,
+     2,
+     3,
+     4,
+     4
+    ],
+    "qwen3.5-27b = qwen3.5-9b = qwen3.6-27b": [
+     2,
+     4,
+     4,
+     3,
+     1,
+     3,
+     2,
+     1
+    ],
+    "starcoder2-3b = starcoder2-7b": [
+     2,
+     4,
+     4,
+     5,
+     1,
+     3,
+     3,
+     3
+    ],
+    "xverse-7b": [
+     2,
+     4,
+     4,
+     5,
+     3,
+     5,
+     2,
+     2
+    ],
+    "yi-1.5-9b = yi-34b = yi-coder-9b": [
+     2,
+     4,
+     4,
+     4,
+     1,
+     3,
+     2,
+     1
+    ]
+   },
+   "min_margin": 16
+  },
+  "minicpm4-8b": {
+   "probes": [
+    "、戦",
+    "亵渎",
+    "、両",
+    "ffic",
+    "信息",
+    "壬癸",
+    "ould",
+    "簡體"
+   ],
+   "codes": {
+    "baichuan2-7b": [
+     2,
+     2,
+     2,
+     1,
+     1,
+     2,
+     1,
+     2
+    ],
+    "codellama-7b": [
+     3,
+     7,
+     5,
+     2,
+     3,
+     7,
+     2,
+     7
+    ],
+    "codestral-22b = mistral-7b-v0.1 = mixtral-8x22b = mixtral-8x7b = openchat-3.5 = zephyr-7b": [
+     3,
+     7,
+     5,
+     2,
+     3,
+     7,
+     2,
+     5
+    ],
+    "deepseek-coder-6.7b": [
+     3,
+     4,
+     3,
+     1,
+     1,
+     4,
+     1,
+     5
+    ],
+    "deepseek-coder-v2 = deepseek-v2-lite = deepseek-v2.5": [
+     3,
+     4,
+     3,
+     1,
+     1,
+     2,
+     1,
+     4
+    ],
+    "deepseek-r1 = deepseek-v3 = deepseek-v3.1 = deepseek-v4-flash = deepseek-v4-pro = deepseek-v4.1-flash = deepseek-vl2": [
+     2,
+     2,
+     2,
+     1,
+     1,
+     2,
+     1,
+     2
+    ],
+    "ernie-4.5 = ernie-4.5-21b": [
+     2,
+     6,
+     4,
+     1,
+     1,
+     2,
+     1,
+     2
+    ],
+    "falcon-7b": [
+     3,
+     4,
+     3,
+     1,
+     1,
+     4,
+     1,
+     5
+    ],
+    "gemma-2-9b": [
+     2,
+     2,
+     2,
+     1,
+     1,
+     2,
+     1,
+     2
+    ],
+    "gemma-3-4b": [
+     2,
+     2,
+     2,
+     1,
+     1,
+     2,
+     1,
+     2
+    ],
+    "glm-4-32b-0414 = glm-4-9b-0414 = glm-4.1v-9b = glm-4.5 = glm-4.5-air = glm-4.5v = glm-4.6 = glm-z1-9b = glm-z1-rumination-32b": [
+     2,
+     3,
+     2,
+     1,
+     1,
+     2,
+     1,
+     2
+    ],
+    "glm-5 = glm-5.1 = glm-5.2 = glm-5.3": [
+     2,
+     3,
+     2,
+     1,
+     1,
+     2,
+     1,
+     2
+    ],
+    "gpt2": [
+     2,
+     5,
+     3,
+     1,
+     5,
+     5,
+     1,
+     6
+    ],
+    "granite-3.1-8b": [
+     3,
+     4,
+     3,
+     1,
+     1,
+     4,
+     1,
+     4
+    ],
+    "hunyuan-7b = hunyuan-a13b": [
+     2,
+     2,
+     3,
+     1,
+     1,
+     2,
+     1,
+     2
+    ],
+    "internlm2.5-7b": [
+     2,
+     2,
+     4,
+     1,
+     1,
+     2,
+     1,
+     2
+    ],
+    "internlm3-8b": [
+     4,
+     6,
+     4,
+     1,
+     1,
+     6,
+     1,
+     6
+    ],
+    "jamba-v0.1": [
+     4,
+     6,
+     4,
+     1,
+     1,
+     6,
+     1,
+     4
+    ],
+    "kimi-audio-7b": [
+     3,
+     2,
+     3,
+     1,
+     1,
+     2,
+     1,
+     2
+    ],
+    "kimi-dev-72b = qwen-vl = qwen1.5-7b = qwen2-7b = qwen2-vl-7b = qwen2.5-0.5b = qwen2.5-1.5b = qwen2.5-14b = qwen2.5-32b = qwen2.5-3b = qwen2.5-72b = qwen2.5-7b = qwen2.5-coder-32b = qwen2.5-coder-7b = qwen2.5-vl-72b = qwen3-0.6b = qwen3-1.7b = qwen3-14b = qwen3-235b-2507 = qwen3-235b-a22b = qwen3-30b-2507 = qwen3-30b-a3b = qwen3-32b = qwen3-4b = qwen3-8b = qwen3-coder-30b = qwen3-coder-480b = qwen3-next-80b = qwen3-vl-32b = qwen3-vl-8b": [
+     3,
+     2,
+     3,
+     1,
+     1,
+     2,
+     1,
+     2
+    ],
+    "kimi-k2 = kimi-k2-0905 = kimi-k2-base = kimi-k2-thinking = kimi-k2.5 = kimi-k2.6 = kimi-k2.7-code = kimi-linear-48b = kimi-vl = kimi-vl-2506 = kimi-vl-thinking = moonlight-16b": [
+     2,
+     1,
+     2,
+     1,
+     1,
+     2,
+     1,
+     4
+    ],
+    "llama-2-7b = phi-3-mini = phi-3.5-mini": [
+     3,
+     7,
+     5,
+     2,
+     3,
+     7,
+     2,
+     7
+    ],
+    "llama-3-8b = llama-3.1-8b = llama-3.2-3b = llama-3.3-70b = nemotron-70b": [
+     2,
+     4,
+     2,
+     1,
+     1,
+     4,
+     1,
+     2
+    ],
+    "minicpm4-8b": [
+     5,
+     3,
+     5,
+     3,
+     2,
+     5,
+     3,
+     3
+    ],
+    "minimax-m1 = minimax-m2": [
+     1,
+     2,
+     1,
+     1,
+     1,
+     2,
+     1,
+     2
+    ],
+    "ministral-8b = mistral-nemo = mistral-small-24b": [
+     2,
+     4,
+     2,
+     1,
+     2,
+     4,
+     1,
+     2
+    ],
+    "mistral-large-2411": [
+     2,
+     6,
+     4,
+     1,
+     2,
+     6,
+     1,
+     4
+    ],
+    "nemotron-mini": [
+     2,
+     7,
+     2,
+     2,
+     1,
+     7,
+     2,
+     3
+    ],
+    "olmo-2-7b = openai-cl100k = phi-4": [
+     3,
+     4,
+     3,
+     1,
+     1,
+     4,
+     1,
+     6
+    ],
+    "openai-o200k = phi-4-mini": [
+     2,
+     4,
+     3,
+     1,
+     1,
+     4,
+     1,
+     2
+    ],
+    "qwen3.5-27b = qwen3.5-9b = qwen3.6-27b": [
+     2,
+     4,
+     2,
+     1,
+     1,
+     3,
+     1,
+     2
+    ],
+    "starcoder2-3b = starcoder2-7b": [
+     3,
+     4,
+     3,
+     1,
+     1,
+     4,
+     1,
+     4
+    ],
+    "xverse-7b": [
+     2,
+     2,
+     2,
+     1,
+     1,
+     2,
+     1,
+     2
+    ],
+    "yi-1.5-9b = yi-34b = yi-coder-9b": [
+     4,
+     6,
+     4,
+     1,
+     1,
+     6,
+     1,
+     2
+    ]
+   },
+   "min_margin": 12
+  },
+  "minimax-m1 = minimax-m2": {
+   "probes": [
+    "、世",
+    "、代",
+    "、成",
+    "、数",
+    "、英",
+    "。人",
+    "，东",
+    "，单"
+   ],
+   "codes": {
+    "baichuan2-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "codellama-7b": [
+     3,
+     3,
+     3,
+     3,
+     3,
+     3,
+     3,
+     3
+    ],
+    "codestral-22b = mistral-7b-v0.1 = mixtral-8x22b = mixtral-8x7b = openchat-3.5 = zephyr-7b": [
+     3,
+     3,
+     3,
+     3,
+     3,
+     3,
+     3,
+     3
+    ],
+    "deepseek-coder-6.7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "deepseek-coder-v2 = deepseek-v2-lite = deepseek-v2.5": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "deepseek-r1 = deepseek-v3 = deepseek-v3.1 = deepseek-v4-flash = deepseek-v4-pro = deepseek-v4.1-flash = deepseek-vl2": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "ernie-4.5 = ernie-4.5-21b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "falcon-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     4,
+     4
+    ],
+    "gemma-2-9b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "gemma-3-4b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "glm-4-32b-0414 = glm-4-9b-0414 = glm-4.1v-9b = glm-4.5 = glm-4.5-air = glm-4.5v = glm-4.6 = glm-z1-9b = glm-z1-rumination-32b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "glm-5 = glm-5.1 = glm-5.2 = glm-5.3": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "gpt2": [
+     3,
+     2,
+     3,
+     3,
+     4,
+     2,
+     5,
+     5
+    ],
+    "granite-3.1-8b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "hunyuan-7b = hunyuan-a13b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "internlm2.5-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "internlm3-8b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "jamba-v0.1": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "kimi-audio-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "kimi-dev-72b = qwen-vl = qwen1.5-7b = qwen2-7b = qwen2-vl-7b = qwen2.5-0.5b = qwen2.5-1.5b = qwen2.5-14b = qwen2.5-32b = qwen2.5-3b = qwen2.5-72b = qwen2.5-7b = qwen2.5-coder-32b = qwen2.5-coder-7b = qwen2.5-vl-72b = qwen3-0.6b = qwen3-1.7b = qwen3-14b = qwen3-235b-2507 = qwen3-235b-a22b = qwen3-30b-2507 = qwen3-30b-a3b = qwen3-32b = qwen3-4b = qwen3-8b = qwen3-coder-30b = qwen3-coder-480b = qwen3-next-80b = qwen3-vl-32b = qwen3-vl-8b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "kimi-k2 = kimi-k2-0905 = kimi-k2-base = kimi-k2-thinking = kimi-k2.5 = kimi-k2.6 = kimi-k2.7-code = kimi-linear-48b = kimi-vl = kimi-vl-2506 = kimi-vl-thinking = moonlight-16b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "llama-2-7b = phi-3-mini = phi-3.5-mini": [
+     3,
+     3,
+     3,
+     3,
+     3,
+     3,
+     3,
+     3
+    ],
+    "llama-3-8b = llama-3.1-8b = llama-3.2-3b = llama-3.3-70b = nemotron-70b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "minicpm4-8b": [
+     3,
+     3,
+     3,
+     3,
+     3,
+     3,
+     3,
+     3
+    ],
+    "minimax-m1 = minimax-m2": [
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1
+    ],
+    "ministral-8b = mistral-nemo = mistral-small-24b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "mistral-large-2411": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "nemotron-mini": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "olmo-2-7b = openai-cl100k = phi-4": [
+     3,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "openai-o200k = phi-4-mini": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "qwen3.5-27b = qwen3.5-9b = qwen3.6-27b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "starcoder2-3b = starcoder2-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "xverse-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     4,
+     4
+    ],
+    "yi-1.5-9b = yi-34b = yi-coder-9b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ]
+   },
+   "min_margin": 8
+  },
+  "ministral-8b = mistral-nemo = mistral-small-24b": {
+   "probes": [
+    "甲乙",
+    "日初版発行",
+    "购买",
+    "优异",
+    "据我所知",
+    "印书馆",
+    "覆盖",
+    "粵語配音"
+   ],
+   "codes": {
+    "baichuan2-7b": [
+     1,
+     5,
+     1,
+     1,
+     3,
+     3,
+     1,
+     3
+    ],
+    "codellama-7b": [
+     5,
+     6,
+     7,
+     7,
+     5,
+     8,
+     7,
+     7
+    ],
+    "codestral-22b = mistral-7b-v0.1 = mixtral-8x22b = mixtral-8x7b = openchat-3.5 = zephyr-7b": [
+     5,
+     6,
+     3,
+     3,
+     5,
+     4,
+     3,
+     7
+    ],
+    "deepseek-coder-6.7b": [
+     2,
+     6,
+     1,
+     2,
+     4,
+     3,
+     1,
+     6
+    ],
+    "deepseek-coder-v2 = deepseek-v2-lite = deepseek-v2.5": [
+     2,
+     6,
+     1,
+     1,
+     3,
+     3,
+     1,
+     6
+    ],
+    "deepseek-r1 = deepseek-v3 = deepseek-v3.1 = deepseek-v4-flash = deepseek-v4-pro = deepseek-v4.1-flash = deepseek-vl2": [
+     1,
+     5,
+     1,
+     1,
+     3,
+     1,
+     1,
+     4
+    ],
+    "ernie-4.5 = ernie-4.5-21b": [
+     1,
+     5,
+     1,
+     1,
+     3,
+     3,
+     1,
+     5
+    ],
+    "falcon-7b": [
+     5,
+     6,
+     5,
+     6,
+     4,
+     5,
+     3,
+     8
+    ],
+    "gemma-2-9b": [
+     2,
+     4,
+     1,
+     2,
+     4,
+     3,
+     1,
+     3
+    ],
+    "gemma-3-4b": [
+     2,
+     4,
+     1,
+     2,
+     4,
+     3,
+     1,
+     4
+    ],
+    "glm-4-32b-0414 = glm-4-9b-0414 = glm-4.1v-9b = glm-4.5 = glm-4.5-air = glm-4.5v = glm-4.6 = glm-z1-9b = glm-z1-rumination-32b": [
+     2,
+     5,
+     1,
+     1,
+     3,
+     3,
+     1,
+     4
+    ],
+    "glm-5 = glm-5.1 = glm-5.2 = glm-5.3": [
+     2,
+     5,
+     1,
+     1,
+     3,
+     3,
+     1,
+     4
+    ],
+    "gpt2": [
+     4,
+     10,
+     5,
+     4,
+     10,
+     7,
+     4,
+     11
+    ],
+    "granite-3.1-8b": [
+     4,
+     5,
+     2,
+     2,
+     4,
+     4,
+     1,
+     5
+    ],
+    "hunyuan-7b = hunyuan-a13b": [
+     2,
+     5,
+     1,
+     1,
+     3,
+     3,
+     1,
+     4
+    ],
+    "internlm2.5-7b": [
+     2,
+     5,
+     1,
+     1,
+     3,
+     3,
+     1,
+     3
+    ],
+    "internlm3-8b": [
+     2,
+     7,
+     1,
+     2,
+     3,
+     3,
+     1,
+     8
+    ],
+    "jamba-v0.1": [
+     6,
+     5,
+     2,
+     2,
+     4,
+     3,
+     2,
+     6
+    ],
+    "kimi-audio-7b": [
+     2,
+     6,
+     1,
+     1,
+     4,
+     3,
+     1,
+     4
+    ],
+    "kimi-dev-72b = qwen-vl = qwen1.5-7b = qwen2-7b = qwen2-vl-7b = qwen2.5-0.5b = qwen2.5-1.5b = qwen2.5-14b = qwen2.5-32b = qwen2.5-3b = qwen2.5-72b = qwen2.5-7b = qwen2.5-coder-32b = qwen2.5-coder-7b = qwen2.5-vl-72b = qwen3-0.6b = qwen3-1.7b = qwen3-14b = qwen3-235b-2507 = qwen3-235b-a22b = qwen3-30b-2507 = qwen3-30b-a3b = qwen3-32b = qwen3-4b = qwen3-8b = qwen3-coder-30b = qwen3-coder-480b = qwen3-next-80b = qwen3-vl-32b = qwen3-vl-8b": [
+     2,
+     6,
+     1,
+     1,
+     4,
+     3,
+     1,
+     4
+    ],
+    "kimi-k2 = kimi-k2-0905 = kimi-k2-base = kimi-k2-thinking = kimi-k2.5 = kimi-k2.6 = kimi-k2.7-code = kimi-linear-48b = kimi-vl = kimi-vl-2506 = kimi-vl-thinking = moonlight-16b": [
+     1,
+     5,
+     1,
+     1,
+     3,
+     3,
+     1,
+     4
+    ],
+    "llama-2-7b = phi-3-mini = phi-3.5-mini": [
+     5,
+     6,
+     7,
+     7,
+     5,
+     8,
+     7,
+     7
+    ],
+    "llama-3-8b = llama-3.1-8b = llama-3.2-3b = llama-3.3-70b = nemotron-70b": [
+     2,
+     5,
+     1,
+     2,
+     4,
+     3,
+     2,
+     5
+    ],
+    "minicpm4-8b": [
+     2,
+     5,
+     2,
+     2,
+     4,
+     4,
+     2,
+     4
+    ],
+    "minimax-m1 = minimax-m2": [
+     2,
+     4,
+     1,
+     1,
+     3,
+     3,
+     1,
+     4
+    ],
+    "ministral-8b = mistral-nemo = mistral-small-24b": [
+     3,
+     1,
+     4,
+     4,
+     1,
+     1,
+     4,
+     1
+    ],
+    "mistral-large-2411": [
+     4,
+     5,
+     2,
+     2,
+     4,
+     3,
+     2,
+     6
+    ],
+    "nemotron-mini": [
+     5,
+     4,
+     2,
+     2,
+     4,
+     3,
+     2,
+     7
+    ],
+    "olmo-2-7b = openai-cl100k = phi-4": [
+     4,
+     6,
+     3,
+     2,
+     4,
+     5,
+     4,
+     6
+    ],
+    "openai-o200k = phi-4-mini": [
+     2,
+     5,
+     1,
+     2,
+     4,
+     3,
+     1,
+     5
+    ],
+    "qwen3.5-27b = qwen3.5-9b = qwen3.6-27b": [
+     2,
+     4,
+     1,
+     1,
+     3,
+     3,
+     1,
+     4
+    ],
+    "starcoder2-3b = starcoder2-7b": [
+     4,
+     5,
+     2,
+     2,
+     4,
+     4,
+     1,
+     5
+    ],
+    "xverse-7b": [
+     2,
+     5,
+     2,
+     2,
+     4,
+     3,
+     2,
+     4
+    ],
+    "yi-1.5-9b = yi-34b = yi-coder-9b": [
+     2,
+     7,
+     1,
+     1,
+     3,
+     3,
+     1,
+     6
+    ]
+   },
+   "min_margin": 19
+  },
+  "mistral-large-2411": {
+   "probes": [
+    "亿兆",
+    "families.",
+    "但嵌",
+    "万亿",
+    "上下",
+    "不同",
+    "义礼",
+    "中国"
+   ],
+   "codes": {
+    "baichuan2-7b": [
+     2,
+     3,
+     2,
+     1,
+     1,
+     1,
+     2,
+     1
+    ],
+    "codellama-7b": [
+     7,
+     2,
+     7,
+     5,
+     3,
+     3,
+     5,
+     3
+    ],
+    "codestral-22b = mistral-7b-v0.1 = mixtral-8x22b = mixtral-8x7b = openchat-3.5 = zephyr-7b": [
+     7,
+     2,
+     3,
+     5,
+     3,
+     3,
+     3,
+     3
+    ],
+    "deepseek-coder-6.7b": [
+     3,
+     4,
+     4,
+     2,
+     1,
+     1,
+     2,
+     1
+    ],
+    "deepseek-coder-v2 = deepseek-v2-lite = deepseek-v2.5": [
+     2,
+     2,
+     2,
+     1,
+     1,
+     1,
+     2,
+     1
+    ],
+    "deepseek-r1 = deepseek-v3 = deepseek-v3.1 = deepseek-v4-flash = deepseek-v4-pro = deepseek-v4.1-flash = deepseek-vl2": [
+     2,
+     3,
+     2,
+     1,
+     1,
+     1,
+     2,
+     1
+    ],
+    "ernie-4.5 = ernie-4.5-21b": [
+     2,
+     2,
+     2,
+     1,
+     1,
+     1,
+     2,
+     1
+    ],
+    "falcon-7b": [
+     4,
+     3,
+     6,
+     3,
+     2,
+     1,
+     5,
+     2
+    ],
+    "gemma-2-9b": [
+     2,
+     2,
+     2,
+     2,
+     1,
+     1,
+     2,
+     1
+    ],
+    "gemma-3-4b": [
+     2,
+     2,
+     2,
+     2,
+     1,
+     1,
+     2,
+     1
+    ],
+    "glm-4-32b-0414 = glm-4-9b-0414 = glm-4.1v-9b = glm-4.5 = glm-4.5-air = glm-4.5v = glm-4.6 = glm-z1-9b = glm-z1-rumination-32b": [
+     2,
+     3,
+     2,
+     1,
+     1,
+     1,
+     2,
+     1
+    ],
+    "glm-5 = glm-5.1 = glm-5.2 = glm-5.3": [
+     2,
+     3,
+     2,
+     1,
+     1,
+     1,
+     2,
+     1
+    ],
+    "gpt2": [
+     4,
+     3,
+     5,
+     4,
+     3,
+     3,
+     5,
+     3
+    ],
+    "granite-3.1-8b": [
+     4,
+     3,
+     3,
+     3,
+     1,
+     1,
+     3,
+     1
+    ],
+    "hunyuan-7b = hunyuan-a13b": [
+     2,
+     3,
+     2,
+     1,
+     1,
+     1,
+     2,
+     1
+    ],
+    "internlm2.5-7b": [
+     2,
+     3,
+     2,
+     2,
+     1,
+     1,
+     2,
+     1
+    ],
+    "internlm3-8b": [
+     2,
+     2,
+     2,
+     2,
+     1,
+     1,
+     2,
+     1
+    ],
+    "jamba-v0.1": [
+     4,
+     3,
+     4,
+     2,
+     2,
+     2,
+     4,
+     2
+    ],
+    "kimi-audio-7b": [
+     2,
+     3,
+     2,
+     1,
+     1,
+     1,
+     2,
+     1
+    ],
+    "kimi-dev-72b = qwen-vl = qwen1.5-7b = qwen2-7b = qwen2-vl-7b = qwen2.5-0.5b = qwen2.5-1.5b = qwen2.5-14b = qwen2.5-32b = qwen2.5-3b = qwen2.5-72b = qwen2.5-7b = qwen2.5-coder-32b = qwen2.5-coder-7b = qwen2.5-vl-72b = qwen3-0.6b = qwen3-1.7b = qwen3-14b = qwen3-235b-2507 = qwen3-235b-a22b = qwen3-30b-2507 = qwen3-30b-a3b = qwen3-32b = qwen3-4b = qwen3-8b = qwen3-coder-30b = qwen3-coder-480b = qwen3-next-80b = qwen3-vl-32b = qwen3-vl-8b": [
+     2,
+     3,
+     2,
+     1,
+     1,
+     1,
+     2,
+     1
+    ],
+    "kimi-k2 = kimi-k2-0905 = kimi-k2-base = kimi-k2-thinking = kimi-k2.5 = kimi-k2.6 = kimi-k2.7-code = kimi-linear-48b = kimi-vl = kimi-vl-2506 = kimi-vl-thinking = moonlight-16b": [
+     2,
+     3,
+     2,
+     1,
+     1,
+     1,
+     2,
+     1
+    ],
+    "llama-2-7b = phi-3-mini = phi-3.5-mini": [
+     7,
+     2,
+     7,
+     5,
+     3,
+     3,
+     5,
+     3
+    ],
+    "llama-3-8b = llama-3.1-8b = llama-3.2-3b = llama-3.3-70b = nemotron-70b": [
+     3,
+     3,
+     3,
+     2,
+     2,
+     1,
+     2,
+     1
+    ],
+    "minicpm4-8b": [
+     3,
+     2,
+     2,
+     2,
+     2,
+     2,
+     3,
+     1
+    ],
+    "minimax-m1 = minimax-m2": [
+     2,
+     3,
+     2,
+     1,
+     1,
+     1,
+     2,
+     1
+    ],
+    "ministral-8b = mistral-nemo = mistral-small-24b": [
+     3,
+     3,
+     4,
+     2,
+     2,
+     1,
+     2,
+     1
+    ],
+    "mistral-large-2411": [
+     6,
+     4,
+     2,
+     4,
+     2,
+     2,
+     2,
+     2
+    ],
+    "nemotron-mini": [
+     4,
+     2,
+     4,
+     2,
+     2,
+     2,
+     2,
+     1
+    ],
+    "olmo-2-7b = openai-cl100k = phi-4": [
+     3,
+     3,
+     4,
+     2,
+     2,
+     2,
+     3,
+     1
+    ],
+    "openai-o200k = phi-4-mini": [
+     2,
+     3,
+     4,
+     2,
+     1,
+     1,
+     2,
+     1
+    ],
+    "qwen3.5-27b = qwen3.5-9b = qwen3.6-27b": [
+     2,
+     3,
+     2,
+     1,
+     1,
+     1,
+     2,
+     1
+    ],
+    "starcoder2-3b = starcoder2-7b": [
+     4,
+     3,
+     3,
+     3,
+     1,
+     1,
+     3,
+     1
+    ],
+    "xverse-7b": [
+     2,
+     5,
+     2,
+     2,
+     2,
+     1,
+     2,
+     1
+    ],
+    "yi-1.5-9b = yi-34b = yi-coder-9b": [
+     2,
+     2,
+     2,
+     1,
+     1,
+     1,
+     2,
+     1
+    ]
+   },
+   "min_margin": 9
+  },
+  "nemotron-mini": {
+   "probes": [
+    "一匹",
+    "一種",
+    "函数",
+    "丢人",
+    "九龙",
+    "仅剩",
+    "個人",
+    "侧的"
+   ],
+   "codes": {
+    "baichuan2-7b": [
+     2,
+     2,
+     1,
+     1,
+     1,
+     1,
+     2,
+     2
+    ],
+    "codellama-7b": [
+     5,
+     5,
+     3,
+     5,
+     3,
+     7,
+     5,
+     5
+    ],
+    "codestral-22b = mistral-7b-v0.1 = mixtral-8x22b = mixtral-8x7b = openchat-3.5 = zephyr-7b": [
+     3,
+     3,
+     3,
+     3,
+     3,
+     3,
+     3,
+     3
+    ],
+    "deepseek-coder-6.7b": [
+     2,
+     3,
+     3,
+     2,
+     2,
+     2,
+     3,
+     2
+    ],
+    "deepseek-coder-v2 = deepseek-v2-lite = deepseek-v2.5": [
+     2,
+     3,
+     1,
+     2,
+     2,
+     2,
+     3,
+     2
+    ],
+    "deepseek-r1 = deepseek-v3 = deepseek-v3.1 = deepseek-v4-flash = deepseek-v4-pro = deepseek-v4.1-flash = deepseek-vl2": [
+     2,
+     1,
+     1,
+     2,
+     1,
+     2,
+     1,
+     1
+    ],
+    "ernie-4.5 = ernie-4.5-21b": [
+     2,
+     2,
+     1,
+     2,
+     1,
+     2,
+     1,
+     2
+    ],
+    "falcon-7b": [
+     3,
+     3,
+     3,
+     3,
+     6,
+     3,
+     3,
+     4
+    ],
+    "gemma-2-9b": [
+     2,
+     1,
+     1,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "gemma-3-4b": [
+     2,
+     1,
+     1,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "glm-4-32b-0414 = glm-4-9b-0414 = glm-4.1v-9b = glm-4.5 = glm-4.5-air = glm-4.5v = glm-4.6 = glm-z1-9b = glm-z1-rumination-32b": [
+     2,
+     2,
+     1,
+     2,
+     1,
+     2,
+     1,
+     2
+    ],
+    "glm-5 = glm-5.1 = glm-5.2 = glm-5.3": [
+     2,
+     2,
+     1,
+     2,
+     1,
+     2,
+     1,
+     2
+    ],
+    "gpt2": [
+     3,
+     4,
+     4,
+     3,
+     4,
+     4,
+     4,
+     4
+    ],
+    "granite-3.1-8b": [
+     2,
+     2,
+     1,
+     3,
+     2,
+     3,
+     2,
+     2
+    ],
+    "hunyuan-7b = hunyuan-a13b": [
+     2,
+     2,
+     1,
+     2,
+     1,
+     2,
+     2,
+     1
+    ],
+    "internlm2.5-7b": [
+     2,
+     1,
+     1,
+     1,
+     1,
+     2,
+     1,
+     1
+    ],
+    "internlm3-8b": [
+     2,
+     4,
+     1,
+     2,
+     2,
+     2,
+     4,
+     2
+    ],
+    "jamba-v0.1": [
+     2,
+     2,
+     1,
+     4,
+     4,
+     4,
+     2,
+     2
+    ],
+    "kimi-audio-7b": [
+     2,
+     1,
+     1,
+     2,
+     1,
+     2,
+     1,
+     2
+    ],
+    "kimi-dev-72b = qwen-vl = qwen1.5-7b = qwen2-7b = qwen2-vl-7b = qwen2.5-0.5b = qwen2.5-1.5b = qwen2.5-14b = qwen2.5-32b = qwen2.5-3b = qwen2.5-72b = qwen2.5-7b = qwen2.5-coder-32b = qwen2.5-coder-7b = qwen2.5-vl-72b = qwen3-0.6b = qwen3-1.7b = qwen3-14b = qwen3-235b-2507 = qwen3-235b-a22b = qwen3-30b-2507 = qwen3-30b-a3b = qwen3-32b = qwen3-4b = qwen3-8b = qwen3-coder-30b = qwen3-coder-480b = qwen3-next-80b = qwen3-vl-32b = qwen3-vl-8b": [
+     2,
+     1,
+     1,
+     2,
+     1,
+     2,
+     1,
+     2
+    ],
+    "kimi-k2 = kimi-k2-0905 = kimi-k2-base = kimi-k2-thinking = kimi-k2.5 = kimi-k2.6 = kimi-k2.7-code = kimi-linear-48b = kimi-vl = kimi-vl-2506 = kimi-vl-thinking = moonlight-16b": [
+     1,
+     2,
+     1,
+     1,
+     1,
+     1,
+     2,
+     1
+    ],
+    "llama-2-7b = phi-3-mini = phi-3.5-mini": [
+     5,
+     5,
+     3,
+     5,
+     3,
+     7,
+     5,
+     5
+    ],
+    "llama-3-8b = llama-3.1-8b = llama-3.2-3b = llama-3.3-70b = nemotron-70b": [
+     2,
+     2,
+     1,
+     3,
+     2,
+     2,
+     1,
+     2
+    ],
+    "minicpm4-8b": [
+     2,
+     2,
+     2,
+     3,
+     2,
+     3,
+     3,
+     3
+    ],
+    "minimax-m1 = minimax-m2": [
+     2,
+     1,
+     1,
+     1,
+     1,
+     2,
+     1,
+     1
+    ],
+    "ministral-8b = mistral-nemo = mistral-small-24b": [
+     2,
+     2,
+     3,
+     3,
+     3,
+     2,
+     2,
+     3
+    ],
+    "mistral-large-2411": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "nemotron-mini": [
+     4,
+     2,
+     5,
+     5,
+     1,
+     5,
+     1,
+     5
+    ],
+    "olmo-2-7b = openai-cl100k = phi-4": [
+     3,
+     3,
+     1,
+     3,
+     4,
+     4,
+     3,
+     3
+    ],
+    "openai-o200k = phi-4-mini": [
+     2,
+     2,
+     1,
+     3,
+     1,
+     2,
+     2,
+     2
+    ],
+    "qwen3.5-27b = qwen3.5-9b = qwen3.6-27b": [
+     2,
+     1,
+     1,
+     2,
+     1,
+     1,
+     1,
+     2
+    ],
+    "starcoder2-3b = starcoder2-7b": [
+     2,
+     2,
+     1,
+     3,
+     2,
+     3,
+     2,
+     2
+    ],
+    "xverse-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "yi-1.5-9b = yi-34b = yi-coder-9b": [
+     2,
+     1,
+     1,
+     2,
+     1,
+     2,
+     1,
+     1
+    ]
+   },
+   "min_margin": 14
+  },
+  "olmo-2-7b = openai-cl100k = phi-4": {
+   "probes": [
+    "响着",
+    "负载均衡把",
+    "慢慢",
+    "壬癸；",
+    "均衡把",
+    "“谢谢",
+    "矩阵",
+    "摇摇头"
+   ],
+   "codes": {
+    "baichuan2-7b": [
+     2,
+     3,
+     1,
+     3,
+     2,
+     2,
+     1,
+     2
+    ],
+    "codellama-7b": [
+     7,
+     14,
+     7,
+     8,
+     10,
+     7,
+     7,
+     8
+    ],
+    "codestral-22b = mistral-7b-v0.1 = mixtral-8x22b = mixtral-8x7b = openchat-3.5 = zephyr-7b": [
+     3,
+     6,
+     3,
+     8,
+     4,
+     3,
+     3,
+     8
+    ],
+    "deepseek-coder-6.7b": [
+     2,
+     5,
+     1,
+     5,
+     3,
+     3,
+     2,
+     3
+    ],
+    "deepseek-coder-v2 = deepseek-v2-lite = deepseek-v2.5": [
+     2,
+     4,
+     1,
+     3,
+     2,
+     2,
+     1,
+     2
+    ],
+    "deepseek-r1 = deepseek-v3 = deepseek-v3.1 = deepseek-v4-flash = deepseek-v4-pro = deepseek-v4.1-flash = deepseek-vl2": [
+     2,
+     3,
+     1,
+     3,
+     2,
+     2,
+     1,
+     1
+    ],
+    "ernie-4.5 = ernie-4.5-21b": [
+     2,
+     3,
+     1,
+     3,
+     2,
+     2,
+     1,
+     1
+    ],
+    "falcon-7b": [
+     2,
+     7,
+     2,
+     7,
+     4,
+     3,
+     3,
+     3
+    ],
+    "gemma-2-9b": [
+     2,
+     3,
+     1,
+     3,
+     2,
+     2,
+     1,
+     1
+    ],
+    "gemma-3-4b": [
+     2,
+     3,
+     1,
+     3,
+     2,
+     2,
+     1,
+     2
+    ],
+    "glm-4-32b-0414 = glm-4-9b-0414 = glm-4.1v-9b = glm-4.5 = glm-4.5-air = glm-4.5v = glm-4.6 = glm-z1-9b = glm-z1-rumination-32b": [
+     2,
+     3,
+     1,
+     3,
+     2,
+     2,
+     1,
+     2
+    ],
+    "glm-5 = glm-5.1 = glm-5.2 = glm-5.3": [
+     2,
+     3,
+     1,
+     3,
+     2,
+     2,
+     1,
+     2
+    ],
+    "gpt2": [
+     6,
+     14,
+     6,
+     8,
+     8,
+     8,
+     6,
+     8
+    ],
+    "granite-3.1-8b": [
+     2,
+     5,
+     2,
+     5,
+     3,
+     3,
+     1,
+     5
+    ],
+    "hunyuan-7b = hunyuan-a13b": [
+     2,
+     3,
+     1,
+     3,
+     2,
+     2,
+     1,
+     2
+    ],
+    "internlm2.5-7b": [
+     2,
+     3,
+     1,
+     3,
+     2,
+     2,
+     1,
+     2
+    ],
+    "internlm3-8b": [
+     2,
+     3,
+     1,
+     7,
+     2,
+     2,
+     1,
+     2
+    ],
+    "jamba-v0.1": [
+     2,
+     5,
+     2,
+     7,
+     3,
+     3,
+     2,
+     7
+    ],
+    "kimi-audio-7b": [
+     2,
+     3,
+     1,
+     3,
+     2,
+     2,
+     1,
+     2
+    ],
+    "kimi-dev-72b = qwen-vl = qwen1.5-7b = qwen2-7b = qwen2-vl-7b = qwen2.5-0.5b = qwen2.5-1.5b = qwen2.5-14b = qwen2.5-32b = qwen2.5-3b = qwen2.5-72b = qwen2.5-7b = qwen2.5-coder-32b = qwen2.5-coder-7b = qwen2.5-vl-72b = qwen3-0.6b = qwen3-1.7b = qwen3-14b = qwen3-235b-2507 = qwen3-235b-a22b = qwen3-30b-2507 = qwen3-30b-a3b = qwen3-32b = qwen3-4b = qwen3-8b = qwen3-coder-30b = qwen3-coder-480b = qwen3-next-80b = qwen3-vl-32b = qwen3-vl-8b": [
+     2,
+     3,
+     1,
+     3,
+     2,
+     2,
+     1,
+     2
+    ],
+    "kimi-k2 = kimi-k2-0905 = kimi-k2-base = kimi-k2-thinking = kimi-k2.5 = kimi-k2.6 = kimi-k2.7-code = kimi-linear-48b = kimi-vl = kimi-vl-2506 = kimi-vl-thinking = moonlight-16b": [
+     2,
+     3,
+     1,
+     3,
+     2,
+     2,
+     1,
+     1
+    ],
+    "llama-2-7b = phi-3-mini = phi-3.5-mini": [
+     7,
+     14,
+     7,
+     8,
+     10,
+     7,
+     7,
+     8
+    ],
+    "llama-3-8b = llama-3.1-8b = llama-3.2-3b = llama-3.3-70b = nemotron-70b": [
+     2,
+     5,
+     2,
+     5,
+     3,
+     3,
+     3,
+     3
+    ],
+    "minicpm4-8b": [
+     3,
+     4,
+     2,
+     6,
+     3,
+     2,
+     2,
+     3
+    ],
+    "minimax-m1 = minimax-m2": [
+     2,
+     3,
+     1,
+     3,
+     2,
+     2,
+     1,
+     1
+    ],
+    "ministral-8b = mistral-nemo = mistral-small-24b": [
+     2,
+     6,
+     1,
+     5,
+     4,
+     1,
+     4,
+     1
+    ],
+    "mistral-large-2411": [
+     2,
+     5,
+     2,
+     7,
+     3,
+     3,
+     2,
+     7
+    ],
+    "nemotron-mini": [
+     3,
+     6,
+     2,
+     8,
+     4,
+     2,
+     5,
+     3
+    ],
+    "olmo-2-7b = openai-cl100k = phi-4": [
+     4,
+     9,
+     6,
+     5,
+     6,
+     5,
+     5,
+     5
+    ],
+    "openai-o200k = phi-4-mini": [
+     2,
+     5,
+     2,
+     5,
+     3,
+     2,
+     2,
+     3
+    ],
+    "qwen3.5-27b = qwen3.5-9b = qwen3.6-27b": [
+     2,
+     2,
+     1,
+     4,
+     2,
+     2,
+     1,
+     1
+    ],
+    "starcoder2-3b = starcoder2-7b": [
+     2,
+     5,
+     2,
+     5,
+     3,
+     3,
+     1,
+     5
+    ],
+    "xverse-7b": [
+     2,
+     5,
+     2,
+     5,
+     3,
+     3,
+     2,
+     3
+    ],
+    "yi-1.5-9b = yi-34b = yi-coder-9b": [
+     2,
+     3,
+     1,
+     7,
+     2,
+     2,
+     1,
+     2
+    ]
+   },
+   "min_margin": 18
+  },
+  "openai-o200k = phi-4-mini": {
+   "probes": [
+    ",色",
+    "A片",
+    "_色",
+    "a片",
+    "一卡",
+    "一肖",
+    "一堆",
+    "，很"
+   ],
+   "codes": {
+    "baichuan2-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "codellama-7b": [
+     2,
+     2,
+     2,
+     2,
+     5,
+     5,
+     5,
+     5
+    ],
+    "codestral-22b = mistral-7b-v0.1 = mixtral-8x22b = mixtral-8x7b = openchat-3.5 = zephyr-7b": [
+     2,
+     2,
+     2,
+     2,
+     3,
+     5,
+     3,
+     3
+    ],
+    "deepseek-coder-6.7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "deepseek-coder-v2 = deepseek-v2-lite = deepseek-v2.5": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "deepseek-r1 = deepseek-v3 = deepseek-v3.1 = deepseek-v4-flash = deepseek-v4-pro = deepseek-v4.1-flash = deepseek-vl2": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "ernie-4.5 = ernie-4.5-21b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "falcon-7b": [
+     3,
+     2,
+     3,
+     2,
+     2,
+     3,
+     2,
+     6
+    ],
+    "gemma-2-9b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "gemma-3-4b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "glm-4-32b-0414 = glm-4-9b-0414 = glm-4.1v-9b = glm-4.5 = glm-4.5-air = glm-4.5v = glm-4.6 = glm-z1-9b = glm-z1-rumination-32b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "glm-5 = glm-5.1 = glm-5.2 = glm-5.3": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "gpt2": [
+     4,
+     3,
+     4,
+     3,
+     3,
+     4,
+     4,
+     5
+    ],
+    "granite-3.1-8b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     3,
+     2,
+     2
+    ],
+    "hunyuan-7b = hunyuan-a13b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "internlm2.5-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "internlm3-8b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "jamba-v0.1": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     4,
+     2,
+     2
+    ],
+    "kimi-audio-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "kimi-dev-72b = qwen-vl = qwen1.5-7b = qwen2-7b = qwen2-vl-7b = qwen2.5-0.5b = qwen2.5-1.5b = qwen2.5-14b = qwen2.5-32b = qwen2.5-3b = qwen2.5-72b = qwen2.5-7b = qwen2.5-coder-32b = qwen2.5-coder-7b = qwen2.5-vl-72b = qwen3-0.6b = qwen3-1.7b = qwen3-14b = qwen3-235b-2507 = qwen3-235b-a22b = qwen3-30b-2507 = qwen3-30b-a3b = qwen3-32b = qwen3-4b = qwen3-8b = qwen3-coder-30b = qwen3-coder-480b = qwen3-next-80b = qwen3-vl-32b = qwen3-vl-8b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "kimi-k2 = kimi-k2-0905 = kimi-k2-base = kimi-k2-thinking = kimi-k2.5 = kimi-k2.6 = kimi-k2.7-code = kimi-linear-48b = kimi-vl = kimi-vl-2506 = kimi-vl-thinking = moonlight-16b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "llama-2-7b = phi-3-mini = phi-3.5-mini": [
+     2,
+     2,
+     2,
+     2,
+     5,
+     5,
+     5,
+     5
+    ],
+    "llama-3-8b = llama-3.1-8b = llama-3.2-3b = llama-3.3-70b = nemotron-70b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "minicpm4-8b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     3
+    ],
+    "minimax-m1 = minimax-m2": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     1,
+     1
+    ],
+    "ministral-8b = mistral-nemo = mistral-small-24b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     3,
+     3,
+     2
+    ],
+    "mistral-large-2411": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     4,
+     2,
+     2
+    ],
+    "nemotron-mini": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     4,
+     2
+    ],
+    "olmo-2-7b = openai-cl100k = phi-4": [
+     2,
+     2,
+     2,
+     2,
+     3,
+     3,
+     3,
+     3
+    ],
+    "openai-o200k = phi-4-mini": [
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     3,
+     1
+    ],
+    "qwen3.5-27b = qwen3.5-9b = qwen3.6-27b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     1,
+     2
+    ],
+    "starcoder2-3b = starcoder2-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     3,
+     2,
+     2
+    ],
+    "xverse-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     4
+    ],
+    "yi-1.5-9b = yi-34b = yi-coder-9b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     1,
+     2
+    ]
+   },
+   "min_margin": 8
+  },
+  "qwen3.5-27b = qwen3.5-9b = qwen3.6-27b": {
+   "probes": [
+    "义市",
+    "壬癸",
+    "探针",
+    "的用",
+    "覆蓋",
+    "癸；",
+    "一來",
+    "一夕"
+   ],
+   "codes": {
+    "baichuan2-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "codellama-7b": [
+     3,
+     7,
+     7,
+     3,
+     7,
+     5,
+     5,
+     5
+    ],
+    "codestral-22b = mistral-7b-v0.1 = mixtral-8x22b = mixtral-8x7b = openchat-3.5 = zephyr-7b": [
+     3,
+     7,
+     3,
+     3,
+     5,
+     5,
+     3,
+     5
+    ],
+    "deepseek-coder-6.7b": [
+     2,
+     4,
+     2,
+     2,
+     3,
+     3,
+     3,
+     2
+    ],
+    "deepseek-coder-v2 = deepseek-v2-lite = deepseek-v2.5": [
+     2,
+     2,
+     2,
+     2,
+     3,
+     2,
+     3,
+     2
+    ],
+    "deepseek-r1 = deepseek-v3 = deepseek-v3.1 = deepseek-v4-flash = deepseek-v4-pro = deepseek-v4.1-flash = deepseek-vl2": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "ernie-4.5 = ernie-4.5-21b": [
+     2,
+     2,
+     2,
+     2,
+     4,
+     2,
+     2,
+     2
+    ],
+    "falcon-7b": [
+     4,
+     4,
+     3,
+     2,
+     4,
+     5,
+     3,
+     3
+    ],
+    "gemma-2-9b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "gemma-3-4b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "glm-4-32b-0414 = glm-4-9b-0414 = glm-4.1v-9b = glm-4.5 = glm-4.5-air = glm-4.5v = glm-4.6 = glm-z1-9b = glm-z1-rumination-32b": [
+     2,
+     2,
+     2,
+     2,
+     3,
+     2,
+     2,
+     2
+    ],
+    "glm-5 = glm-5.1 = glm-5.2 = glm-5.3": [
+     2,
+     2,
+     2,
+     2,
+     3,
+     2,
+     2,
+     2
+    ],
+    "gpt2": [
+     4,
+     5,
+     6,
+     3,
+     5,
+     6,
+     4,
+     3
+    ],
+    "granite-3.1-8b": [
+     2,
+     4,
+     2,
+     2,
+     3,
+     3,
+     2,
+     3
+    ],
+    "hunyuan-7b = hunyuan-a13b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "internlm2.5-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "internlm3-8b": [
+     2,
+     6,
+     2,
+     2,
+     4,
+     4,
+     4,
+     2
+    ],
+    "jamba-v0.1": [
+     2,
+     6,
+     2,
+     2,
+     4,
+     4,
+     2,
+     4
+    ],
+    "kimi-audio-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "kimi-dev-72b = qwen-vl = qwen1.5-7b = qwen2-7b = qwen2-vl-7b = qwen2.5-0.5b = qwen2.5-1.5b = qwen2.5-14b = qwen2.5-32b = qwen2.5-3b = qwen2.5-72b = qwen2.5-7b = qwen2.5-coder-32b = qwen2.5-coder-7b = qwen2.5-vl-72b = qwen3-0.6b = qwen3-1.7b = qwen3-14b = qwen3-235b-2507 = qwen3-235b-a22b = qwen3-30b-2507 = qwen3-30b-a3b = qwen3-32b = qwen3-4b = qwen3-8b = qwen3-coder-30b = qwen3-coder-480b = qwen3-next-80b = qwen3-vl-32b = qwen3-vl-8b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "kimi-k2 = kimi-k2-0905 = kimi-k2-base = kimi-k2-thinking = kimi-k2.5 = kimi-k2.6 = kimi-k2.7-code = kimi-linear-48b = kimi-vl = kimi-vl-2506 = kimi-vl-thinking = moonlight-16b": [
+     2,
+     2,
+     2,
+     2,
+     3,
+     2,
+     2,
+     1
+    ],
+    "llama-2-7b = phi-3-mini = phi-3.5-mini": [
+     3,
+     7,
+     7,
+     3,
+     7,
+     5,
+     5,
+     5
+    ],
+    "llama-3-8b = llama-3.1-8b = llama-3.2-3b = llama-3.3-70b = nemotron-70b": [
+     2,
+     4,
+     2,
+     2,
+     3,
+     3,
+     2,
+     2
+    ],
+    "minicpm4-8b": [
+     3,
+     5,
+     3,
+     2,
+     3,
+     5,
+     2,
+     2
+    ],
+    "minimax-m1 = minimax-m2": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2
+    ],
+    "ministral-8b = mistral-nemo = mistral-small-24b": [
+     2,
+     4,
+     3,
+     2,
+     4,
+     3,
+     2,
+     2
+    ],
+    "mistral-large-2411": [
+     2,
+     6,
+     2,
+     2,
+     4,
+     4,
+     2,
+     4
+    ],
+    "nemotron-mini": [
+     2,
+     7,
+     3,
+     2,
+     5,
+     5,
+     2,
+     4
+    ],
+    "olmo-2-7b = openai-cl100k = phi-4": [
+     2,
+     4,
+     4,
+     2,
+     5,
+     3,
+     3,
+     3
+    ],
+    "openai-o200k = phi-4-mini": [
+     2,
+     4,
+     2,
+     2,
+     3,
+     3,
+     2,
+     2
+    ],
+    "qwen3.5-27b = qwen3.5-9b = qwen3.6-27b": [
+     1,
+     3,
+     1,
+     1,
+     1,
+     3,
+     1,
+     1
+    ],
+    "starcoder2-3b = starcoder2-7b": [
+     2,
+     4,
+     2,
+     2,
+     3,
+     3,
+     2,
+     3
+    ],
+    "xverse-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     4,
+     2,
+     2
+    ],
+    "yi-1.5-9b = yi-34b = yi-coder-9b": [
+     2,
+     6,
+     2,
+     2,
+     2,
+     4,
+     2,
+     2
+    ]
+   },
+   "min_margin": 8
+  },
+  "starcoder2-3b = starcoder2-7b": {
+   "probes": [
+    "'«",
+    "减少",
+    "湖北",
+    "·",
+    "※",
+    "に対",
+    "%。",
+    "を実行"
+   ],
+   "codes": {
+    "baichuan2-7b": [
+     2,
+     1,
+     1,
+     1,
+     1,
+     2,
+     2,
+     3
+    ],
+    "codellama-7b": [
+     2,
+     5,
+     3,
+     1,
+     4,
+     5,
+     2,
+     4
+    ],
+    "codestral-22b = mistral-7b-v0.1 = mixtral-8x22b = mixtral-8x7b = openchat-3.5 = zephyr-7b": [
+     2,
+     3,
+     3,
+     1,
+     2,
+     3,
+     2,
+     4
+    ],
+    "deepseek-coder-6.7b": [
+     2,
+     1,
+     1,
+     1,
+     2,
+     4,
+     2,
+     5
+    ],
+    "deepseek-coder-v2 = deepseek-v2-lite = deepseek-v2.5": [
+     2,
+     1,
+     1,
+     1,
+     2,
+     3,
+     2,
+     4
+    ],
+    "deepseek-r1 = deepseek-v3 = deepseek-v3.1 = deepseek-v4-flash = deepseek-v4-pro = deepseek-v4.1-flash = deepseek-vl2": [
+     2,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     2
+    ],
+    "ernie-4.5 = ernie-4.5-21b": [
+     2,
+     1,
+     1,
+     1,
+     1,
+     2,
+     1,
+     3
+    ],
+    "falcon-7b": [
+     2,
+     3,
+     4,
+     1,
+     2,
+     3,
+     2,
+     4
+    ],
+    "gemma-2-9b": [
+     2,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1
+    ],
+    "gemma-3-4b": [
+     2,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1
+    ],
+    "glm-4-32b-0414 = glm-4-9b-0414 = glm-4.1v-9b = glm-4.5 = glm-4.5-air = glm-4.5v = glm-4.6 = glm-z1-9b = glm-z1-rumination-32b": [
+     2,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     2
+    ],
+    "glm-5 = glm-5.1 = glm-5.2 = glm-5.3": [
+     2,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     2
+    ],
+    "gpt2": [
+     2,
+     4,
+     5,
+     1,
+     2,
+     3,
+     2,
+     5
+    ],
+    "granite-3.1-8b": [
+     3,
+     2,
+     3,
+     1,
+     2,
+     1,
+     2,
+     1
+    ],
+    "hunyuan-7b = hunyuan-a13b": [
+     2,
+     1,
+     1,
+     1,
+     1,
+     2,
+     1,
+     3
+    ],
+    "internlm2.5-7b": [
+     2,
+     1,
+     1,
+     1,
+     1,
+     2,
+     2,
+     3
+    ],
+    "internlm3-8b": [
+     2,
+     1,
+     1,
+     1,
+     1,
+     4,
+     1,
+     5
+    ],
+    "jamba-v0.1": [
+     2,
+     2,
+     4,
+     1,
+     1,
+     2,
+     2,
+     3
+    ],
+    "kimi-audio-7b": [
+     2,
+     1,
+     1,
+     1,
+     1,
+     3,
+     2,
+     3
+    ],
+    "kimi-dev-72b = qwen-vl = qwen1.5-7b = qwen2-7b = qwen2-vl-7b = qwen2.5-0.5b = qwen2.5-1.5b = qwen2.5-14b = qwen2.5-32b = qwen2.5-3b = qwen2.5-72b = qwen2.5-7b = qwen2.5-coder-32b = qwen2.5-coder-7b = qwen2.5-vl-72b = qwen3-0.6b = qwen3-1.7b = qwen3-14b = qwen3-235b-2507 = qwen3-235b-a22b = qwen3-30b-2507 = qwen3-30b-a3b = qwen3-32b = qwen3-4b = qwen3-8b = qwen3-coder-30b = qwen3-coder-480b = qwen3-next-80b = qwen3-vl-32b = qwen3-vl-8b": [
+     2,
+     1,
+     1,
+     1,
+     1,
+     1,
+     2,
+     3
+    ],
+    "kimi-k2 = kimi-k2-0905 = kimi-k2-base = kimi-k2-thinking = kimi-k2.5 = kimi-k2.6 = kimi-k2.7-code = kimi-linear-48b = kimi-vl = kimi-vl-2506 = kimi-vl-thinking = moonlight-16b": [
+     2,
+     1,
+     1,
+     1,
+     1,
+     2,
+     1,
+     2
+    ],
+    "llama-2-7b = phi-3-mini = phi-3.5-mini": [
+     2,
+     5,
+     3,
+     1,
+     4,
+     5,
+     2,
+     4
+    ],
+    "llama-3-8b = llama-3.1-8b = llama-3.2-3b = llama-3.3-70b = nemotron-70b": [
+     2,
+     2,
+     2,
+     1,
+     1,
+     1,
+     2,
+     3
+    ],
+    "minicpm4-8b": [
+     2,
+     2,
+     2,
+     1,
+     2,
+     5,
+     2,
+     4
+    ],
+    "minimax-m1 = minimax-m2": [
+     2,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1
+    ],
+    "ministral-8b = mistral-nemo = mistral-small-24b": [
+     1,
+     3,
+     2,
+     1,
+     1,
+     2,
+     1,
+     3
+    ],
+    "mistral-large-2411": [
+     2,
+     2,
+     2,
+     1,
+     1,
+     2,
+     2,
+     3
+    ],
+    "nemotron-mini": [
+     2,
+     2,
+     1,
+     1,
+     1,
+     2,
+     2,
+     3
+    ],
+    "olmo-2-7b = openai-cl100k = phi-4": [
+     2,
+     3,
+     3,
+     1,
+     1,
+     3,
+     2,
+     4
+    ],
+    "openai-o200k = phi-4-mini": [
+     2,
+     1,
+     1,
+     1,
+     1,
+     2,
+     1,
+     3
+    ],
+    "qwen3.5-27b = qwen3.5-9b = qwen3.6-27b": [
+     2,
+     1,
+     1,
+     1,
+     1,
+     1,
+     2,
+     2
+    ],
+    "starcoder2-3b = starcoder2-7b": [
+     3,
+     1,
+     2,
+     1,
+     2,
+     2,
+     2,
+     2
+    ],
+    "xverse-7b": [
+     2,
+     2,
+     2,
+     1,
+     1,
+     2,
+     2,
+     3
+    ],
+    "yi-1.5-9b = yi-34b = yi-coder-9b": [
+     2,
+     1,
+     1,
+     1,
+     3,
+     4,
+     2,
+     5
+    ]
+   },
+   "min_margin": 4
+  },
+  "xverse-7b": {
+   "probes": [
+    "录，",
+    "WHERE",
+    "s://",
+    "*) AS",
+    "UP BY",
+    "d)) @",
+    "ps://",
+    "s://a"
+   ],
+   "codes": {
+    "baichuan2-7b": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     3,
+     2,
+     3
+    ],
+    "codellama-7b": [
+     3,
+     1,
+     2,
+     2,
+     2,
+     3,
+     2,
+     3
+    ],
+    "codestral-22b = mistral-7b-v0.1 = mixtral-8x22b = mixtral-8x7b = openchat-3.5 = zephyr-7b": [
+     3,
+     1,
+     2,
+     2,
+     2,
+     3,
+     2,
+     3
+    ],
+    "deepseek-coder-6.7b": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     3,
+     2,
+     3
+    ],
+    "deepseek-coder-v2 = deepseek-v2-lite = deepseek-v2.5": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     3,
+     2,
+     3
+    ],
+    "deepseek-r1 = deepseek-v3 = deepseek-v3.1 = deepseek-v4-flash = deepseek-v4-pro = deepseek-v4.1-flash = deepseek-vl2": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     3,
+     2,
+     3
+    ],
+    "ernie-4.5 = ernie-4.5-21b": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     3,
+     2,
+     3
+    ],
+    "falcon-7b": [
+     6,
+     1,
+     2,
+     2,
+     2,
+     4,
+     2,
+     3
+    ],
+    "gemma-2-9b": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     3,
+     2,
+     3
+    ],
+    "gemma-3-4b": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     3,
+     2,
+     3
+    ],
+    "glm-4-32b-0414 = glm-4-9b-0414 = glm-4.1v-9b = glm-4.5 = glm-4.5-air = glm-4.5v = glm-4.6 = glm-z1-9b = glm-z1-rumination-32b": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     3,
+     2,
+     3
+    ],
+    "glm-5 = glm-5.1 = glm-5.2 = glm-5.3": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     3,
+     2,
+     3
+    ],
+    "gpt2": [
+     5,
+     1,
+     2,
+     2,
+     2,
+     3,
+     2,
+     3
+    ],
+    "granite-3.1-8b": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     3,
+     2,
+     3
+    ],
+    "hunyuan-7b = hunyuan-a13b": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     3,
+     2,
+     3
+    ],
+    "internlm2.5-7b": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     3,
+     2,
+     3
+    ],
+    "internlm3-8b": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     3,
+     2,
+     3
+    ],
+    "jamba-v0.1": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     3,
+     2,
+     3
+    ],
+    "kimi-audio-7b": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     3,
+     2,
+     3
+    ],
+    "kimi-dev-72b = qwen-vl = qwen1.5-7b = qwen2-7b = qwen2-vl-7b = qwen2.5-0.5b = qwen2.5-1.5b = qwen2.5-14b = qwen2.5-32b = qwen2.5-3b = qwen2.5-72b = qwen2.5-7b = qwen2.5-coder-32b = qwen2.5-coder-7b = qwen2.5-vl-72b = qwen3-0.6b = qwen3-1.7b = qwen3-14b = qwen3-235b-2507 = qwen3-235b-a22b = qwen3-30b-2507 = qwen3-30b-a3b = qwen3-32b = qwen3-4b = qwen3-8b = qwen3-coder-30b = qwen3-coder-480b = qwen3-next-80b = qwen3-vl-32b = qwen3-vl-8b": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     3,
+     2,
+     3
+    ],
+    "kimi-k2 = kimi-k2-0905 = kimi-k2-base = kimi-k2-thinking = kimi-k2.5 = kimi-k2.6 = kimi-k2.7-code = kimi-linear-48b = kimi-vl = kimi-vl-2506 = kimi-vl-thinking = moonlight-16b": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     3,
+     2,
+     3
+    ],
+    "llama-2-7b = phi-3-mini = phi-3.5-mini": [
+     3,
+     1,
+     2,
+     2,
+     2,
+     3,
+     2,
+     3
+    ],
+    "llama-3-8b = llama-3.1-8b = llama-3.2-3b = llama-3.3-70b = nemotron-70b": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     3,
+     2,
+     3
+    ],
+    "minicpm4-8b": [
+     3,
+     1,
+     2,
+     2,
+     2,
+     3,
+     2,
+     3
+    ],
+    "minimax-m1 = minimax-m2": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     3,
+     2,
+     3
+    ],
+    "ministral-8b = mistral-nemo = mistral-small-24b": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     3,
+     2,
+     3
+    ],
+    "mistral-large-2411": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     3,
+     2,
+     3
+    ],
+    "nemotron-mini": [
+     3,
+     1,
+     2,
+     2,
+     2,
+     3,
+     2,
+     3
+    ],
+    "olmo-2-7b = openai-cl100k = phi-4": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     3,
+     2,
+     3
+    ],
+    "openai-o200k = phi-4-mini": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     3,
+     2,
+     3
+    ],
+    "qwen3.5-27b = qwen3.5-9b = qwen3.6-27b": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     3,
+     2,
+     3
+    ],
+    "starcoder2-3b = starcoder2-7b": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     3,
+     2,
+     3
+    ],
+    "xverse-7b": [
+     4,
+     4,
+     4,
+     4,
+     4,
+     5,
+     4,
+     5
+    ],
+    "yi-1.5-9b = yi-34b = yi-coder-9b": [
+     2,
+     1,
+     2,
+     2,
+     2,
+     3,
+     2,
+     3
+    ]
+   },
+   "min_margin": 16
+  },
+  "yi-1.5-9b = yi-34b = yi-coder-9b": {
+   "probes": [
+    "体上",
+    "反诉",
+    "記録",
+    "壬癸",
+    "什麼",
+    "再用",
+    "匈奴",
+    "癸；"
+   ],
+   "codes": {
+    "baichuan2-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     1,
+     1,
+     2
+    ],
+    "codellama-7b": [
+     3,
+     5,
+     5,
+     7,
+     7,
+     3,
+     7,
+     5
+    ],
+    "codestral-22b = mistral-7b-v0.1 = mixtral-8x22b = mixtral-8x7b = openchat-3.5 = zephyr-7b": [
+     3,
+     3,
+     3,
+     7,
+     5,
+     3,
+     7,
+     5
+    ],
+    "deepseek-coder-6.7b": [
+     2,
+     2,
+     5,
+     4,
+     3,
+     2,
+     4,
+     3
+    ],
+    "deepseek-coder-v2 = deepseek-v2-lite = deepseek-v2.5": [
+     2,
+     2,
+     5,
+     2,
+     3,
+     1,
+     1,
+     2
+    ],
+    "deepseek-r1 = deepseek-v3 = deepseek-v3.1 = deepseek-v4-flash = deepseek-v4-pro = deepseek-v4.1-flash = deepseek-vl2": [
+     2,
+     2,
+     2,
+     2,
+     1,
+     1,
+     1,
+     2
+    ],
+    "ernie-4.5 = ernie-4.5-21b": [
+     2,
+     2,
+     2,
+     2,
+     1,
+     1,
+     1,
+     2
+    ],
+    "falcon-7b": [
+     4,
+     2,
+     5,
+     4,
+     4,
+     2,
+     3,
+     5
+    ],
+    "gemma-2-9b": [
+     2,
+     2,
+     1,
+     2,
+     1,
+     2,
+     2,
+     2
+    ],
+    "gemma-3-4b": [
+     2,
+     2,
+     1,
+     2,
+     1,
+     2,
+     2,
+     2
+    ],
+    "glm-4-32b-0414 = glm-4-9b-0414 = glm-4.1v-9b = glm-4.5 = glm-4.5-air = glm-4.5v = glm-4.6 = glm-z1-9b = glm-z1-rumination-32b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     1,
+     1,
+     2
+    ],
+    "glm-5 = glm-5.1 = glm-5.2 = glm-5.3": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     1,
+     1,
+     2
+    ],
+    "gpt2": [
+     3,
+     4,
+     6,
+     5,
+     5,
+     4,
+     4,
+     6
+    ],
+    "granite-3.1-8b": [
+     2,
+     2,
+     2,
+     4,
+     3,
+     2,
+     4,
+     3
+    ],
+    "hunyuan-7b = hunyuan-a13b": [
+     2,
+     2,
+     3,
+     2,
+     2,
+     1,
+     1,
+     2
+    ],
+    "internlm2.5-7b": [
+     2,
+     2,
+     2,
+     2,
+     1,
+     1,
+     1,
+     2
+    ],
+    "internlm3-8b": [
+     2,
+     2,
+     6,
+     6,
+     4,
+     2,
+     4,
+     4
+    ],
+    "jamba-v0.1": [
+     2,
+     2,
+     2,
+     6,
+     4,
+     2,
+     6,
+     4
+    ],
+    "kimi-audio-7b": [
+     2,
+     2,
+     3,
+     2,
+     1,
+     2,
+     1,
+     2
+    ],
+    "kimi-dev-72b = qwen-vl = qwen1.5-7b = qwen2-7b = qwen2-vl-7b = qwen2.5-0.5b = qwen2.5-1.5b = qwen2.5-14b = qwen2.5-32b = qwen2.5-3b = qwen2.5-72b = qwen2.5-7b = qwen2.5-coder-32b = qwen2.5-coder-7b = qwen2.5-vl-72b = qwen3-0.6b = qwen3-1.7b = qwen3-14b = qwen3-235b-2507 = qwen3-235b-a22b = qwen3-30b-2507 = qwen3-30b-a3b = qwen3-32b = qwen3-4b = qwen3-8b = qwen3-coder-30b = qwen3-coder-480b = qwen3-next-80b = qwen3-vl-32b = qwen3-vl-8b": [
+     2,
+     2,
+     3,
+     2,
+     1,
+     2,
+     1,
+     2
+    ],
+    "kimi-k2 = kimi-k2-0905 = kimi-k2-base = kimi-k2-thinking = kimi-k2.5 = kimi-k2.6 = kimi-k2.7-code = kimi-linear-48b = kimi-vl = kimi-vl-2506 = kimi-vl-thinking = moonlight-16b": [
+     2,
+     2,
+     2,
+     2,
+     3,
+     1,
+     1,
+     2
+    ],
+    "llama-2-7b = phi-3-mini = phi-3.5-mini": [
+     3,
+     5,
+     5,
+     7,
+     7,
+     3,
+     7,
+     5
+    ],
+    "llama-3-8b = llama-3.1-8b = llama-3.2-3b = llama-3.3-70b = nemotron-70b": [
+     2,
+     2,
+     2,
+     4,
+     2,
+     2,
+     3,
+     3
+    ],
+    "minicpm4-8b": [
+     3,
+     2,
+     3,
+     5,
+     3,
+     2,
+     3,
+     5
+    ],
+    "minimax-m1 = minimax-m2": [
+     2,
+     2,
+     1,
+     2,
+     1,
+     1,
+     1,
+     2
+    ],
+    "ministral-8b = mistral-nemo = mistral-small-24b": [
+     2,
+     2,
+     1,
+     4,
+     3,
+     2,
+     3,
+     3
+    ],
+    "mistral-large-2411": [
+     2,
+     2,
+     2,
+     6,
+     4,
+     2,
+     6,
+     4
+    ],
+    "nemotron-mini": [
+     3,
+     3,
+     2,
+     7,
+     2,
+     2,
+     7,
+     5
+    ],
+    "olmo-2-7b = openai-cl100k = phi-4": [
+     2,
+     3,
+     3,
+     4,
+     5,
+     2,
+     4,
+     3
+    ],
+    "openai-o200k = phi-4-mini": [
+     2,
+     2,
+     2,
+     4,
+     2,
+     2,
+     3,
+     3
+    ],
+    "qwen3.5-27b = qwen3.5-9b = qwen3.6-27b": [
+     2,
+     2,
+     1,
+     3,
+     1,
+     1,
+     1,
+     3
+    ],
+    "starcoder2-3b = starcoder2-7b": [
+     2,
+     2,
+     2,
+     4,
+     3,
+     2,
+     4,
+     3
+    ],
+    "xverse-7b": [
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     4
+    ],
+    "yi-1.5-9b = yi-34b = yi-coder-9b": [
+     1,
+     1,
+     4,
+     6,
+     1,
+     1,
+     2,
+     4
+    ]
+   },
+   "min_margin": 10
+  }
+ }
+}

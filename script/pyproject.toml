@@ -1,0 +1,23 @@
+[project]
+name = "script"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "'zz'", email = "'10914254+ivizz@user.noreply.gitee.com'" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "openai>=3.46.0",
+    "tokenizers>=0.23",
+    "sentencepiece>=0.2",
+    "tiktoken>=0.12",
+    "numpy>=2.0",
+]
+
+[project.scripts]
+script = "script:main"
+
+[build-system]
+requires = ["uv_build>=0.12.0,<0.13.0"]
+build-backend = "uv_build"

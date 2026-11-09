@@ -1,0 +1,16 @@
+# 只保留源码和小体积数据；tokenizer 文件用 fetch_models.py 现拉
+.work/
+script/data/tokenizers/
+script/.venv/
+script/__pycache__/
+**/__pycache__/
+*.pyc
+.env
+.env.*
+.venv/
+venv/
+node_modules/
+
+# 运行产物
+out/
+*.log
